@@ -1,0 +1,14 @@
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\bin\Debug\net6.0\06.EasterDecoration.exe
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\bin\Debug\net6.0\06.EasterDecoration.deps.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\bin\Debug\net6.0\06.EasterDecoration.runtimeconfig.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\bin\Debug\net6.0\06.EasterDecoration.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\bin\Debug\net6.0\06.EasterDecoration.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.AssemblyInfoInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.AssemblyInfo.cs
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\refint\06.EasterDecoration.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\06.EasterDecoration.genruntimeconfig.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\06.EasterDecoration\obj\Debug\net6.0\ref\06.EasterDecoration.dll

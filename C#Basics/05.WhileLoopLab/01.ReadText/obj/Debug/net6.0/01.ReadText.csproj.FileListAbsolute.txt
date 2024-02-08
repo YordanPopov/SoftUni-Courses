@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\bin\Debug\net6.0\01.ReadText.exe
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\bin\Debug\net6.0\01.ReadText.deps.json
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\bin\Debug\net6.0\01.ReadText.runtimeconfig.json
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\bin\Debug\net6.0\01.ReadText.dll
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\bin\Debug\net6.0\01.ReadText.pdb
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfo.cs
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.dll
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\refint\01.ReadText.dll
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.pdb
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\01.ReadText.genruntimeconfig.cache
+D:\SoftUni\C#\05.WhileLoopLab\01.ReadText\obj\Debug\net6.0\ref\01.ReadText.dll

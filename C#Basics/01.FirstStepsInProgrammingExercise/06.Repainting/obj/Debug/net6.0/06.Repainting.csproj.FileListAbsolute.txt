@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\bin\Debug\net6.0\06.Repainting.exe
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\bin\Debug\net6.0\06.Repainting.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\bin\Debug\net6.0\06.Repainting.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\bin\Debug\net6.0\06.Repainting.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\bin\Debug\net6.0\06.Repainting.pdb
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\refint\06.Repainting.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.pdb
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\06.Repainting.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\06.Repainting\obj\Debug\net6.0\ref\06.Repainting.dll

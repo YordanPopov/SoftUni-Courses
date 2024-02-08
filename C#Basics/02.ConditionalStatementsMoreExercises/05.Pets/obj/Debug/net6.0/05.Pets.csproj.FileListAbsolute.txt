@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.exe
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\refint\05.Pets.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\05.Pets\obj\Debug\net6.0\ref\05.Pets.dll

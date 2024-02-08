@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.exe
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.deps.json
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.runtimeconfig.json
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.dll
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.dll
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\refint\06.OperationsBetweenNumbers.dll
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+D:\SoftUni\C#\03.NewHouse\06.OperationsBetweenNumbers\obj\Debug\net6.0\ref\06.OperationsBetweenNumbers.dll

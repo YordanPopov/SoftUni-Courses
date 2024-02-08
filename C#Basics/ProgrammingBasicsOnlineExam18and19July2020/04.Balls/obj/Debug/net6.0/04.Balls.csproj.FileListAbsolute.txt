@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\bin\Debug\net6.0\04.Balls.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\bin\Debug\net6.0\04.Balls.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\bin\Debug\net6.0\04.Balls.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\bin\Debug\net6.0\04.Balls.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\bin\Debug\net6.0\04.Balls.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\refint\04.Balls.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\04.Balls.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\04.Balls\obj\Debug\net6.0\ref\04.Balls.dll

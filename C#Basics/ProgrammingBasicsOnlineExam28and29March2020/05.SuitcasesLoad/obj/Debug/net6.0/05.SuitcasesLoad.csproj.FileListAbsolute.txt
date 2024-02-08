@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\refint\05.SuitcasesLoad.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\05.SuitcasesLoad\obj\Debug\net6.0\ref\05.SuitcasesLoad.dll

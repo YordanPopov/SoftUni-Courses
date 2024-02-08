@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\refint\05.PCGameShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\05.PCGameShop\obj\Debug\net6.0\ref\05.PCGameShop.dll

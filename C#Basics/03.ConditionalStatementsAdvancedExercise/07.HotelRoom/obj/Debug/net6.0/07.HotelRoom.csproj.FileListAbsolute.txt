@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\refint\07.HotelRoom.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\07.HotelRoom\obj\Debug\net6.0\ref\07.HotelRoom.dll

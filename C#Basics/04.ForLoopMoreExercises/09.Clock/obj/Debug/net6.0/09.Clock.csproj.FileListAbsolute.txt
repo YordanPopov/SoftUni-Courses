@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\bin\Debug\net6.0\09.Clock.exe
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\bin\Debug\net6.0\09.Clock.deps.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\bin\Debug\net6.0\09.Clock.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\bin\Debug\net6.0\09.Clock.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\bin\Debug\net6.0\09.Clock.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\refint\09.Clock.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\09.Clock.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\09.Clock\obj\Debug\net6.0\ref\09.Clock.dll

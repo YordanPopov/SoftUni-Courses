@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\bin\Debug\net6.0\01.HelloWorld.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\bin\Debug\net6.0\01.HelloWorld.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\bin\Debug\net6.0\01.HelloWorld.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\bin\Debug\net6.0\01.HelloWorld.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\bin\Debug\net6.0\01.HelloWorld.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\refint\01.HelloWorld.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\01.HelloWorld.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\01.HelloWorld\obj\Debug\net6.0\ref\01.HelloWorld.dll

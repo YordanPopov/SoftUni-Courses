@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\bin\Debug\net6.0\01.UsdToBgn.exe
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\bin\Debug\net6.0\01.UsdToBgn.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\bin\Debug\net6.0\01.UsdToBgn.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\bin\Debug\net6.0\01.UsdToBgn.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\bin\Debug\net6.0\01.UsdToBgn.pdb
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\refint\01.UsdToBgn.dll
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.pdb
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\01.UsdToBgn.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgrammingExercise\01.UsdToBgn\obj\Debug\net6.0\ref\01.UsdToBgn.dll

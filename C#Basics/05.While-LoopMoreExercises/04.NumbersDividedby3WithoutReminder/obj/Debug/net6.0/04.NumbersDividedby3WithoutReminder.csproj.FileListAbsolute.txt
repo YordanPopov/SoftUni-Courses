@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\bin\Debug\net6.0\04.NumbersDividedby3WithoutReminder.exe
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\bin\Debug\net6.0\04.NumbersDividedby3WithoutReminder.deps.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\bin\Debug\net6.0\04.NumbersDividedby3WithoutReminder.runtimeconfig.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\bin\Debug\net6.0\04.NumbersDividedby3WithoutReminder.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\bin\Debug\net6.0\04.NumbersDividedby3WithoutReminder.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.AssemblyInfo.cs
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\refint\04.NumbersDividedby3WithoutReminder.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\04.NumbersDividedby3WithoutReminder.genruntimeconfig.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\04.NumbersDividedby3WithoutReminder\obj\Debug\net6.0\ref\04.NumbersDividedby3WithoutReminder.dll

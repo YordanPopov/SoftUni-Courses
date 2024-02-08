@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\bin\Debug\net6.0\01.TennisЕquipment.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\bin\Debug\net6.0\01.TennisЕquipment.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\bin\Debug\net6.0\01.TennisЕquipment.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\bin\Debug\net6.0\01.TennisЕquipment.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\bin\Debug\net6.0\01.TennisЕquipment.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\refint\01.TennisЕquipment.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\01.TennisЕquipment.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam9and10March2019\01.TennisЕquipment\obj\Debug\net6.0\ref\01.TennisЕquipment.dll

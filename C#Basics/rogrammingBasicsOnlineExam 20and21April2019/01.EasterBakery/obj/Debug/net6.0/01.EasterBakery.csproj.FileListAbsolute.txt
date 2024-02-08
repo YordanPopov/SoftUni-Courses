@@ -1,0 +1,14 @@
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.exe
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.deps.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.runtimeconfig.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfoInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfo.cs
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\refint\01.EasterBakery.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.genruntimeconfig.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterBakery\obj\Debug\net6.0\ref\01.EasterBakery.dll

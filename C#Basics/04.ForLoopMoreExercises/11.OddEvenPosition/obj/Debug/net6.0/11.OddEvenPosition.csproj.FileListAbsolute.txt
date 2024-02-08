@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\bin\Debug\net6.0\11.OddEvenPosition.exe
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\bin\Debug\net6.0\11.OddEvenPosition.deps.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\bin\Debug\net6.0\11.OddEvenPosition.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\bin\Debug\net6.0\11.OddEvenPosition.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\bin\Debug\net6.0\11.OddEvenPosition.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\refint\11.OddEvenPosition.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\11.OddEvenPosition.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\11.OddEvenPosition\obj\Debug\net6.0\ref\11.OddEvenPosition.dll

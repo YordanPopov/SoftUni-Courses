@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\refint\04.CinemaVoucher.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\04.CinemaVoucher\obj\Debug\net6.0\ref\04.CinemaVoucher.dll

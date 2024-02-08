@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.exe
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\refint\08.LunchBreak.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\08.LunchBreak\obj\Debug\net6.0\ref\08.LunchBreak.dll

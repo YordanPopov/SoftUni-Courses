@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\bin\Debug\net6.0\03.Mobileoperator.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\bin\Debug\net6.0\03.Mobileoperator.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\bin\Debug\net6.0\03.Mobileoperator.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\bin\Debug\net6.0\03.Mobileoperator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\bin\Debug\net6.0\03.Mobileoperator.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\refint\03.Mobileoperator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\03.Mobileoperator.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\03.Mobileoperator\obj\Debug\net6.0\ref\03.Mobileoperator.dll

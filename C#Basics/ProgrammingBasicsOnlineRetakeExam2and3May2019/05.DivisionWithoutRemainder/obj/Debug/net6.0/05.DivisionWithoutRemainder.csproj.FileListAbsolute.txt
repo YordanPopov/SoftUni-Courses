@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\refint\05.DivisionWithoutRemainder.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\ref\05.DivisionWithoutRemainder.dll

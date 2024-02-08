@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\refint\01.TrapeziodArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\ref\01.TrapeziodArea.dll

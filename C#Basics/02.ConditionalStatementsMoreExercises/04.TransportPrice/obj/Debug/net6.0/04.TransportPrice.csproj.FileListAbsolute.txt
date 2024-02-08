@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\bin\Debug\net6.0\04.TransportPrice.exe
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\bin\Debug\net6.0\04.TransportPrice.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\bin\Debug\net6.0\04.TransportPrice.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\bin\Debug\net6.0\04.TransportPrice.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\bin\Debug\net6.0\04.TransportPrice.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\refint\04.TransportPrice.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\04.TransportPrice.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\04.TransportPrice\obj\Debug\net6.0\ref\04.TransportPrice.dll

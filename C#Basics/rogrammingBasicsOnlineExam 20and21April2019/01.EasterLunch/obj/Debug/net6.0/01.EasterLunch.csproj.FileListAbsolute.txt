@@ -1,0 +1,14 @@
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.exe
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.deps.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.runtimeconfig.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.AssemblyInfoInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.AssemblyInfo.cs
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\refint\01.EasterLunch.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.genruntimeconfig.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\01.EasterLunch\obj\Debug\net6.0\ref\01.EasterLunch.dll

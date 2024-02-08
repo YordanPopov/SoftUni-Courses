@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+D:\SoftUni\C#\03.NewHouse\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll

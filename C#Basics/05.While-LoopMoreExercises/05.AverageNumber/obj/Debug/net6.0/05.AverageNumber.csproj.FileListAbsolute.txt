@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.exe
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.deps.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.runtimeconfig.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.AssemblyInfo.cs
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\refint\05.AverageNumber.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.genruntimeconfig.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\05.AverageNumber\obj\Debug\net6.0\ref\05.AverageNumber.dll

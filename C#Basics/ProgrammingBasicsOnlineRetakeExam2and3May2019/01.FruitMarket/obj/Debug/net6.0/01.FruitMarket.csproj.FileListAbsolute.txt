@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\refint\01.FruitMarket.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FruitMarket\obj\Debug\net6.0\ref\01.FruitMarket.dll

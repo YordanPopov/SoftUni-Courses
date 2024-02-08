@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\refint\10.MultiplyBy2.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\10.MultiplyBy2\obj\Debug\net6.0\ref\10.MultiplyBy2.dll

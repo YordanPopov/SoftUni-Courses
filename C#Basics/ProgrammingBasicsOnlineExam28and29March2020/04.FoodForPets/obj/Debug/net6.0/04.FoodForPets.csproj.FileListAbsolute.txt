@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\bin\Debug\net6.0\04.FoodForPets.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\bin\Debug\net6.0\04.FoodForPets.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\bin\Debug\net6.0\04.FoodForPets.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\bin\Debug\net6.0\04.FoodForPets.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\bin\Debug\net6.0\04.FoodForPets.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\refint\04.FoodForPets.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\04.FoodForPets.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.FoodForPets\obj\Debug\net6.0\ref\04.FoodForPets.dll

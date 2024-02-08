@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\refint\02.SummerOutfit.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\ref\02.SummerOutfit.dll

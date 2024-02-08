@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.exe
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.deps.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.runtimeconfig.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.AssemblyInfo.cs
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\refint\03.StreamOfLetters.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.genruntimeconfig.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\03.StreamOfLetters\obj\Debug\net6.0\ref\03.StreamOfLetters.dll

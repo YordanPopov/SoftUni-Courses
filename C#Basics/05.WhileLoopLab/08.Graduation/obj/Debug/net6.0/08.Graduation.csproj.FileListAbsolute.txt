@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\bin\Debug\net6.0\08.Graduation.exe
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\bin\Debug\net6.0\08.Graduation.deps.json
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\bin\Debug\net6.0\08.Graduation.runtimeconfig.json
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\bin\Debug\net6.0\08.Graduation.dll
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\bin\Debug\net6.0\08.Graduation.pdb
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.AssemblyInfo.cs
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.dll
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\refint\08.Graduation.dll
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.pdb
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\08.Graduation.genruntimeconfig.cache
+D:\SoftUni\C#\05.WhileLoopLab\08.Graduation\obj\Debug\net6.0\ref\08.Graduation.dll

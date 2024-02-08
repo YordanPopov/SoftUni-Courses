@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\bin\Debug\net6.0\01.BackToThePast.exe
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\bin\Debug\net6.0\01.BackToThePast.deps.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\bin\Debug\net6.0\01.BackToThePast.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\bin\Debug\net6.0\01.BackToThePast.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\bin\Debug\net6.0\01.BackToThePast.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\refint\01.BackToThePast.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\01.BackToThePast.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\01.BackToThePast\obj\Debug\net6.0\ref\01.BackToThePast.dll

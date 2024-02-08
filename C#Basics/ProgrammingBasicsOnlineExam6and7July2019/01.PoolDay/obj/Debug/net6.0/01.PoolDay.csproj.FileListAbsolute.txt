@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\bin\Debug\net6.0\01.PoolDay.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\bin\Debug\net6.0\01.PoolDay.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\bin\Debug\net6.0\01.PoolDay.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\bin\Debug\net6.0\01.PoolDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\bin\Debug\net6.0\01.PoolDay.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\refint\01.PoolDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\01.PoolDay.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\01.PoolDay\obj\Debug\net6.0\ref\01.PoolDay.dll

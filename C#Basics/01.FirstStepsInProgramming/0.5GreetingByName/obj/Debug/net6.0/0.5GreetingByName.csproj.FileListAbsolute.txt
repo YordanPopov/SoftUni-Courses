@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\bin\Debug\net6.0\0.5GreetingByName.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\bin\Debug\net6.0\0.5GreetingByName.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\bin\Debug\net6.0\0.5GreetingByName.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\bin\Debug\net6.0\0.5GreetingByName.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\bin\Debug\net6.0\0.5GreetingByName.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\refint\0.5GreetingByName.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\0.5GreetingByName.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\0.5GreetingByName\obj\Debug\net6.0\ref\0.5GreetingByName.dll

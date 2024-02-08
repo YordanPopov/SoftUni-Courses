@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\bin\Debug\net6.0\04.Trekking Mania.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\bin\Debug\net6.0\04.Trekking Mania.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\bin\Debug\net6.0\04.Trekking Mania.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\bin\Debug\net6.0\04.Trekking Mania.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\bin\Debug\net6.0\04.Trekking Mania.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\refint\04.Trekking Mania.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\04.Trekking Mania.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\04.Trekking Mania\obj\Debug\net6.0\ref\04.Trekking Mania.dll

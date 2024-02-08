@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\refint\06.TruckDriver.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\06.TruckDriver\obj\Debug\net6.0\ref\06.TruckDriver.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\bin\Debug\net6.0\09.WeatherForecast.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\bin\Debug\net6.0\09.WeatherForecast.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\bin\Debug\net6.0\09.WeatherForecast.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\bin\Debug\net6.0\09.WeatherForecast.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\bin\Debug\net6.0\09.WeatherForecast.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\refint\09.WeatherForecast.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\09.WeatherForecast.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\09.WeatherForecast\obj\Debug\net6.0\ref\09.WeatherForecast.dll

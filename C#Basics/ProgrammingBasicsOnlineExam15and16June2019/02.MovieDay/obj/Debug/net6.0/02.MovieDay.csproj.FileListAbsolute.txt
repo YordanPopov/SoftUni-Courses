@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\bin\Debug\net6.0\02.MovieDay.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\bin\Debug\net6.0\02.MovieDay.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\bin\Debug\net6.0\02.MovieDay.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\bin\Debug\net6.0\02.MovieDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\bin\Debug\net6.0\02.MovieDay.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\refint\02.MovieDay.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\02.MovieDay.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\02.MovieDay\obj\Debug\net6.0\ref\02.MovieDay.dll

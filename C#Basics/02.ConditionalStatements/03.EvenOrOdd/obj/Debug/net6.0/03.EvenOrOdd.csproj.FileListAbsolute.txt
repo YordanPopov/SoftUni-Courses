@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.exe
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.deps.json
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.dll
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.pdb
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.dll
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\refint\03.EvenOrOdd.dll
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.pdb
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatements\03.EvenOrOdd\obj\Debug\net6.0\ref\03.EvenOrOdd.dll

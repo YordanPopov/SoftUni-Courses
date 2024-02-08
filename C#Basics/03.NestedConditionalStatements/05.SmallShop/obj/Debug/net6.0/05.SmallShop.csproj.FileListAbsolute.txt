@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\bin\Debug\net6.0\05.SmallShop.exe
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\bin\Debug\net6.0\05.SmallShop.deps.json
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\bin\Debug\net6.0\05.SmallShop.runtimeconfig.json
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\bin\Debug\net6.0\05.SmallShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\bin\Debug\net6.0\05.SmallShop.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.AssemblyInfo.cs
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\refint\05.SmallShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\05.SmallShop.genruntimeconfig.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\05.SmallShop\obj\Debug\net6.0\ref\05.SmallShop.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\bin\Debug\net6.0\05.Salary.exe
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\bin\Debug\net6.0\05.Salary.deps.json
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\bin\Debug\net6.0\05.Salary.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\bin\Debug\net6.0\05.Salary.dll
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\bin\Debug\net6.0\05.Salary.pdb
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.dll
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\refint\05.Salary.dll
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.pdb
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\05.Salary.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopExercise\05.Salary\obj\Debug\net6.0\ref\05.Salary.dll

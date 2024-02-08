@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\bin\Debug\net6.0\03.FitnessCard.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\bin\Debug\net6.0\03.FitnessCard.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\bin\Debug\net6.0\03.FitnessCard.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\bin\Debug\net6.0\03.FitnessCard.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\bin\Debug\net6.0\03.FitnessCard.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\refint\03.FitnessCard.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\03.FitnessCard.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.FitnessCard\obj\Debug\net6.0\ref\03.FitnessCard.dll

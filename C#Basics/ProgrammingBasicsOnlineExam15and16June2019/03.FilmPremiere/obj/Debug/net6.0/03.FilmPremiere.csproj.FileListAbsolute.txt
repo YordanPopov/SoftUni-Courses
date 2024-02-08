@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\bin\Debug\net6.0\03.FilmPremiere.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\bin\Debug\net6.0\03.FilmPremiere.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\bin\Debug\net6.0\03.FilmPremiere.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\bin\Debug\net6.0\03.FilmPremiere.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\bin\Debug\net6.0\03.FilmPremiere.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\refint\03.FilmPremiere.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\03.FilmPremiere.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.FilmPremiere\obj\Debug\net6.0\ref\03.FilmPremiere.dll

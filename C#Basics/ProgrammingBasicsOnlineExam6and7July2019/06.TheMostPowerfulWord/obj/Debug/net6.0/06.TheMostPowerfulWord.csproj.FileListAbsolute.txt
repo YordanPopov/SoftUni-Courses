@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\bin\Debug\net6.0\06.TheMostPowerfulWord.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\bin\Debug\net6.0\06.TheMostPowerfulWord.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\bin\Debug\net6.0\06.TheMostPowerfulWord.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\bin\Debug\net6.0\06.TheMostPowerfulWord.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\bin\Debug\net6.0\06.TheMostPowerfulWord.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\refint\06.TheMostPowerfulWord.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\06.TheMostPowerfulWord.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7July2019\06.TheMostPowerfulWord\obj\Debug\net6.0\ref\06.TheMostPowerfulWord.dll

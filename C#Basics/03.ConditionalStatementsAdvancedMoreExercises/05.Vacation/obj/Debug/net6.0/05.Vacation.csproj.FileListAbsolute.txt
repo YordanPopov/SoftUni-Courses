@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\refint\05.Vacation.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\ref\05.Vacation.dll

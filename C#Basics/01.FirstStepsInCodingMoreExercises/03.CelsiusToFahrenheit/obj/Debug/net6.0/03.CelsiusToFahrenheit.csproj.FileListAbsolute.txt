@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\refint\03.CelsiusToFahrenheit.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\ref\03.CelsiusToFahrenheit.dll

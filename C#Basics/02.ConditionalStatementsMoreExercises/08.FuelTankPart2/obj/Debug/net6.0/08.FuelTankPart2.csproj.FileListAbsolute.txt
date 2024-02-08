@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\bin\Debug\net6.0\08.FuelTankPart2.exe
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\bin\Debug\net6.0\08.FuelTankPart2.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\bin\Debug\net6.0\08.FuelTankPart2.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\bin\Debug\net6.0\08.FuelTankPart2.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\bin\Debug\net6.0\08.FuelTankPart2.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\refint\08.FuelTankPart2.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\08.FuelTankPart2.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\08.FuelTankPart2\obj\Debug\net6.0\ref\08.FuelTankPart2.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.exe
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.deps.json
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.dll
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.pdb
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.dll
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\refint\07.SumNumbers.dll
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.pdb
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoop Lab\07.SumNumbers\obj\Debug\net6.0\ref\07.SumNumbers.dll

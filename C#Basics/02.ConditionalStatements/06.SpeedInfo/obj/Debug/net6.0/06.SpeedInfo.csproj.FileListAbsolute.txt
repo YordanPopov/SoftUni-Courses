@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.exe
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.deps.json
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.dll
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.pdb
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.dll
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\refint\06.SpeedInfo.dll
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.pdb
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatements\06.SpeedInfo\obj\Debug\net6.0\ref\06.SpeedInfo.dll

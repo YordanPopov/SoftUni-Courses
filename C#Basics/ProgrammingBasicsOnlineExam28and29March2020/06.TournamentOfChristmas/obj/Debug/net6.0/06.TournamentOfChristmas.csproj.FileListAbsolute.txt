@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\bin\Debug\net6.0\06.TournamentOfChristmas.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\bin\Debug\net6.0\06.TournamentOfChristmas.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\bin\Debug\net6.0\06.TournamentOfChristmas.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\bin\Debug\net6.0\06.TournamentOfChristmas.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\bin\Debug\net6.0\06.TournamentOfChristmas.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\refint\06.TournamentOfChristmas.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\06.TournamentOfChristmas.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\06.TournamentOfChristmas\obj\Debug\net6.0\ref\06.TournamentOfChristmas.dll

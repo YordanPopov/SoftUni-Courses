@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.exe
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\refint\01.SumSeconds.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\01.SumSeconds\obj\Debug\net6.0\ref\01.SumSeconds.dll

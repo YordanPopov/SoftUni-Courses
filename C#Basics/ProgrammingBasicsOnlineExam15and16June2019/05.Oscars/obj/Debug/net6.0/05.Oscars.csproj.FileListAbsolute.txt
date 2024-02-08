@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\bin\Debug\net6.0\05.Oscars.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\bin\Debug\net6.0\05.Oscars.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\bin\Debug\net6.0\05.Oscars.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\bin\Debug\net6.0\05.Oscars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\bin\Debug\net6.0\05.Oscars.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\refint\05.Oscars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\05.Oscars.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Oscars\obj\Debug\net6.0\ref\05.Oscars.dll

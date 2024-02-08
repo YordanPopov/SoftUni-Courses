@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.exe
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.deps.json
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.dll
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.pdb
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.dll
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\refint\01.NumbersEndingIn7.dll
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.pdb
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopExercise\01.NumbersEndingIn7\obj\Debug\net6.0\ref\01.NumbersEndingIn7.dll

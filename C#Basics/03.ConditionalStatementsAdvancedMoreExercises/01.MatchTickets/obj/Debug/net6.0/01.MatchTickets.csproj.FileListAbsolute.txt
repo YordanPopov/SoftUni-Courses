@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\refint\01.MatchTickets.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\01.MatchTickets\obj\Debug\net6.0\ref\01.MatchTickets.dll

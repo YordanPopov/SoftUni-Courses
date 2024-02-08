@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\bin\Debug\net6.0\02.CatWalking.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\bin\Debug\net6.0\02.CatWalking.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\bin\Debug\net6.0\02.CatWalking.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\bin\Debug\net6.0\02.CatWalking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\bin\Debug\net6.0\02.CatWalking.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\refint\02.CatWalking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\02.CatWalking.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\02.CatWalking\obj\Debug\net6.0\ref\02.CatWalking.dll

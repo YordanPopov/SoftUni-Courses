@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\bin\Debug\net6.0\05.MovieRatings.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\bin\Debug\net6.0\05.MovieRatings.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\bin\Debug\net6.0\05.MovieRatings.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\bin\Debug\net6.0\05.MovieRatings.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\bin\Debug\net6.0\05.MovieRatings.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\refint\05.MovieRatings.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\05.MovieRatings.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\05.MovieRatings\obj\Debug\net6.0\ref\05.MovieRatings.dll

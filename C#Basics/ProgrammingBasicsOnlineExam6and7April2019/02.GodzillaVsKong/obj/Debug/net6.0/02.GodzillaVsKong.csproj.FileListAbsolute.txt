@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\bin\Debug\net6.0\02.GodzillaVsKong.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\bin\Debug\net6.0\02.GodzillaVsKong.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\bin\Debug\net6.0\02.GodzillaVsKong.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\bin\Debug\net6.0\02.GodzillaVsKong.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\bin\Debug\net6.0\02.GodzillaVsKong.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\refint\02.GodzillaVsKong.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\02.GodzillaVsKong.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\02.GodzillaVsKong\obj\Debug\net6.0\ref\02.GodzillaVsKong.dll

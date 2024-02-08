@@ -1,0 +1,14 @@
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.exe
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.deps.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.runtimeconfig.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.AssemblyInfoInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.AssemblyInfo.cs
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\refint\03.PaintingEggs.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.genruntimeconfig.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\03.PaintingEggs\obj\Debug\net6.0\ref\03.PaintingEggs.dll

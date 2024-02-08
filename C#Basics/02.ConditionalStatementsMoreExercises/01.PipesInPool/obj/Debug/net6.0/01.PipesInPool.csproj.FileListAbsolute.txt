@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.exe
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\refint\01.PipesInPool.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\01.PipesInPool\obj\Debug\net6.0\ref\01.PipesInPool.dll

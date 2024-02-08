@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.exe
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\refint\06.FlowerShop.dll
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.pdb
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsMoreExercises\06.FlowerShop\obj\Debug\net6.0\ref\06.FlowerShop.dll

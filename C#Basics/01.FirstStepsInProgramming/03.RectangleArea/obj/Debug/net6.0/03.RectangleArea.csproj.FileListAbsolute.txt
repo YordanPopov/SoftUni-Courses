@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll

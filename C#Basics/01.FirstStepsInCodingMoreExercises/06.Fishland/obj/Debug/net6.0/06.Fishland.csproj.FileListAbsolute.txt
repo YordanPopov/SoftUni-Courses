@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\refint\06.Fishland.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\06.Fishland\obj\Debug\net6.0\ref\06.Fishland.dll

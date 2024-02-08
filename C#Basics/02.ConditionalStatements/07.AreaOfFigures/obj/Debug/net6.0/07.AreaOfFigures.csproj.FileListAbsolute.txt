@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\bin\Debug\net6.0\07.AreaOfFigures.exe
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\bin\Debug\net6.0\07.AreaOfFigures.deps.json
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\bin\Debug\net6.0\07.AreaOfFigures.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\bin\Debug\net6.0\07.AreaOfFigures.dll
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\bin\Debug\net6.0\07.AreaOfFigures.pdb
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.dll
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\refint\07.AreaOfFigures.dll
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.pdb
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\07.AreaOfFigures.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatements\07.AreaOfFigures\obj\Debug\net6.0\ref\07.AreaOfFigures.dll

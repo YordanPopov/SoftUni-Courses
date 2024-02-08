@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\bin\Debug\net6.0\05. Number100to200.exe
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\bin\Debug\net6.0\05. Number100to200.deps.json
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\bin\Debug\net6.0\05. Number100to200.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\bin\Debug\net6.0\05. Number100to200.dll
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\bin\Debug\net6.0\05. Number100to200.pdb
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.dll
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\refint\05. Number100to200.dll
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.pdb
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\05. Number100to200.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatements\05. Number100to200\obj\Debug\net6.0\ref\05. Number100to200.dll

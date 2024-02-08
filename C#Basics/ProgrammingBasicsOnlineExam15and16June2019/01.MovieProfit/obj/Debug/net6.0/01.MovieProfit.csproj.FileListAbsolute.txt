@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\bin\Debug\net6.0\01.MovieProfit.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\bin\Debug\net6.0\01.MovieProfit.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\bin\Debug\net6.0\01.MovieProfit.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\bin\Debug\net6.0\01.MovieProfit.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\bin\Debug\net6.0\01.MovieProfit.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\refint\01.MovieProfit.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\01.MovieProfit.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.MovieProfit\obj\Debug\net6.0\ref\01.MovieProfit.dll

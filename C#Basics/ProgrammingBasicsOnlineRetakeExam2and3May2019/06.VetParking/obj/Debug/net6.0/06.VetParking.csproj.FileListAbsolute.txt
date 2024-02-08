@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\net6.0\06.VetParking.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\net6.0\06.VetParking.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\net6.0\06.VetParking.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\net6.0\06.VetParking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\net6.0\06.VetParking.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\refint\06.VetParking.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\06.VetParking.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\net6.0\ref\06.VetParking.dll

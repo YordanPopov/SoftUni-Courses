@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\bin\Debug\net6.0\09.YardGreening.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\bin\Debug\net6.0\09.YardGreening.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\bin\Debug\net6.0\09.YardGreening.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\bin\Debug\net6.0\09.YardGreening.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\bin\Debug\net6.0\09.YardGreening.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\refint\09.YardGreening.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\09.YardGreening.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\09.YardGreening\obj\Debug\net6.0\ref\09.YardGreening.dll

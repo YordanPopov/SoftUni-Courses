@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\refint\04.VegetableMarket.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\ref\04.VegetableMarket.dll

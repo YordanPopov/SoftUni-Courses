@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\bin\Debug\net6.0\04.MovieStars.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\bin\Debug\net6.0\04.MovieStars.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\bin\Debug\net6.0\04.MovieStars.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\bin\Debug\net6.0\04.MovieStars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\bin\Debug\net6.0\04.MovieStars.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\refint\04.MovieStars.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\04.MovieStars.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\04.MovieStars\obj\Debug\net6.0\ref\04.MovieStars.dll

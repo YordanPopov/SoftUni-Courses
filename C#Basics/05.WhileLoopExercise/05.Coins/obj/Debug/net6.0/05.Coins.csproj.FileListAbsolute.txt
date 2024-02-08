@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.AssemblyInfo.cs
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\bin\Debug\net6.0\05.Coins.exe
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\bin\Debug\net6.0\05.Coins.deps.json
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\bin\Debug\net6.0\05.Coins.runtimeconfig.json
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\bin\Debug\net6.0\05.Coins.dll
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\bin\Debug\net6.0\05.Coins.pdb
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.dll
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\refint\05.Coins.dll
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.pdb
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\05.Coins.genruntimeconfig.cache
+D:\SoftUni\C#\05.WhileLoopExercise\05.Coins\obj\Debug\net6.0\ref\05.Coins.dll

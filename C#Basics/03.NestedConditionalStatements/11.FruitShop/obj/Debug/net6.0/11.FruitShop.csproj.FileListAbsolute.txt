@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\bin\Debug\net6.0\11.FruitShop.exe
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\bin\Debug\net6.0\11.FruitShop.deps.json
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\bin\Debug\net6.0\11.FruitShop.runtimeconfig.json
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\bin\Debug\net6.0\11.FruitShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\bin\Debug\net6.0\11.FruitShop.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfo.cs
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\refint\11.FruitShop.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\11.FruitShop.genruntimeconfig.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\11.FruitShop\obj\Debug\net6.0\ref\11.FruitShop.dll

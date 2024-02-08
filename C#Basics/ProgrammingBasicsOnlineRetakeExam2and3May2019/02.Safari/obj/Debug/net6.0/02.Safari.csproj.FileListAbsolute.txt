@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\net6.0\02.Safari.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\net6.0\02.Safari.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\net6.0\02.Safari.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\net6.0\02.Safari.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\net6.0\02.Safari.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\refint\02.Safari.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\02.Safari.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\net6.0\ref\02.Safari.dll

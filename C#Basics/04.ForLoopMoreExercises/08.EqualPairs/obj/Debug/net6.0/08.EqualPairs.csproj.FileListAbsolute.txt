@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.exe
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.deps.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\refint\08.EqualPairs.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\08.EqualPairs\obj\Debug\net6.0\ref\08.EqualPairs.dll

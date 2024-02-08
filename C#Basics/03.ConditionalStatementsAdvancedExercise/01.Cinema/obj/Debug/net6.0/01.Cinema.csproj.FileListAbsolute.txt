@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\bin\Debug\net6.0\01.Cinema.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\bin\Debug\net6.0\01.Cinema.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\bin\Debug\net6.0\01.Cinema.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\bin\Debug\net6.0\01.Cinema.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\bin\Debug\net6.0\01.Cinema.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\refint\01.Cinema.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\01.Cinema.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedExercise\01.Cinema\obj\Debug\net6.0\ref\01.Cinema.dll

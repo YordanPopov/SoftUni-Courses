@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\bin\Debug\net6.0\03.AnimalType.exe
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\bin\Debug\net6.0\03.AnimalType.deps.json
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\bin\Debug\net6.0\03.AnimalType.runtimeconfig.json
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\bin\Debug\net6.0\03.AnimalType.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\bin\Debug\net6.0\03.AnimalType.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfo.cs
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\refint\03.AnimalType.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\03.AnimalType.genruntimeconfig.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\03.AnimalType\obj\Debug\net6.0\ref\03.AnimalType.dll

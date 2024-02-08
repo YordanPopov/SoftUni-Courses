@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\refint\01.SeriesCalculator.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\01.SeriesCalculator\obj\Debug\net6.0\ref\01.SeriesCalculator.dll

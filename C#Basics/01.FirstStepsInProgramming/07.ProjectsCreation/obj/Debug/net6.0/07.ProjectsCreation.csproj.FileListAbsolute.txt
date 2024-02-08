@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\bin\Debug\net6.0\07.ProjectsCreation.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\bin\Debug\net6.0\07.ProjectsCreation.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\bin\Debug\net6.0\07.ProjectsCreation.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\bin\Debug\net6.0\07.ProjectsCreation.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\bin\Debug\net6.0\07.ProjectsCreation.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\refint\07.ProjectsCreation.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\07.ProjectsCreation.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\07.ProjectsCreation\obj\Debug\net6.0\ref\07.ProjectsCreation.dll

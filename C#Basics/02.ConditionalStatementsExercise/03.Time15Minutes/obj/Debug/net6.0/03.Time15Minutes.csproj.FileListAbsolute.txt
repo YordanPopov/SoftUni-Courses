@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\bin\Debug\net6.0\03.Time15Minutes.exe
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\bin\Debug\net6.0\03.Time15Minutes.deps.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\bin\Debug\net6.0\03.Time15Minutes.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\bin\Debug\net6.0\03.Time15Minutes.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\bin\Debug\net6.0\03.Time15Minutes.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\refint\03.Time15Minutes.dll
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.pdb
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\03.Time15Minutes.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatementsExercise\03.Time15Minutes\obj\Debug\net6.0\ref\03.Time15Minutes.dll

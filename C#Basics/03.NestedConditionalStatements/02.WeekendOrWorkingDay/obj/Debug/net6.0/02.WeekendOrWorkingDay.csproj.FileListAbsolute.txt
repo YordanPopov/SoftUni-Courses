@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\bin\Debug\net6.0\02.WeekendOrWorkingDay.exe
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\bin\Debug\net6.0\02.WeekendOrWorkingDay.deps.json
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\bin\Debug\net6.0\02.WeekendOrWorkingDay.runtimeconfig.json
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\bin\Debug\net6.0\02.WeekendOrWorkingDay.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\bin\Debug\net6.0\02.WeekendOrWorkingDay.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.AssemblyInfo.cs
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\refint\02.WeekendOrWorkingDay.dll
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.pdb
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\02.WeekendOrWorkingDay.genruntimeconfig.cache
+D:\SoftUni\C#\03.NestedConditionalStatements\02.WeekendOrWorkingDay\obj\Debug\net6.0\ref\02.WeekendOrWorkingDay.dll

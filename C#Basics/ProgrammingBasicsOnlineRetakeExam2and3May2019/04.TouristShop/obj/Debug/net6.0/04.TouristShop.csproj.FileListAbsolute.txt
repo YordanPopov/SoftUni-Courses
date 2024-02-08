@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\refint\04.TouristShop.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineRetakeExam2and3May2019\04.TouristShop\obj\Debug\net6.0\ref\04.TouristShop.dll

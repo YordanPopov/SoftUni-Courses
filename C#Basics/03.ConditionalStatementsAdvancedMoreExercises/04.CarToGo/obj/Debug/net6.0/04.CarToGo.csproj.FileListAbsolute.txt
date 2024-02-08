@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\bin\Debug\net6.0\04.CarToGo.exe
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\bin\Debug\net6.0\04.CarToGo.deps.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\bin\Debug\net6.0\04.CarToGo.runtimeconfig.json
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\bin\Debug\net6.0\04.CarToGo.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\bin\Debug\net6.0\04.CarToGo.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.AssemblyInfo.cs
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\refint\04.CarToGo.dll
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.pdb
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\04.CarToGo.genruntimeconfig.cache
+D:\SoftUni\C#\03.ConditionalStatementsAdvancedMoreExercises\04.CarToGo\obj\Debug\net6.0\ref\04.CarToGo.dll

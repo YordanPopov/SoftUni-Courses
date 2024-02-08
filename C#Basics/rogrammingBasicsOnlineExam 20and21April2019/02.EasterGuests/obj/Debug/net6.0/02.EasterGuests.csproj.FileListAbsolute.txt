@@ -1,0 +1,14 @@
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\bin\Debug\net6.0\02.EasterGuests.exe
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\bin\Debug\net6.0\02.EasterGuests.deps.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\bin\Debug\net6.0\02.EasterGuests.runtimeconfig.json
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\bin\Debug\net6.0\02.EasterGuests.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\bin\Debug\net6.0\02.EasterGuests.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.AssemblyInfoInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.AssemblyInfo.cs
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\refint\02.EasterGuests.dll
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.pdb
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\02.EasterGuests.genruntimeconfig.cache
+D:\SoftUni\C#\rogrammingBasicsOnlineExam 20and21April2019\02.EasterGuests\obj\Debug\net6.0\ref\02.EasterGuests.dll

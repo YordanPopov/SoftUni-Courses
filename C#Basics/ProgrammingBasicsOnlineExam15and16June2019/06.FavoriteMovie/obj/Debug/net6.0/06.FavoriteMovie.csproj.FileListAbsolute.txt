@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\bin\Debug\net6.0\06.FavoriteMovie.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\bin\Debug\net6.0\06.FavoriteMovie.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\bin\Debug\net6.0\06.FavoriteMovie.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\bin\Debug\net6.0\06.FavoriteMovie.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\bin\Debug\net6.0\06.FavoriteMovie.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\refint\06.FavoriteMovie.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\06.FavoriteMovie.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\06.FavoriteMovie\obj\Debug\net6.0\ref\06.FavoriteMovie.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\refint\03.OscarsWeekInCinema.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam6and7April2019\03.OscarsWeekInCinema\obj\Debug\net6.0\ref\03.OscarsWeekInCinema.dll

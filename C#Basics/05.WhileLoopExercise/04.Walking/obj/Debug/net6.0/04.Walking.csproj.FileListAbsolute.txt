@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\bin\Debug\net6.0\04.Walking.exe
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\bin\Debug\net6.0\04.Walking.deps.json
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\bin\Debug\net6.0\04.Walking.runtimeconfig.json
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\bin\Debug\net6.0\04.Walking.dll
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\bin\Debug\net6.0\04.Walking.pdb
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.AssemblyInfo.cs
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.dll
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\refint\04.Walking.dll
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.pdb
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\04.Walking.genruntimeconfig.cache
+D:\SoftUni\C#\05.WhileLoopExercise\04.Walking\obj\Debug\net6.0\ref\04.Walking.dll

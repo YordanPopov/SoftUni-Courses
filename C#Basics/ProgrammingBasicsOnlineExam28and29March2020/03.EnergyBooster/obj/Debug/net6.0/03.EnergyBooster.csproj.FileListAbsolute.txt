@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\bin\Debug\net6.0\03.EnergyBooster.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\bin\Debug\net6.0\03.EnergyBooster.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\bin\Debug\net6.0\03.EnergyBooster.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\bin\Debug\net6.0\03.EnergyBooster.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\bin\Debug\net6.0\03.EnergyBooster.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\refint\03.EnergyBooster.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\03.EnergyBooster.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam28and29March2020\03.EnergyBooster\obj\Debug\net6.0\ref\03.EnergyBooster.dll

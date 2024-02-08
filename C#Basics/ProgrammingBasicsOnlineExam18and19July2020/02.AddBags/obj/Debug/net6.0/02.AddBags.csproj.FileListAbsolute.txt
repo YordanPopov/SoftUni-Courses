@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\bin\Debug\net6.0\02.AddBags.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\bin\Debug\net6.0\02.AddBags.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\bin\Debug\net6.0\02.AddBags.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\bin\Debug\net6.0\02.AddBags.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\bin\Debug\net6.0\02.AddBags.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\refint\02.AddBags.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\02.AddBags.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\02.AddBags\obj\Debug\net6.0\ref\02.AddBags.dll

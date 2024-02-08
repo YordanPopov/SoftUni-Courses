@@ -1,0 +1,14 @@
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.exe
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.deps.json
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.runtimeconfig.json
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.dll
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.pdb
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfoInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfo.cs
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.dll
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\refint\02.GreaterNumber.dll
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.pdb
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.genruntimeconfig.cache
+D:\SoftUni\C#\02.ConditionalStatements\02.GreaterNumber\obj\Debug\net6.0\ref\02.GreaterNumber.dll

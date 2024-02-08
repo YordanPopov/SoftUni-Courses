@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\bin\Debug\net6.0\03.AluminumJoinery.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\bin\Debug\net6.0\03.AluminumJoinery.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\bin\Debug\net6.0\03.AluminumJoinery.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\bin\Debug\net6.0\03.AluminumJoinery.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\bin\Debug\net6.0\03.AluminumJoinery.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\refint\03.AluminumJoinery.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\03.AluminumJoinery.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam18and19July2020\03.AluminumJoinery\obj\Debug\net6.0\ref\03.AluminumJoinery.dll

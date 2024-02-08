@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\bin\Debug\net6.0\05.Series.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\bin\Debug\net6.0\05.Series.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\bin\Debug\net6.0\05.Series.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\bin\Debug\net6.0\05.Series.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\bin\Debug\net6.0\05.Series.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\refint\05.Series.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\05.Series.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\05.Series\obj\Debug\net6.0\ref\05.Series.dll

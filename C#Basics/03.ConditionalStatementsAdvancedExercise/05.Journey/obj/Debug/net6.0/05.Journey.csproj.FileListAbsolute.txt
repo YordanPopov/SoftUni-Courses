@@ -1,0 +1,14 @@
+D:\SoftUni\C#\03.NewHouse\05.Journey\bin\Debug\net6.0\05.Journey.exe
+D:\SoftUni\C#\03.NewHouse\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+D:\SoftUni\C#\03.NewHouse\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+D:\SoftUni\C#\03.NewHouse\05.Journey\bin\Debug\net6.0\05.Journey.dll
+D:\SoftUni\C#\03.NewHouse\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.dll
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+D:\SoftUni\C#\03.NewHouse\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

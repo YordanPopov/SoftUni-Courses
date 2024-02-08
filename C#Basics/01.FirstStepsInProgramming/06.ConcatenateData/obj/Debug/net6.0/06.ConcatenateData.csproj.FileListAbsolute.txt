@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.exe
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.deps.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\refint\06.ConcatenateData.dll
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.pdb
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\net6.0\ref\06.ConcatenateData.dll

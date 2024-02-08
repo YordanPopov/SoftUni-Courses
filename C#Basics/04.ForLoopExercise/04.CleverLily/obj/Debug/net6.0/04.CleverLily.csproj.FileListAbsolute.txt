@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.exe
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.deps.json
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.dll
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.pdb
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.dll
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\refint\04.CleverLily.dll
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.pdb
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopExercise\04.CleverLily\obj\Debug\net6.0\ref\04.CleverLily.dll

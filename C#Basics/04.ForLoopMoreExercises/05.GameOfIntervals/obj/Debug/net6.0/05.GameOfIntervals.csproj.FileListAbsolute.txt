@@ -1,0 +1,14 @@
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.exe
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.deps.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.runtimeconfig.json
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.AssemblyInfoInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.AssemblyInfo.cs
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\refint\05.GameOfIntervals.dll
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.pdb
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.genruntimeconfig.cache
+D:\SoftUni\C#\04.ForLoopMoreExercises\05.GameOfIntervals\obj\Debug\net6.0\ref\05.GameOfIntervals.dll

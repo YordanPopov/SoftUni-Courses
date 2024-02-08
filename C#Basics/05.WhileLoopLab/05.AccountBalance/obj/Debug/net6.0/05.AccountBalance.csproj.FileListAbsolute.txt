@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.exe
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.deps.json
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.runtimeconfig.json
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.dll
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.pdb
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.AssemblyInfo.cs
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.dll
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\refint\05.AccountBalance.dll
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.pdb
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.genruntimeconfig.cache
+D:\SoftUni\C#\05.WhileLoopLab\05.AccountBalance\obj\Debug\net6.0\ref\05.AccountBalance.dll

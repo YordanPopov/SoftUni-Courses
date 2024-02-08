@@ -1,0 +1,14 @@
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.exe
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.deps.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.runtimeconfig.json
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\bin\Debug\net6.0\03.MovieDestination.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.AssemblyInfoInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.AssemblyInfo.cs
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\refint\03.MovieDestination.dll
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.pdb
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\03.MovieDestination.genruntimeconfig.cache
+D:\SoftUni\C#\ProgrammingBasicsOnlineExam15and16June2019\03.MovieDestination\obj\Debug\net6.0\ref\03.MovieDestination.dll

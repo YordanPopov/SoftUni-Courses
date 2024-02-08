@@ -1,0 +1,14 @@
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\bin\Debug\net6.0\02.TriangleArea.exe
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\bin\Debug\net6.0\02.TriangleArea.deps.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\bin\Debug\net6.0\02.TriangleArea.runtimeconfig.json
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\bin\Debug\net6.0\02.TriangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\bin\Debug\net6.0\02.TriangleArea.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.AssemblyInfo.cs
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\refint\02.TriangleArea.dll
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.pdb
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\02.TriangleArea.genruntimeconfig.cache
+D:\SoftUni\C#\01.FirstStepsInCodingMoreExercises\02.TriangleArea\obj\Debug\net6.0\ref\02.TriangleArea.dll

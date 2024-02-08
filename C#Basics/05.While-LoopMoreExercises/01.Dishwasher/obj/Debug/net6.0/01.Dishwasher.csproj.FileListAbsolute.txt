@@ -1,0 +1,14 @@
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.exe
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.deps.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.runtimeconfig.json
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.AssemblyInfoInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.AssemblyInfo.cs
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\refint\01.Dishwasher.dll
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.pdb
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.genruntimeconfig.cache
+D:\SoftUni\C#\05.While-LoopMoreExercises\01.Dishwasher\obj\Debug\net6.0\ref\01.Dishwasher.dll

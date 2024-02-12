@@ -11,8 +11,7 @@ for (char symbol1 = (char)a1; symbol1 <= a2 - 1; symbol1++)
             if (symbol1 % 2 == 1 && (symbol2 + symbol3 + symbol1) % 2 == 1)
             {
                 Console.WriteLine($"{symbol1}-{symbol2}{symbol3}{(int)symbol1}");
-            }
-            
+            }      
         }
     }
 }

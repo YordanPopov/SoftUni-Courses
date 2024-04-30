@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\refint\04.PersonInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\04.PersonInfo\obj\Debug\net6.0\ref\04.PersonInfo.dll

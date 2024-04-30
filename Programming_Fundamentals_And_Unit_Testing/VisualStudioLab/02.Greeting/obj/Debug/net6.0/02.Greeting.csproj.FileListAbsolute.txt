@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\bin\Debug\net6.0\02.Greeting.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\bin\Debug\net6.0\02.Greeting.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\bin\Debug\net6.0\02.Greeting.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\bin\Debug\net6.0\02.Greeting.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\bin\Debug\net6.0\02.Greeting.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\refint\02.Greeting.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\02.Greeting.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\02.Greeting\obj\Debug\net6.0\ref\02.Greeting.dll

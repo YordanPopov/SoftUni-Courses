@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\refint\03.CustomerInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\03.CustomerInfo\obj\Debug\net6.0\ref\03.CustomerInfo.dll

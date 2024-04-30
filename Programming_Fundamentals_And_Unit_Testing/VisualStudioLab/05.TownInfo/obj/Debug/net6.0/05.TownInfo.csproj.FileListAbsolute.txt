@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\refint\05.TownInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\VisualStudioLab\05.TownInfo\obj\Debug\net6.0\ref\05.TownInfo.dll

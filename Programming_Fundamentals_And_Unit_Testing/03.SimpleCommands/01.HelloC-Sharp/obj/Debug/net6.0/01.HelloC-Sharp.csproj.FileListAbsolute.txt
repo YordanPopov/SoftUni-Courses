@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\bin\Debug\net6.0\01.HelloC-Sharp.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\bin\Debug\net6.0\01.HelloC-Sharp.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\bin\Debug\net6.0\01.HelloC-Sharp.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\bin\Debug\net6.0\01.HelloC-Sharp.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\bin\Debug\net6.0\01.HelloC-Sharp.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\refint\01.HelloC-Sharp.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\01.HelloC-Sharp.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\01.HelloC-Sharp\obj\Debug\net6.0\ref\01.HelloC-Sharp.dll

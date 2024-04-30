@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\bin\Debug\net6.0\03.NumberOperations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\bin\Debug\net6.0\03.NumberOperations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\bin\Debug\net6.0\03.NumberOperations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\bin\Debug\net6.0\03.NumberOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\bin\Debug\net6.0\03.NumberOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\refint\03.NumberOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\03.NumberOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\03.NumberOperations\obj\Debug\net6.0\ref\03.NumberOperations.dll

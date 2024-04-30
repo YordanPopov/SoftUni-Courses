@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\bin\Debug\net6.0\05.Square7x7Stars.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\bin\Debug\net6.0\05.Square7x7Stars.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\bin\Debug\net6.0\05.Square7x7Stars.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\bin\Debug\net6.0\05.Square7x7Stars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\bin\Debug\net6.0\05.Square7x7Stars.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\refint\05.Square7x7Stars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\05.Square7x7Stars.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\05.Square7x7Stars\obj\Debug\net6.0\ref\05.Square7x7Stars.dll

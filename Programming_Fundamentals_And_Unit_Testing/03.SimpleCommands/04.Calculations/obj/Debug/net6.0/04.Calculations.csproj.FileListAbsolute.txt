@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\bin\Debug\net6.0\04.Calculations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\bin\Debug\net6.0\04.Calculations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\bin\Debug\net6.0\04.Calculations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\bin\Debug\net6.0\04.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\bin\Debug\net6.0\04.Calculations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\refint\04.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\04.Calculations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\03.SimpleCommands\04.Calculations\obj\Debug\net6.0\ref\04.Calculations.dll

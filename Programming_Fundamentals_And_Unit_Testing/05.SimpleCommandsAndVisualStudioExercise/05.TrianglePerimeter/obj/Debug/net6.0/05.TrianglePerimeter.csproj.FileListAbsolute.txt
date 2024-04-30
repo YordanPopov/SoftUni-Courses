@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\refint\05.TrianglePerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\05.TrianglePerimeter\obj\Debug\net6.0\ref\05.TrianglePerimeter.dll

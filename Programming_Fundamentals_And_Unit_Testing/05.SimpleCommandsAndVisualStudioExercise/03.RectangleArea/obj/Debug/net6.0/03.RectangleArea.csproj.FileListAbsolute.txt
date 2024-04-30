@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll

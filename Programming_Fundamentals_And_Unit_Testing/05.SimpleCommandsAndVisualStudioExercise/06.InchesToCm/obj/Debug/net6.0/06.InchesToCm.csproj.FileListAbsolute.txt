@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\bin\Debug\net6.0\06.InchesToCm.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\bin\Debug\net6.0\06.InchesToCm.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\bin\Debug\net6.0\06.InchesToCm.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\bin\Debug\net6.0\06.InchesToCm.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\bin\Debug\net6.0\06.InchesToCm.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\refint\06.InchesToCm.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\06.InchesToCm.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\06.InchesToCm\obj\Debug\net6.0\ref\06.InchesToCm.dll

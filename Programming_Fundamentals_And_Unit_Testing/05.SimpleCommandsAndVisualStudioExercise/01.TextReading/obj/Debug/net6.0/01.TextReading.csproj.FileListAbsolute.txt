@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\bin\Debug\net6.0\01.TextReading.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\bin\Debug\net6.0\01.TextReading.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\bin\Debug\net6.0\01.TextReading.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\bin\Debug\net6.0\01.TextReading.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\bin\Debug\net6.0\01.TextReading.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\refint\01.TextReading.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\01.TextReading.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\01.TextReading\obj\Debug\net6.0\ref\01.TextReading.dll

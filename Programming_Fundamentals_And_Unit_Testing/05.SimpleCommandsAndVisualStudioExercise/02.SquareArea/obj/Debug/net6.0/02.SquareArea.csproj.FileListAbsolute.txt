@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\bin\Debug\net6.0\02.SquareArea.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\bin\Debug\net6.0\02.SquareArea.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\bin\Debug\net6.0\02.SquareArea.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\bin\Debug\net6.0\02.SquareArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\bin\Debug\net6.0\02.SquareArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\refint\02.SquareArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\02.SquareArea.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\02.SquareArea\obj\Debug\net6.0\ref\02.SquareArea.dll

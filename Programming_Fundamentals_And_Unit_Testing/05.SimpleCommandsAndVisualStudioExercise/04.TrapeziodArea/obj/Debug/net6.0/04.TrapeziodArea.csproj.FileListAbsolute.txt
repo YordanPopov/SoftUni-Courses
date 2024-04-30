@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\bin\Debug\net6.0\04.TrapeziodArea.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\bin\Debug\net6.0\04.TrapeziodArea.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\bin\Debug\net6.0\04.TrapeziodArea.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\bin\Debug\net6.0\04.TrapeziodArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\bin\Debug\net6.0\04.TrapeziodArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\refint\04.TrapeziodArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\04.TrapeziodArea.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\05.SimpleCommandsAndVisualStudioExercise\04.TrapeziodArea\obj\Debug\net6.0\ref\04.TrapeziodArea.dll

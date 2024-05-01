@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\bin\Debug\net6.0\03.Market.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\bin\Debug\net6.0\03.Market.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\bin\Debug\net6.0\03.Market.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\bin\Debug\net6.0\03.Market.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\bin\Debug\net6.0\03.Market.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\refint\03.Market.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\03.Market.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\03.Market\obj\Debug\net6.0\ref\03.Market.dll

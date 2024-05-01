@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\bin\Debug\net6.0\07.SuppliesForSchool.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\bin\Debug\net6.0\07.SuppliesForSchool.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\bin\Debug\net6.0\07.SuppliesForSchool.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\bin\Debug\net6.0\07.SuppliesForSchool.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\bin\Debug\net6.0\07.SuppliesForSchool.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\refint\07.SuppliesForSchool.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\07.SuppliesForSchool.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\07.SuppliesForSchool\obj\Debug\net6.0\ref\07.SuppliesForSchool.dll

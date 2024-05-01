@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\bin\Debug\net6.0\05.DepositCalculator.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\bin\Debug\net6.0\05.DepositCalculator.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\bin\Debug\net6.0\05.DepositCalculator.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\bin\Debug\net6.0\05.DepositCalculator.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\bin\Debug\net6.0\05.DepositCalculator.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\refint\05.DepositCalculator.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\05.DepositCalculator.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\05.DepositCalculator\obj\Debug\net6.0\ref\05.DepositCalculator.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\refint\02.FourOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\02.FourOperations\obj\Debug\net6.0\ref\02.FourOperations.dll

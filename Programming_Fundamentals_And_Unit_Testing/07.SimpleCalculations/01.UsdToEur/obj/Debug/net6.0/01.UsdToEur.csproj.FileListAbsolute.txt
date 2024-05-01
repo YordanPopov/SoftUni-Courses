@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\bin\Debug\net6.0\01.UsdToEur.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\bin\Debug\net6.0\01.UsdToEur.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\bin\Debug\net6.0\01.UsdToEur.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\bin\Debug\net6.0\01.UsdToEur.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\bin\Debug\net6.0\01.UsdToEur.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\refint\01.UsdToEur.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\01.UsdToEur.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\01.UsdToEur\obj\Debug\net6.0\ref\01.UsdToEur.dll

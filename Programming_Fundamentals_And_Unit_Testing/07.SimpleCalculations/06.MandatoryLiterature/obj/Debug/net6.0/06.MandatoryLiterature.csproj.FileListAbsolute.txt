@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\refint\06.MandatoryLiterature.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\07.SimpleCalculations\06.MandatoryLiterature\obj\Debug\net6.0\ref\06.MandatoryLiterature.dll

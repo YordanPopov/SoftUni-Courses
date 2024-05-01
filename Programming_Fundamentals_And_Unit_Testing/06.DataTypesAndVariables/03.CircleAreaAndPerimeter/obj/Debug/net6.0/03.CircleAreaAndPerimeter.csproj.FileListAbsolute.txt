@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\refint\03.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net6.0\ref\03.CircleAreaAndPerimeter.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\bin\Debug\net6.0\01.DaysToMinutes.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\bin\Debug\net6.0\01.DaysToMinutes.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\bin\Debug\net6.0\01.DaysToMinutes.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\bin\Debug\net6.0\01.DaysToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\bin\Debug\net6.0\01.DaysToMinutes.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\refint\01.DaysToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\01.DaysToMinutes.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\01.DaysToMinutes\obj\Debug\net6.0\ref\01.DaysToMinutes.dll

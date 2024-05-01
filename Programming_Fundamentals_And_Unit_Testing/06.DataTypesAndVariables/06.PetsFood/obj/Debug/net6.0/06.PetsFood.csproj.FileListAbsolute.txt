@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\bin\Debug\net6.0\06.PetsFood.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\bin\Debug\net6.0\06.PetsFood.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\bin\Debug\net6.0\06.PetsFood.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\bin\Debug\net6.0\06.PetsFood.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\bin\Debug\net6.0\06.PetsFood.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\refint\06.PetsFood.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\06.PetsFood.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\06.PetsFood\obj\Debug\net6.0\ref\06.PetsFood.dll

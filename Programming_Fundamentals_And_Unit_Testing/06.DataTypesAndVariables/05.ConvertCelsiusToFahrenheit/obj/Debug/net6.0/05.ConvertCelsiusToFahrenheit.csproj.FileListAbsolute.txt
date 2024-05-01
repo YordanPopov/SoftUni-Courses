@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\refint\05.ConvertCelsiusToFahrenheit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\ref\05.ConvertCelsiusToFahrenheit.dll

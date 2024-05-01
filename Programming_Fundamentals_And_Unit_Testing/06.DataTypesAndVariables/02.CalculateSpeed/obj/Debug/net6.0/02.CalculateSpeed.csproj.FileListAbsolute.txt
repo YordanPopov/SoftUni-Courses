@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\refint\02.CalculateSpeed.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\06.DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\ref\02.CalculateSpeed.dll

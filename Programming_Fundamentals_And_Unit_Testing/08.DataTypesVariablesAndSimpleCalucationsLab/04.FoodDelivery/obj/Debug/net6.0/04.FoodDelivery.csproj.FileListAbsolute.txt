@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\refint\04.FoodDelivery.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\04.FoodDelivery\obj\Debug\net6.0\ref\04.FoodDelivery.dll

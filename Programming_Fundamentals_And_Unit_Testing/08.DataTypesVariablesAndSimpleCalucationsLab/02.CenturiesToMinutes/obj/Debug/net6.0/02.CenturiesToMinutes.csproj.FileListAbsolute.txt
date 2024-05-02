@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\refint\02.CenturiesToMinutes.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\02.CenturiesToMinutes\obj\Debug\net6.0\ref\02.CenturiesToMinutes.dll

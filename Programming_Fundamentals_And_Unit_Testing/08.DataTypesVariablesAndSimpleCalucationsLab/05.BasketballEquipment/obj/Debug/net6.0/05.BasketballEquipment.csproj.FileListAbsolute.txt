@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\refint\05.BasketballEquipment.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\05.BasketballEquipment\obj\Debug\net6.0\ref\05.BasketballEquipment.dll

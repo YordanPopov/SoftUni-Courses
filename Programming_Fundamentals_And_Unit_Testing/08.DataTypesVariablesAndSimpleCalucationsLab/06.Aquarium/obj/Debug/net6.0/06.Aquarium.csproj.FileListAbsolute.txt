@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\bin\Debug\net6.0\06.Aquarium.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\bin\Debug\net6.0\06.Aquarium.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\bin\Debug\net6.0\06.Aquarium.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\bin\Debug\net6.0\06.Aquarium.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\bin\Debug\net6.0\06.Aquarium.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\refint\06.Aquarium.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\06.Aquarium.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\06.Aquarium\obj\Debug\net6.0\ref\06.Aquarium.dll

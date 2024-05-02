@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\bin\Debug\net6.0\03.Redecorating.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\bin\Debug\net6.0\03.Redecorating.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\bin\Debug\net6.0\03.Redecorating.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\bin\Debug\net6.0\03.Redecorating.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\bin\Debug\net6.0\03.Redecorating.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\refint\03.Redecorating.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\03.Redecorating.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\08.DataTypesVariablesAndSimpleCalucationsLab\03.Redecorating\obj\Debug\net6.0\ref\03.Redecorating.dll

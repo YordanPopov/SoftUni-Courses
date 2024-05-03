@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\refint\01.FreezingWeather.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\ref\01.FreezingWeather.dll

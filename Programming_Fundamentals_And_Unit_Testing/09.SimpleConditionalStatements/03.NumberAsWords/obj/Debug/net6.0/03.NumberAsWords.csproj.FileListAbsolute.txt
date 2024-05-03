@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\bin\Debug\net6.0\03.NumberAsWords.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\bin\Debug\net6.0\03.NumberAsWords.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\bin\Debug\net6.0\03.NumberAsWords.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\bin\Debug\net6.0\03.NumberAsWords.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\bin\Debug\net6.0\03.NumberAsWords.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\refint\03.NumberAsWords.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\03.NumberAsWords.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\03.NumberAsWords\obj\Debug\net6.0\ref\03.NumberAsWords.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\refint\06.BoilingWater.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\06.BoilingWater\obj\Debug\net6.0\ref\06.BoilingWater.dll

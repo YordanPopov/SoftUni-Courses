@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\refint\04.GreaterNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\04.GreaterNumber\obj\Debug\net6.0\ref\04.GreaterNumber.dll

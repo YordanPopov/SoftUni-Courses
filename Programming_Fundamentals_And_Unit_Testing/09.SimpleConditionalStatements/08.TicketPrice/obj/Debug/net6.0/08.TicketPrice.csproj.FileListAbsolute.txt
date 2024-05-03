@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\refint\08.TicketPrice.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\08.TicketPrice\obj\Debug\net6.0\ref\08.TicketPrice.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\refint\07.SpeedInfo.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\ref\07.SpeedInfo.dll

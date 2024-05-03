@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\bin\Debug\net6.0\09.AreeaOfFigures.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\bin\Debug\net6.0\09.AreeaOfFigures.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\bin\Debug\net6.0\09.AreeaOfFigures.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\bin\Debug\net6.0\09.AreeaOfFigures.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\bin\Debug\net6.0\09.AreeaOfFigures.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\refint\09.AreeaOfFigures.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\09.AreeaOfFigures.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\09.AreeaOfFigures\obj\Debug\net6.0\ref\09.AreeaOfFigures.dll

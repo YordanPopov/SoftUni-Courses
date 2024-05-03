@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\refint\11.CoffeeShop.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\11.CoffeeShop\obj\Debug\net6.0\ref\11.CoffeeShop.dll

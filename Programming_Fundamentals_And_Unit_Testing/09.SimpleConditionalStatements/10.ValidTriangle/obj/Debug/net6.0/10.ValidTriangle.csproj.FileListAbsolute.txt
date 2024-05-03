@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\refint\10.ValidTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\09.SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\ref\10.ValidTriangle.dll

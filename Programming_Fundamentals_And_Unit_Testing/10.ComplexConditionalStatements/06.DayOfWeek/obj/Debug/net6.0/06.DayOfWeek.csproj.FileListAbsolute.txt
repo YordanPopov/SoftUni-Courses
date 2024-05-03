@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll

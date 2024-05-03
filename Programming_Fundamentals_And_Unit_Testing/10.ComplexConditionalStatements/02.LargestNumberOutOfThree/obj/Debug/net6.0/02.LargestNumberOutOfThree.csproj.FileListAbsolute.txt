@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\refint\02.LargestNumberOutOfThree.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net6.0\ref\02.LargestNumberOutOfThree.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\refint\08.SortedNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\08.SortedNumbers\obj\Debug\net6.0\ref\08.SortedNumbers.dll

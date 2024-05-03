@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\refint\05.InvalidNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\05.InvalidNumber\obj\Debug\net6.0\ref\05.InvalidNumber.dll

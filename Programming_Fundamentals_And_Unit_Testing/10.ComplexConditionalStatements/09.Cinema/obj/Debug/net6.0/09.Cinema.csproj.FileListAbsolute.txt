@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\refint\09.Cinema.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\ref\09.Cinema.dll

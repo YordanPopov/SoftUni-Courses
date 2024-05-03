@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\refint\07.VowelOrConsonant.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\ref\07.VowelOrConsonant.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll

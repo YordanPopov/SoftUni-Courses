@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\refint\04.FoodOrDrink.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\04.FoodOrDrink\obj\Debug\net6.0\ref\04.FoodOrDrink.dll

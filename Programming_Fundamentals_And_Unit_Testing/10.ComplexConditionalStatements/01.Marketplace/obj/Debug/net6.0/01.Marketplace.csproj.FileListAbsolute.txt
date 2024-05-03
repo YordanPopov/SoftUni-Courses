@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\bin\Debug\net6.0\01.Marketplace.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\bin\Debug\net6.0\01.Marketplace.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\bin\Debug\net6.0\01.Marketplace.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\bin\Debug\net6.0\01.Marketplace.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\bin\Debug\net6.0\01.Marketplace.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\refint\01.Marketplace.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\01.Marketplace.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\10.ComplexConditionalStatements\01.Marketplace\obj\Debug\net6.0\ref\01.Marketplace.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\bin\Debug\net6.0\01.NumberType.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\bin\Debug\net6.0\01.NumberType.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\bin\Debug\net6.0\01.NumberType.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\bin\Debug\net6.0\01.NumberType.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\bin\Debug\net6.0\01.NumberType.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\refint\01.NumberType.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\01.NumberType.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\01.NumberType\obj\Debug\net6.0\ref\01.NumberType.dll

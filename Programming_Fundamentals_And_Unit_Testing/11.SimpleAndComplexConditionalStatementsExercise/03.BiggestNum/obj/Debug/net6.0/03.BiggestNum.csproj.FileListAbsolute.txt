@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\bin\Debug\net6.0\03.BiggestNum.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\bin\Debug\net6.0\03.BiggestNum.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\bin\Debug\net6.0\03.BiggestNum.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\bin\Debug\net6.0\03.BiggestNum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\bin\Debug\net6.0\03.BiggestNum.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\refint\03.BiggestNum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\03.BiggestNum.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\03.BiggestNum\obj\Debug\net6.0\ref\03.BiggestNum.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\bin\Debug\net6.0\04.NumOperation.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\bin\Debug\net6.0\04.NumOperation.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\bin\Debug\net6.0\04.NumOperation.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\bin\Debug\net6.0\04.NumOperation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\bin\Debug\net6.0\04.NumOperation.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\refint\04.NumOperation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\04.NumOperation.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\04.NumOperation\obj\Debug\net6.0\ref\04.NumOperation.dll

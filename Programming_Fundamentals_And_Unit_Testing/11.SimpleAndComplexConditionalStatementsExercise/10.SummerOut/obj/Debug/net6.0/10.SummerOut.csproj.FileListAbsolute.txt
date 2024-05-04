@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\bin\Debug\net6.0\10.SummerOut.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\bin\Debug\net6.0\10.SummerOut.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\bin\Debug\net6.0\10.SummerOut.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\bin\Debug\net6.0\10.SummerOut.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\bin\Debug\net6.0\10.SummerOut.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\refint\10.SummerOut.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\10.SummerOut.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\10.SummerOut\obj\Debug\net6.0\ref\10.SummerOut.dll

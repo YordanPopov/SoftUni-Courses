@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll

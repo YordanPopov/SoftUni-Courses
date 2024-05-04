@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\bin\Debug\net6.0\08.FruitOrVeg.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\bin\Debug\net6.0\08.FruitOrVeg.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\bin\Debug\net6.0\08.FruitOrVeg.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\bin\Debug\net6.0\08.FruitOrVeg.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\bin\Debug\net6.0\08.FruitOrVeg.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\refint\08.FruitOrVeg.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\08.FruitOrVeg.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\11.SimpleAndComplexConditionalStatementsExercise\08.FruitOrVeg\obj\Debug\net6.0\ref\08.FruitOrVeg.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\refint\01.NumbersInRange.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\01.NumbersInRange\obj\Debug\net6.0\ref\01.NumbersInRange.dll

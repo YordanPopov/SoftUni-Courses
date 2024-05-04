@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\refint\03.SumNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\03.SumNumbers\obj\Debug\net6.0\ref\03.SumNumbers.dll

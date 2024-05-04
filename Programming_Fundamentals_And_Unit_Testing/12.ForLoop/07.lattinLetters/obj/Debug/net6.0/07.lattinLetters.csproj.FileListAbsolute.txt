@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\bin\Debug\net6.0\07.lattinLetters.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\bin\Debug\net6.0\07.lattinLetters.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\bin\Debug\net6.0\07.lattinLetters.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\bin\Debug\net6.0\07.lattinLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\bin\Debug\net6.0\07.lattinLetters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\refint\07.lattinLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\07.lattinLetters.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\07.lattinLetters\obj\Debug\net6.0\ref\07.lattinLetters.dll

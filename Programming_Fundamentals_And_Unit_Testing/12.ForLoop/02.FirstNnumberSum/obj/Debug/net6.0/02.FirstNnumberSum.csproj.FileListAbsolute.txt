@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\bin\Debug\net6.0\02.FirstNnumberSum.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\bin\Debug\net6.0\02.FirstNnumberSum.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\bin\Debug\net6.0\02.FirstNnumberSum.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\bin\Debug\net6.0\02.FirstNnumberSum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\bin\Debug\net6.0\02.FirstNnumberSum.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\refint\02.FirstNnumberSum.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\02.FirstNnumberSum.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\12.ForLoop\02.FirstNnumberSum\obj\Debug\net6.0\ref\02.FirstNnumberSum.dll

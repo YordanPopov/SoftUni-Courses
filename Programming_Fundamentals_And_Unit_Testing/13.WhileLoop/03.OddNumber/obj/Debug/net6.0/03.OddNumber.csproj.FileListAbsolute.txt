@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\bin\Debug\net6.0\03.OddNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\bin\Debug\net6.0\03.OddNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\bin\Debug\net6.0\03.OddNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\bin\Debug\net6.0\03.OddNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\bin\Debug\net6.0\03.OddNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\refint\03.OddNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\03.OddNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\03.OddNumber\obj\Debug\net6.0\ref\03.OddNumber.dll

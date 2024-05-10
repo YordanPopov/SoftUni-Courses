@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\bin\Debug\net6.0\01.Number1To100.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\bin\Debug\net6.0\01.Number1To100.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\bin\Debug\net6.0\01.Number1To100.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\bin\Debug\net6.0\01.Number1To100.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\bin\Debug\net6.0\01.Number1To100.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\refint\01.Number1To100.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\01.Number1To100.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\01.Number1To100\obj\Debug\net6.0\ref\01.Number1To100.dll

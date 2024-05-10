@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\refint\02.DecreasingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\ref\02.DecreasingNumbers.dll

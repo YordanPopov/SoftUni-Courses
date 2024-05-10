@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\refint\04.Sequence2k+1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\04.Sequence2k+1\obj\Debug\net6.0\ref\04.Sequence2k+1.dll

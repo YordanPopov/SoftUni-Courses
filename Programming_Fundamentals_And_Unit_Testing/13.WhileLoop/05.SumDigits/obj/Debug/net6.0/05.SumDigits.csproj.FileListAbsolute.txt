@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\bin\Debug\net6.0\05.SumDigits.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\bin\Debug\net6.0\05.SumDigits.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\bin\Debug\net6.0\05.SumDigits.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\bin\Debug\net6.0\05.SumDigits.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\bin\Debug\net6.0\05.SumDigits.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\refint\05.SumDigits.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\05.SumDigits.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\13.WhileLoop\05.SumDigits\obj\Debug\net6.0\ref\05.SumDigits.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

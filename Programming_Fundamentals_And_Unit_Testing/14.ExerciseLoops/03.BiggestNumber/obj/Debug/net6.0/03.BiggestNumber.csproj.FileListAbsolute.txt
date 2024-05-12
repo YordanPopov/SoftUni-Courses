@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\refint\03.BiggestNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\03.BiggestNumber\obj\Debug\net6.0\ref\03.BiggestNumber.dll

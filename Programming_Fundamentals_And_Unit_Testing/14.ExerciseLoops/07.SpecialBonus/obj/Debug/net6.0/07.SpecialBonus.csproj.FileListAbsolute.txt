@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\refint\07.SpecialBonus.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\07.SpecialBonus\obj\Debug\net6.0\ref\07.SpecialBonus.dll

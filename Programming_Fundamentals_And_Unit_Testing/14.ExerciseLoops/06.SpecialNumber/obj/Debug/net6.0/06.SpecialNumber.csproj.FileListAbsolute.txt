@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\refint\06.SpecialNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\06.SpecialNumber\obj\Debug\net6.0\ref\06.SpecialNumber.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\bin\Debug\net6.0\01.PowerOfNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\bin\Debug\net6.0\01.PowerOfNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\bin\Debug\net6.0\01.PowerOfNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\bin\Debug\net6.0\01.PowerOfNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\bin\Debug\net6.0\01.PowerOfNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\refint\01.PowerOfNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\01.PowerOfNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\01.PowerOfNumber\obj\Debug\net6.0\ref\01.PowerOfNumber.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\bin\Debug\net6.0\05.DevisionTo2-3-4.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\bin\Debug\net6.0\05.DevisionTo2-3-4.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\bin\Debug\net6.0\05.DevisionTo2-3-4.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\bin\Debug\net6.0\05.DevisionTo2-3-4.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\bin\Debug\net6.0\05.DevisionTo2-3-4.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\refint\05.DevisionTo2-3-4.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\05.DevisionTo2-3-4.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\05.DevisionTo2-3-4\obj\Debug\net6.0\ref\05.DevisionTo2-3-4.dll

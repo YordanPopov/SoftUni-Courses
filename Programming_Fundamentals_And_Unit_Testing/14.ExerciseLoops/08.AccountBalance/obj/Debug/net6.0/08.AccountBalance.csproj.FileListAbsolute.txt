@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\refint\08.AccountBalance.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\14.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\ref\08.AccountBalance.dll

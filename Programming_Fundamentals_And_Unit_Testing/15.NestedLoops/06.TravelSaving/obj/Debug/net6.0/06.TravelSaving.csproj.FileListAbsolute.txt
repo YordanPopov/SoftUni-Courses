@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\bin\Debug\net6.0\06.TravelSaving.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\bin\Debug\net6.0\06.TravelSaving.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\bin\Debug\net6.0\06.TravelSaving.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\bin\Debug\net6.0\06.TravelSaving.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\bin\Debug\net6.0\06.TravelSaving.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\refint\06.TravelSaving.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\06.TravelSaving.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\06.TravelSaving\obj\Debug\net6.0\ref\06.TravelSaving.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\refint\04.Building.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\04.Building\obj\Debug\net6.0\ref\04.Building.dll

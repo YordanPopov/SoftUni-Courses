@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\bin\Debug\net6.0\01.NumberFromNto1.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\bin\Debug\net6.0\01.NumberFromNto1.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\bin\Debug\net6.0\01.NumberFromNto1.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\bin\Debug\net6.0\01.NumberFromNto1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\bin\Debug\net6.0\01.NumberFromNto1.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\refint\01.NumberFromNto1.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\01.NumberFromNto1.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\01.NumberFromNto1\obj\Debug\net6.0\ref\01.NumberFromNto1.dll

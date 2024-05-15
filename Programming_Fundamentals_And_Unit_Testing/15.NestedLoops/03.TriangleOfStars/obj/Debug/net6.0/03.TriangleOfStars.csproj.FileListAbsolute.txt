@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\refint\03.TriangleOfStars.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\03.TriangleOfStars\obj\Debug\net6.0\ref\03.TriangleOfStars.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\bin\Debug\net6.0\08.PrimeNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\bin\Debug\net6.0\08.PrimeNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\bin\Debug\net6.0\08.PrimeNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\bin\Debug\net6.0\08.PrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\bin\Debug\net6.0\08.PrimeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\refint\08.PrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\15.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\ref\08.PrimeNumbers.dll

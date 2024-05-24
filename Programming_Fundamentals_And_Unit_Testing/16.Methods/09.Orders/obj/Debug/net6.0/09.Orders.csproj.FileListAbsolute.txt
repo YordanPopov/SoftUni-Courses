@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\bin\Debug\net6.0\09.Orders.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\bin\Debug\net6.0\09.Orders.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\bin\Debug\net6.0\09.Orders.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\bin\Debug\net6.0\09.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\bin\Debug\net6.0\09.Orders.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\refint\09.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\09.Orders.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.Orders\obj\Debug\net6.0\ref\09.Orders.dll

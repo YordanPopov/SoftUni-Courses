@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll

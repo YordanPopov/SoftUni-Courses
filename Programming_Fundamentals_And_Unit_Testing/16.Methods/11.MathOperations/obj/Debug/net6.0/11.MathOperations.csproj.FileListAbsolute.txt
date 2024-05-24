@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\refint\11.MathOperations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\11.MathOperations\obj\Debug\net6.0\ref\11.MathOperations.dll

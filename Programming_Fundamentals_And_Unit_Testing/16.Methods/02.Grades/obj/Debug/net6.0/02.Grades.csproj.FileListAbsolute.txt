@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\bin\Debug\net6.0\02.Grades.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\bin\Debug\net6.0\02.Grades.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\bin\Debug\net6.0\02.Grades.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\bin\Debug\net6.0\02.Grades.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\bin\Debug\net6.0\02.Grades.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\refint\02.Grades.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\02.Grades.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\02.Grades\obj\Debug\net6.0\ref\02.Grades.dll

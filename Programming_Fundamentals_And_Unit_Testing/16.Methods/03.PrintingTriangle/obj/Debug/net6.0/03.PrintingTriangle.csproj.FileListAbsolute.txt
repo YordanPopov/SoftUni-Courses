@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\refint\03.PrintingTriangle.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.PrintingTriangle\obj\Debug\net6.0\ref\03.PrintingTriangle.dll

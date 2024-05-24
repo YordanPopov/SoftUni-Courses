@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\bin\Debug\net6.0\03.2.Calculations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\bin\Debug\net6.0\03.2.Calculations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\bin\Debug\net6.0\03.2.Calculations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\bin\Debug\net6.0\03.2.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\bin\Debug\net6.0\03.2.Calculations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\refint\03.2.Calculations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\03.2.Calculations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\03.2.Calculations\obj\Debug\net6.0\ref\03.2.Calculations.dll

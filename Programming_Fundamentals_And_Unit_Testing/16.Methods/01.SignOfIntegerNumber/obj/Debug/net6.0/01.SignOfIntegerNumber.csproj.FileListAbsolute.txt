@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\bin\Debug\net6.0\01.SignOfIntegerNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\bin\Debug\net6.0\01.SignOfIntegerNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\bin\Debug\net6.0\01.SignOfIntegerNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\bin\Debug\net6.0\01.SignOfIntegerNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\bin\Debug\net6.0\01.SignOfIntegerNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\refint\01.SignOfIntegerNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\01.SignOfIntegerNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.SignOfIntegerNumber\obj\Debug\net6.0\ref\01.SignOfIntegerNumber.dll

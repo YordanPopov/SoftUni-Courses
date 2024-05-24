@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\refint\07.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.GreaterOfTwoValues\obj\Debug\net6.0\ref\07.GreaterOfTwoValues.dll

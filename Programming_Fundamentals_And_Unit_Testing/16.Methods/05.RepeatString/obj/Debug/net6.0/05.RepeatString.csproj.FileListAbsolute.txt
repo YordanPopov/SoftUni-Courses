@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\refint\05.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.RepeatString\obj\Debug\net6.0\ref\05.RepeatString.dll

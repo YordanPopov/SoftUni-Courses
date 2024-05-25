@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\bin\Debug\net6.0\08.1.FactorialDevision.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\bin\Debug\net6.0\08.1.FactorialDevision.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\bin\Debug\net6.0\08.1.FactorialDevision.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\bin\Debug\net6.0\08.1.FactorialDevision.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\bin\Debug\net6.0\08.1.FactorialDevision.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\refint\08.1.FactorialDevision.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\08.1.FactorialDevision.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\08.1.FactorialDevision\obj\Debug\net6.0\ref\08.1.FactorialDevision.dll

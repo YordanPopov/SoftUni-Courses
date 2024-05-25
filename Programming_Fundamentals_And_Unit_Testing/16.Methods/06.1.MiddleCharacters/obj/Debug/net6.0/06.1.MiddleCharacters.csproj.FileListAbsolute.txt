@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\bin\Debug\net6.0\06.1.MiddleCharacters.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\bin\Debug\net6.0\06.1.MiddleCharacters.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\bin\Debug\net6.0\06.1.MiddleCharacters.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\bin\Debug\net6.0\06.1.MiddleCharacters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\bin\Debug\net6.0\06.1.MiddleCharacters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\refint\06.1.MiddleCharacters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\06.1.MiddleCharacters.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\06.1.MiddleCharacters\obj\Debug\net6.0\ref\06.1.MiddleCharacters.dll

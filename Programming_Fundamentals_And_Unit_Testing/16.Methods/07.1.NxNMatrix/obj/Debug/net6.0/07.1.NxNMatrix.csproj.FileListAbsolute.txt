@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\bin\Debug\net6.0\07.1.NxNMatrix.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\bin\Debug\net6.0\07.1.NxNMatrix.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\bin\Debug\net6.0\07.1.NxNMatrix.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\bin\Debug\net6.0\07.1.NxNMatrix.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\bin\Debug\net6.0\07.1.NxNMatrix.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\refint\07.1.NxNMatrix.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\07.1.NxNMatrix.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\07.1.NxNMatrix\obj\Debug\net6.0\ref\07.1.NxNMatrix.dll

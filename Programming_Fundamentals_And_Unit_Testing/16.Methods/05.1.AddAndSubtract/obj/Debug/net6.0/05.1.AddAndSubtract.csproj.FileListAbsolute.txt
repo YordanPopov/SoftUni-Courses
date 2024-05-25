@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\bin\Debug\net6.0\05.1.AddAndSubtract.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\bin\Debug\net6.0\05.1.AddAndSubtract.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\bin\Debug\net6.0\05.1.AddAndSubtract.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\bin\Debug\net6.0\05.1.AddAndSubtract.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\bin\Debug\net6.0\05.1.AddAndSubtract.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\refint\05.1.AddAndSubtract.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\05.1.AddAndSubtract.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\05.1.AddAndSubtract\obj\Debug\net6.0\ref\05.1.AddAndSubtract.dll

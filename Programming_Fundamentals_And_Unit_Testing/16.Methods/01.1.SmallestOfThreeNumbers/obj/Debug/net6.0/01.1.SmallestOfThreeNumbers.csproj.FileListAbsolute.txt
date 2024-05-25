@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\bin\Debug\net6.0\01.1.SmallestOfThreeNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\bin\Debug\net6.0\01.1.SmallestOfThreeNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\bin\Debug\net6.0\01.1.SmallestOfThreeNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\bin\Debug\net6.0\01.1.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\bin\Debug\net6.0\01.1.SmallestOfThreeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\refint\01.1.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\01.1.SmallestOfThreeNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\01.1.SmallestOfThreeNumbers\obj\Debug\net6.0\ref\01.1.SmallestOfThreeNumbers.dll

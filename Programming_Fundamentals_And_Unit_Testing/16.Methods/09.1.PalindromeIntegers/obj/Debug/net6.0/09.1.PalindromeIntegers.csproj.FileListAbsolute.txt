@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\bin\Debug\net6.0\09.1.PalindromeIntegers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\bin\Debug\net6.0\09.1.PalindromeIntegers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\bin\Debug\net6.0\09.1.PalindromeIntegers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\bin\Debug\net6.0\09.1.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\bin\Debug\net6.0\09.1.PalindromeIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\refint\09.1.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\09.1.PalindromeIntegers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\16.Methods\09.1.PalindromeIntegers\obj\Debug\net6.0\ref\09.1.PalindromeIntegers.dll

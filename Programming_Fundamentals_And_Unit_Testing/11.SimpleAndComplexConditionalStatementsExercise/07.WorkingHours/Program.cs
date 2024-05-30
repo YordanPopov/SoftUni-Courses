@@ -10,9 +10,8 @@
             string result = (hour >= 10 && hour <= 18) ?
                  result = weekDay switch
                  {
-                     "Monday" => "open", "Tuesday" => "open", "Wednesday" => "open",
-                     "Thursday" => "open", "Friday" => "open", "Saturday" => "open",
-                     "Sunday" => "closed"
+                     "Sunday" => "closed",
+                     _ => "open"
                  } : "closed";
             Console.WriteLine(result);
         }

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\refint\06.VowelsCount.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\06.VowelsCount\obj\Debug\net6.0\ref\06.VowelsCount.dll

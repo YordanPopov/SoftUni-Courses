@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\bin\Debug\net6.0\08.MultiplicationSign.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\bin\Debug\net6.0\08.MultiplicationSign.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\bin\Debug\net6.0\08.MultiplicationSign.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\bin\Debug\net6.0\08.MultiplicationSign.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\bin\Debug\net6.0\08.MultiplicationSign.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\refint\08.MultiplicationSign.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\08.MultiplicationSign.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\08.MultiplicationSign\obj\Debug\net6.0\ref\08.MultiplicationSign.dll

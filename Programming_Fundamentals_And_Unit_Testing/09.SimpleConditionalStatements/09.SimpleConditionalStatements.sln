@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FreezingWeather", "01.FreezingWeather\01.FreezingWeather.csproj", "{71832430-9FDF-40C7-B642-713C17DF5AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FreezingWeather", "01.FreezingWeather\01.FreezingWeather.csproj", "{71832430-9FDF-40C7-B642-713C17DF5AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EvenOrOdd", "02.EvenOrOdd\02.EvenOrOdd.csproj", "{D884EBF2-4566-42C2-9424-49DB0AF40BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenOrOdd", "02.EvenOrOdd\02.EvenOrOdd.csproj", "{D884EBF2-4566-42C2-9424-49DB0AF40BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NumberAsWords", "03.NumberAsWords\03.NumberAsWords.csproj", "{D1D33513-23C0-4DFF-B751-BBC31BAA0946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.NumberAsWords", "03.NumberAsWords\03.NumberAsWords.csproj", "{D1D33513-23C0-4DFF-B751-BBC31BAA0946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GreaterNumber", "04.GreaterNumber\04.GreaterNumber.csproj", "{3E3AE4D7-A24A-43EC-9731-4E588E1165B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GreaterNumber", "04.GreaterNumber\04.GreaterNumber.csproj", "{3E3AE4D7-A24A-43EC-9731-4E588E1165B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GuessThePassword", "05.GuessThePassword\05.GuessThePassword.csproj", "{01AD6788-07C6-4ED8-8CD1-7EC474CC39AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GuessThePassword", "05.GuessThePassword\05.GuessThePassword.csproj", "{01AD6788-07C6-4ED8-8CD1-7EC474CC39AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BoilingWater", "06.BoilingWater\06.BoilingWater.csproj", "{CE7CB218-2C8F-495D-BB7A-C9017F555C73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.BoilingWater", "06.BoilingWater\06.BoilingWater.csproj", "{CE7CB218-2C8F-495D-BB7A-C9017F555C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SpeedInfo", "07.SpeedInfo\07.SpeedInfo.csproj", "{5572BC8A-6A28-461E-A27C-F85E44732DAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SpeedInfo", "07.SpeedInfo\07.SpeedInfo.csproj", "{5572BC8A-6A28-461E-A27C-F85E44732DAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TicketPrice", "08.TicketPrice\08.TicketPrice.csproj", "{F0184A5F-C9A0-4FFF-B5A2-9E7D87C41240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TicketPrice", "08.TicketPrice\08.TicketPrice.csproj", "{F0184A5F-C9A0-4FFF-B5A2-9E7D87C41240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.AreeaOfFigures", "09.AreeaOfFigures\09.AreeaOfFigures.csproj", "{33C5B6D0-1363-4748-B88B-09F6363A48A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.AreeaOfFigures", "09.AreeaOfFigures\09.AreeaOfFigures.csproj", "{33C5B6D0-1363-4748-B88B-09F6363A48A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ValidTriangle", "10.ValidTriangle\10.ValidTriangle.csproj", "{BCE5E32E-188F-452B-B561-B9C78FB9E570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ValidTriangle", "10.ValidTriangle\10.ValidTriangle.csproj", "{BCE5E32E-188F-452B-B561-B9C78FB9E570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CoffeeShop", "11.CoffeeShop\11.CoffeeShop.csproj", "{9070F568-5F21-40AD-BA9F-30241A84D1BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.CoffeeShop", "11.CoffeeShop\11.CoffeeShop.csproj", "{9070F568-5F21-40AD-BA9F-30241A84D1BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

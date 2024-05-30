@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\refint\04.LetterCombinations.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\04.LetterCombinations\obj\Debug\net6.0\ref\04.LetterCombinations.dll

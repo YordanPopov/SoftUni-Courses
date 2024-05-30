@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\bin\Debug\net6.0\05.HappyNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\bin\Debug\net6.0\05.HappyNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\bin\Debug\net6.0\05.HappyNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\bin\Debug\net6.0\05.HappyNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\bin\Debug\net6.0\05.HappyNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\refint\05.HappyNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\05.HappyNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\17.NestedLoopsAndMethods\05.HappyNumbers\obj\Debug\net6.0\ref\05.HappyNumbers.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\refint\03.ReverseAnArray.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.ReverseAnArray\obj\Debug\net6.0\ref\03.ReverseAnArray.dll

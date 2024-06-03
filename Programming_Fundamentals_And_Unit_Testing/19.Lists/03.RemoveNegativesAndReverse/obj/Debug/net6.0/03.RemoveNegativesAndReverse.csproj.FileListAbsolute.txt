@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\03.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\03.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\03.RemoveNegativesAndReverse.dll

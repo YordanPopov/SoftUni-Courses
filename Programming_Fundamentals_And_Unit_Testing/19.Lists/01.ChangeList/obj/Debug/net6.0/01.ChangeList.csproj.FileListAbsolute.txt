@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\refint\01.ChangeList.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\01.ChangeList\obj\Debug\net6.0\ref\01.ChangeList.dll

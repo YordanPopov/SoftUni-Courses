@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\bin\Debug\net6.0\04.2.ReverseArrayOfStrings.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\bin\Debug\net6.0\04.2.ReverseArrayOfStrings.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\bin\Debug\net6.0\04.2.ReverseArrayOfStrings.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\bin\Debug\net6.0\04.2.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\bin\Debug\net6.0\04.2.ReverseArrayOfStrings.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\refint\04.2.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\04.2.ReverseArrayOfStrings.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.2.ReverseArrayOfStrings\obj\Debug\net6.0\ref\04.2.ReverseArrayOfStrings.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\refint\05.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\19.Lists\05.ListManipulationAdvanced\obj\Debug\net6.0\ref\05.ListManipulationAdvanced.dll

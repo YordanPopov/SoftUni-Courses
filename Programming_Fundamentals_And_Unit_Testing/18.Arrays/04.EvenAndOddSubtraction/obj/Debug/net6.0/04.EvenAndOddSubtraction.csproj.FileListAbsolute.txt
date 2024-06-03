@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\bin\Debug\net6.0\04.EvenAndOddSubtraction.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\bin\Debug\net6.0\04.EvenAndOddSubtraction.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\bin\Debug\net6.0\04.EvenAndOddSubtraction.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\bin\Debug\net6.0\04.EvenAndOddSubtraction.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\bin\Debug\net6.0\04.EvenAndOddSubtraction.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\refint\04.EvenAndOddSubtraction.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\04.EvenAndOddSubtraction.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\04.EvenAndOddSubtraction\obj\Debug\net6.0\ref\04.EvenAndOddSubtraction.dll

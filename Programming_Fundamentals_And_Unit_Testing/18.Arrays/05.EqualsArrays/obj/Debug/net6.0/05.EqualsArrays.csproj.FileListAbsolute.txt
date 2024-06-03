@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\bin\Debug\net6.0\05.EqualsArrays.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\bin\Debug\net6.0\05.EqualsArrays.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\bin\Debug\net6.0\05.EqualsArrays.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\bin\Debug\net6.0\05.EqualsArrays.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\bin\Debug\net6.0\05.EqualsArrays.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\refint\05.EqualsArrays.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\05.EqualsArrays.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\05.EqualsArrays\obj\Debug\net6.0\ref\05.EqualsArrays.dll

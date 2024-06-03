@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\bin\Debug\net6.0\03.2RoundingNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\bin\Debug\net6.0\03.2RoundingNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\bin\Debug\net6.0\03.2RoundingNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\bin\Debug\net6.0\03.2RoundingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\bin\Debug\net6.0\03.2RoundingNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\refint\03.2RoundingNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\03.2RoundingNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\18.Arrays\03.2RoundingNumbers\obj\Debug\net6.0\ref\03.2RoundingNumbers.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\refint\05.BombNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\05.BombNumbers\obj\Debug\net6.0\ref\05.BombNumbers.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\refint\01.GaussTrick.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\01.GaussTrick\obj\Debug\net6.0\ref\01.GaussTrick.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\refint\02.CondenseArrayToNumber.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\02.CondenseArrayToNumber\obj\Debug\net6.0\ref\02.CondenseArrayToNumber.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\refint\03.MergingLists.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\03.MergingLists\obj\Debug\net6.0\ref\03.MergingLists.dll

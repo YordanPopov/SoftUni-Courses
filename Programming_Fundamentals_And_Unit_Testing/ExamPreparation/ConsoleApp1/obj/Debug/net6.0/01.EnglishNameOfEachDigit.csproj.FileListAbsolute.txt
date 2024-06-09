@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\bin\Debug\net6.0\01.EnglishNameOfEachDigit.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\bin\Debug\net6.0\01.EnglishNameOfEachDigit.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\bin\Debug\net6.0\01.EnglishNameOfEachDigit.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\bin\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\bin\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\refint\01.EnglishNameOfEachDigit.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\01.EnglishNameOfEachDigit.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\ConsoleApp1\obj\Debug\net6.0\ref\01.EnglishNameOfEachDigit.dll

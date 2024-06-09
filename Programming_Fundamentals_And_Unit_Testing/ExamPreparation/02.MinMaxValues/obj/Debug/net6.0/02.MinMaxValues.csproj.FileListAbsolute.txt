@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\refint\02.MinMaxValues.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.MinMaxValues\obj\Debug\net6.0\ref\02.MinMaxValues.dll

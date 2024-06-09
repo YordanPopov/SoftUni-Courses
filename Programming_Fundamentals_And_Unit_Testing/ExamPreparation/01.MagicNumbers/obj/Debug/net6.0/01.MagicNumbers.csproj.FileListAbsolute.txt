@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\refint\01.MagicNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\01.MagicNumbers\obj\Debug\net6.0\ref\01.MagicNumbers.dll

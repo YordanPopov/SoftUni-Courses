@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\refint\02.AverageLastElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamPreparation\02.AverageLastElements\obj\Debug\net6.0\ref\02.AverageLastElements.dll

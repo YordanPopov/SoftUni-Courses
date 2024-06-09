@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\bin\Debug\net6.0\09.MaxSeaquensOfEqualElements.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\bin\Debug\net6.0\09.MaxSeaquensOfEqualElements.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\bin\Debug\net6.0\09.MaxSeaquensOfEqualElements.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\bin\Debug\net6.0\09.MaxSeaquensOfEqualElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\bin\Debug\net6.0\09.MaxSeaquensOfEqualElements.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\refint\09.MaxSeaquensOfEqualElements.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\09.MaxSeaquensOfEqualElements.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\09.MaxSeaquensOfEqualElements\obj\Debug\net6.0\ref\09.MaxSeaquensOfEqualElements.dll

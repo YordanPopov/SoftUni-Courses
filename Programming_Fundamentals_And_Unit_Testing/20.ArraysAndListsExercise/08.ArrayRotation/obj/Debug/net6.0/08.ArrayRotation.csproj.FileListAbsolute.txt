@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\bin\Debug\net6.0\08.ArrayRotation.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\bin\Debug\net6.0\08.ArrayRotation.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\bin\Debug\net6.0\08.ArrayRotation.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\bin\Debug\net6.0\08.ArrayRotation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\bin\Debug\net6.0\08.ArrayRotation.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\refint\08.ArrayRotation.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\08.ArrayRotation.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\08.ArrayRotation\obj\Debug\net6.0\ref\08.ArrayRotation.dll

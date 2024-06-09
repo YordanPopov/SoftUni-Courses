@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\refint\10.TopIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\10.TopIntegers\obj\Debug\net6.0\ref\10.TopIntegers.dll

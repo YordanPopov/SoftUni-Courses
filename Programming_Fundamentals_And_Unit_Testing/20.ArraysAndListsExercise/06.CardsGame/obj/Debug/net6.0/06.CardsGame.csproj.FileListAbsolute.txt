@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\refint\06.CardsGame.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\20.ArraysAndListsExercise\06.CardsGame\obj\Debug\net6.0\ref\06.CardsGame.dll

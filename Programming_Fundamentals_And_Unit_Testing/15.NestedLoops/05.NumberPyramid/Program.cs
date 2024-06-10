@@ -11,12 +11,9 @@
             {
                 for (int col = 1; col <= row; col++)
                 {
-                    if (col > 1)
-                    {
-                        Console.Write(" ");
-                    }
-                    Console.Write(num);
+                    Console.Write(num + " ");
                     num++;
+
                     if (num > n)
                     {
                         break;

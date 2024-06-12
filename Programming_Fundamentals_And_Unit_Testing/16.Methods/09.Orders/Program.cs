@@ -7,10 +7,10 @@
             string productType = Console.ReadLine();
             int productQuantity = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(PrintPrice(productType, productQuantity));
+            Console.WriteLine(GetPriceOfProduct(productType, productQuantity));
         }
 
-        static decimal PrintPrice(string product, int quantity)
+        static decimal GetPriceOfProduct(string product, int quantity)
         {
             decimal productPrice = product switch
             {

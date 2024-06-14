@@ -42,8 +42,9 @@
 
             for (int i = 0; i < text.Length; i++)
             {
-                int digit = text[i];
-                if (digit < 48 || digit > 122 || (digit > 90 && digit < 97) || (digit > 57 && digit < 65))
+                char digit = text[i];
+
+                if (!Char.IsLetterOrDigit(digit))
                 {
                     letterAndDigits = false;
                 }
@@ -60,8 +61,9 @@
 
             for (int i = 0; i < text.Length; i++)
             {
-                int digit = text[i];
-                if (digit >= 48 && digit <= 57)
+                char digit = text[i];
+
+                if (char.IsDigit(digit))
                 {
                     countDigits++;
                 }

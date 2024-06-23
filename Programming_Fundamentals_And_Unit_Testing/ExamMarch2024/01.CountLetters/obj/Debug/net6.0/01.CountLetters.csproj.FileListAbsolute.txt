@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\bin\Debug\net6.0\01.CountLetters.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\bin\Debug\net6.0\01.CountLetters.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\bin\Debug\net6.0\01.CountLetters.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\bin\Debug\net6.0\01.CountLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\bin\Debug\net6.0\01.CountLetters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\refint\01.CountLetters.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\01.CountLetters.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamMarch2024\01.CountLetters\obj\Debug\net6.0\ref\01.CountLetters.dll

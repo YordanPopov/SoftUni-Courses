@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\bin\Debug\net6.0\01.CalculateFactorialNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\bin\Debug\net6.0\01.CalculateFactorialNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\bin\Debug\net6.0\01.CalculateFactorialNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\bin\Debug\net6.0\01.CalculateFactorialNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\bin\Debug\net6.0\01.CalculateFactorialNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\refint\01.CalculateFactorialNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\01.CalculateFactorialNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\01.CalculateFactorialNumbers\obj\Debug\net6.0\ref\01.CalculateFactorialNumbers.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\bin\Debug\net6.0\02.SmallerNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\bin\Debug\net6.0\02.SmallerNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\bin\Debug\net6.0\02.SmallerNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\bin\Debug\net6.0\02.SmallerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\bin\Debug\net6.0\02.SmallerNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\refint\02.SmallerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\02.SmallerNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamApril2024\02.SmallerNumbers\obj\Debug\net6.0\ref\02.SmallerNumbers.dll

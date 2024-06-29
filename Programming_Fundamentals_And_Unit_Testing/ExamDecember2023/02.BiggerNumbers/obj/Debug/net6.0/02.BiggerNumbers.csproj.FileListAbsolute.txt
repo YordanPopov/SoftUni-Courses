@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\bin\Debug\net6.0\02.BiggerNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\bin\Debug\net6.0\02.BiggerNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\bin\Debug\net6.0\02.BiggerNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\bin\Debug\net6.0\02.BiggerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\bin\Debug\net6.0\02.BiggerNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\refint\02.BiggerNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\02.BiggerNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\02.BiggerNumbers\obj\Debug\net6.0\ref\02.BiggerNumbers.dll

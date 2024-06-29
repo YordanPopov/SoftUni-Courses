@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\bin\Debug\net6.0\01.CalculateSumPrimeNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\bin\Debug\net6.0\01.CalculateSumPrimeNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\bin\Debug\net6.0\01.CalculateSumPrimeNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\bin\Debug\net6.0\01.CalculateSumPrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\bin\Debug\net6.0\01.CalculateSumPrimeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\refint\01.CalculateSumPrimeNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\01.CalculateSumPrimeNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamDecember2023\01.CalculateSumPrimeNumbers\obj\Debug\net6.0\ref\01.CalculateSumPrimeNumbers.dll

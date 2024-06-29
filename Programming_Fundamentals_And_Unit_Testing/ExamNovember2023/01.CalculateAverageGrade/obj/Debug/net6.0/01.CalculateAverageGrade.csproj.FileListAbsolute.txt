@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\bin\Debug\net6.0\01.CalculateAverageGrade.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\bin\Debug\net6.0\01.CalculateAverageGrade.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\bin\Debug\net6.0\01.CalculateAverageGrade.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\bin\Debug\net6.0\01.CalculateAverageGrade.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\bin\Debug\net6.0\01.CalculateAverageGrade.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\refint\01.CalculateAverageGrade.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\01.CalculateAverageGrade.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\ExamNovember2023\01.CalculateAverageGrade\obj\Debug\net6.0\ref\01.CalculateAverageGrade.dll

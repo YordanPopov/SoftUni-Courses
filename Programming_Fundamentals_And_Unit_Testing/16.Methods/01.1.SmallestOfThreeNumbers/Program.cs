@@ -1,6 +1,6 @@
 ﻿namespace _01._1.SmallestOfThreeNumbers
 {
-    internal class Program
+    public class SmallestNumber
     {
         static void Main(string[] args)
         {
@@ -8,23 +8,24 @@
             int secondNumber = int.Parse(Console.ReadLine());
             int thirdNumber = int.Parse(Console.ReadLine());
 
-            PrintSmallestNumber(firstNumber, secondNumber, thirdNumber);
+            int result = FindSmallestNumber(firstNumber, secondNumber, thirdNumber);
+            Console.WriteLine(result);
 
         }
 
-        static void PrintSmallestNumber(int a, int b, int c)
+       public static int FindSmallestNumber(int a, int b, int c)
         {
             if (a < b && a < c)
             {
-                Console.WriteLine(a);
+                return a;
             }
             else if (b < a && b < c)
             {
-                Console.WriteLine(b);
+                return b;
             }
             else
             {
-                Console.WriteLine(c);
+                return c;
             }
         }
     }

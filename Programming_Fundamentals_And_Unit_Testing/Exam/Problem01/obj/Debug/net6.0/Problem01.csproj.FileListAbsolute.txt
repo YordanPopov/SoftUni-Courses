@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\bin\Debug\net6.0\Problem01.exe
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\bin\Debug\net6.0\Problem01.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\bin\Debug\net6.0\Problem01.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\bin\Debug\net6.0\Problem01.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\bin\Debug\net6.0\Problem01.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\refint\Problem01.dll
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.pdb
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\Problem01.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Fundamentals_And_Unit_Testing\Exam\Problem01\obj\Debug\net6.0\ref\Problem01.dll

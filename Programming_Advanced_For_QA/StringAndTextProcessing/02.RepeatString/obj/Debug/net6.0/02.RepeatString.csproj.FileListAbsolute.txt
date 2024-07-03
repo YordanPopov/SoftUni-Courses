@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\bin\Debug\net6.0\02.RepeatString.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\bin\Debug\net6.0\02.RepeatString.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\bin\Debug\net6.0\02.RepeatString.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\bin\Debug\net6.0\02.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\bin\Debug\net6.0\02.RepeatString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\refint\02.RepeatString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\02.RepeatString.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\02.RepeatString\obj\Debug\net6.0\ref\02.RepeatString.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll

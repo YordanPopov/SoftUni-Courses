@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\bin\Debug\net6.0\05.DigitsLettersAndOthers.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\bin\Debug\net6.0\05.DigitsLettersAndOthers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\bin\Debug\net6.0\05.DigitsLettersAndOthers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\bin\Debug\net6.0\05.DigitsLettersAndOthers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\bin\Debug\net6.0\05.DigitsLettersAndOthers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\refint\05.DigitsLettersAndOthers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\05.DigitsLettersAndOthers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\05.DigitsLettersAndOthers\obj\Debug\net6.0\ref\05.DigitsLettersAndOthers.dll

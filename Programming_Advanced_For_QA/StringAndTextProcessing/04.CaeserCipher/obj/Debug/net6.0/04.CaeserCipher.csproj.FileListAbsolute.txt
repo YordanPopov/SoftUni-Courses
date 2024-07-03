@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\bin\Debug\net6.0\04.CaeserCipher.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\bin\Debug\net6.0\04.CaeserCipher.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\bin\Debug\net6.0\04.CaeserCipher.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\bin\Debug\net6.0\04.CaeserCipher.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\bin\Debug\net6.0\04.CaeserCipher.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\refint\04.CaeserCipher.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\04.CaeserCipher.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\04.CaeserCipher\obj\Debug\net6.0\ref\04.CaeserCipher.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\bin\Debug\net6.0\07.CharacterMultiplier.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\bin\Debug\net6.0\07.CharacterMultiplier.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\bin\Debug\net6.0\07.CharacterMultiplier.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\bin\Debug\net6.0\07.CharacterMultiplier.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\bin\Debug\net6.0\07.CharacterMultiplier.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\refint\07.CharacterMultiplier.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\07.CharacterMultiplier.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\StringAndTextProcessing\07.CharacterMultiplier\obj\Debug\net6.0\ref\07.CharacterMultiplier.dll

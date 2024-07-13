@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\bin\Debug\net6.0\02.OddOccurences.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\bin\Debug\net6.0\02.OddOccurences.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\bin\Debug\net6.0\02.OddOccurences.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\bin\Debug\net6.0\02.OddOccurences.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\bin\Debug\net6.0\02.OddOccurences.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\refint\02.OddOccurences.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\02.OddOccurences.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\02.OddOccurences\obj\Debug\net6.0\ref\02.OddOccurences.dll

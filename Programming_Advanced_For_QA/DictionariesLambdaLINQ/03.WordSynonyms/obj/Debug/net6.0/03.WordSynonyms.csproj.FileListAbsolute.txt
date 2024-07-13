@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\refint\03.WordSynonyms.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQ\03.WordSynonyms\obj\Debug\net6.0\ref\03.WordSynonyms.dll

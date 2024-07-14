@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\refint\05.StudentAcademy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\05.StudentAcademy\obj\Debug\net6.0\ref\05.StudentAcademy.dll

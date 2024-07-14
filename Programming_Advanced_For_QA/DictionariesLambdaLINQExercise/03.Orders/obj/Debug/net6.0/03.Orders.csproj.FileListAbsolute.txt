@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\bin\Debug\net6.0\03.Orders.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\bin\Debug\net6.0\03.Orders.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\bin\Debug\net6.0\03.Orders.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\bin\Debug\net6.0\03.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\bin\Debug\net6.0\03.Orders.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\refint\03.Orders.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\03.Orders.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\03.Orders\obj\Debug\net6.0\ref\03.Orders.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\bin\Debug\net6.0\06.CompanyUsers.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\bin\Debug\net6.0\06.CompanyUsers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\bin\Debug\net6.0\06.CompanyUsers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\bin\Debug\net6.0\06.CompanyUsers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\bin\Debug\net6.0\06.CompanyUsers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\refint\06.CompanyUsers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\06.CompanyUsers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\06.CompanyUsers\obj\Debug\net6.0\ref\06.CompanyUsers.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\bin\Debug\net6.0\02.AMinerTask.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\bin\Debug\net6.0\02.AMinerTask.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\bin\Debug\net6.0\02.AMinerTask.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\bin\Debug\net6.0\02.AMinerTask.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\bin\Debug\net6.0\02.AMinerTask.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\refint\02.AMinerTask.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\02.AMinerTask.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\02.AMinerTask\obj\Debug\net6.0\ref\02.AMinerTask.dll

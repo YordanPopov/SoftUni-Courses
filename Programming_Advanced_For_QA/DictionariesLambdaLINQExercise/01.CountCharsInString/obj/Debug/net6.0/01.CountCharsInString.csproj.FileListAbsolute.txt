@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\bin\Debug\net6.0\01.CountCharsInString.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\bin\Debug\net6.0\01.CountCharsInString.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\bin\Debug\net6.0\01.CountCharsInString.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\bin\Debug\net6.0\01.CountCharsInString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\bin\Debug\net6.0\01.CountCharsInString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\refint\01.CountCharsInString.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\01.CountCharsInString.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DictionariesLambdaLINQExercise\01.CountCharsInString\obj\Debug\net6.0\ref\01.CountCharsInString.dll

@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\bin\Debug\net6.0\04.VehicleCatalogue.exe
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\bin\Debug\net6.0\04.VehicleCatalogue.deps.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\bin\Debug\net6.0\04.VehicleCatalogue.runtimeconfig.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\bin\Debug\net6.0\04.VehicleCatalogue.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\bin\Debug\net6.0\04.VehicleCatalogue.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\refint\04.VehicleCatalogue.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\04.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\04.VehicleCatalogue\obj\Debug\net6.0\ref\04.VehicleCatalogue.dll

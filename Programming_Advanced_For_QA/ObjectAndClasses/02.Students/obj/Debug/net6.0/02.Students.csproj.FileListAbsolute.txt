@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\bin\Debug\net6.0\02.Students.exe
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\bin\Debug\net6.0\02.Students.deps.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\bin\Debug\net6.0\02.Students.runtimeconfig.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\bin\Debug\net6.0\02.Students.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\bin\Debug\net6.0\02.Students.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\refint\02.Students.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\02.Students.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\02.Students\obj\Debug\net6.0\ref\02.Students.dll

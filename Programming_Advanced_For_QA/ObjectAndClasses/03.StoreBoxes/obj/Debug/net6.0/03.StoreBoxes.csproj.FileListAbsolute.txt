@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\bin\Debug\net6.0\03.StoreBoxes.exe
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\bin\Debug\net6.0\03.StoreBoxes.deps.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\bin\Debug\net6.0\03.StoreBoxes.runtimeconfig.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\bin\Debug\net6.0\03.StoreBoxes.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\bin\Debug\net6.0\03.StoreBoxes.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\refint\03.StoreBoxes.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\03.StoreBoxes.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\03.StoreBoxes\obj\Debug\net6.0\ref\03.StoreBoxes.dll

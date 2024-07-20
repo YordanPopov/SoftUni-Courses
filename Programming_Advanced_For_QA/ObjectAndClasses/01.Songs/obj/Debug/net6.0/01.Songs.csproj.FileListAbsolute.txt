@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.exe
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.deps.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.runtimeconfig.json
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\refint\01.Songs.dll
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.pdb
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\ObjectAndClasses\01.Songs\obj\Debug\net6.0\ref\01.Songs.dll

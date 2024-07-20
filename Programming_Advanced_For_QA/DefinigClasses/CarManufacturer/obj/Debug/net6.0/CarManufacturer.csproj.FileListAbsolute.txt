@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\DefinigClasses\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\refint\03.TeamworkProjects.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\03.TeamworkProjects\obj\Debug\net6.0\ref\03.TeamworkProjects.dll

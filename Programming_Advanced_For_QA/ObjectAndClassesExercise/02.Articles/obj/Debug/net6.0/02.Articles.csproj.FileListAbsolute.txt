@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\bin\Debug\net6.0\02.Articles.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\bin\Debug\net6.0\02.Articles.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\bin\Debug\net6.0\02.Articles.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\bin\Debug\net6.0\02.Articles.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\bin\Debug\net6.0\02.Articles.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\refint\02.Articles.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\02.Articles.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\02.Articles\obj\Debug\net6.0\ref\02.Articles.dll

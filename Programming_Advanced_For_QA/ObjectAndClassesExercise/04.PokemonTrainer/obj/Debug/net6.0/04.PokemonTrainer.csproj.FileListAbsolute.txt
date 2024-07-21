@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\bin\Debug\net6.0\04.PokemonTrainer.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\bin\Debug\net6.0\04.PokemonTrainer.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\bin\Debug\net6.0\04.PokemonTrainer.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\bin\Debug\net6.0\04.PokemonTrainer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\bin\Debug\net6.0\04.PokemonTrainer.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\refint\04.PokemonTrainer.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ObjectAndClassesExercise\04.PokemonTrainer\obj\Debug\net6.0\ref\04.PokemonTrainer.dll

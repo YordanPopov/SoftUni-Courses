@@ -35,8 +35,7 @@ public class StudentTests
         // Arrange
         string[] students = { "John Doe 25 Sofia", "Jane Smith 22 Varna", "Alice Johnson 20 Sofia" };
         string wantedTown = "Isperih";
-        string expectedResult = $"John Doe is 25 years old.{Environment.NewLine}Alice Johnson is 20 years old.";
-
+        
         // Act
         string actualResult = this._student.AddAndGetByCity(students, wantedTown);
 
@@ -50,7 +49,6 @@ public class StudentTests
         // Arrange
         string[] students = Array.Empty<string>();
         string wantedTown = "Isperih";
-        string expectedResult = $"John Doe is 25 years old.{Environment.NewLine}Alice Johnson is 20 years old.";
 
         // Act
         string actualResult = this._student.AddAndGetByCity(students, wantedTown);

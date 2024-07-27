@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll

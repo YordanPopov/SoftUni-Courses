@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\bin\Debug\net6.0\03.SumOfIntegers.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\bin\Debug\net6.0\03.SumOfIntegers.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\bin\Debug\net6.0\03.SumOfIntegers.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\bin\Debug\net6.0\03.SumOfIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\bin\Debug\net6.0\03.SumOfIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\refint\03.SumOfIntegers.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\03.SumOfIntegers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExceptionsAndErrorHandling\03.SumOfIntegers\obj\Debug\net6.0\ref\03.SumOfIntegers.dll

@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\bin\Debug\net6.0\Players.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\bin\Debug\net6.0\Players.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\bin\Debug\net6.0\Players.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\refint\Players.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\Players.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\Players\obj\Debug\net6.0\ref\Players.dll

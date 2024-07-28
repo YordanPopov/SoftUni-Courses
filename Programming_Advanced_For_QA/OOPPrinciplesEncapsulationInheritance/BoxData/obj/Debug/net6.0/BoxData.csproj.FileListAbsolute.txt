@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\bin\Debug\net6.0\BoxData.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\bin\Debug\net6.0\BoxData.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\bin\Debug\net6.0\BoxData.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\bin\Debug\net6.0\BoxData.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesEncapsulationInheritance\BoxData\obj\Debug\net6.0\ref\BoxData.dll

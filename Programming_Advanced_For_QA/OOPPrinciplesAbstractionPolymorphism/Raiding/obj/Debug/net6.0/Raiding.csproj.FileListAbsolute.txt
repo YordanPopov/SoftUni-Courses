@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\OOPPrinciplesAbstractionPolymorphism\Raiding\obj\Debug\net6.0\ref\Raiding.dll

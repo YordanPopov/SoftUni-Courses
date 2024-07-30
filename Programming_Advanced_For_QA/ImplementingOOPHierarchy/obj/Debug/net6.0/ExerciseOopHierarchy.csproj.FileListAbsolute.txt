@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ImplementingOOPHierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

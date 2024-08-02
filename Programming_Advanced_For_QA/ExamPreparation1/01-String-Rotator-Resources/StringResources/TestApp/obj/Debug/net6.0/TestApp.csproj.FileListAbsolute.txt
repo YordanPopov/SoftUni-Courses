@@ -1,0 +1,11 @@
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\GitHub\SoftUni-Courses\Programming_Advanced_For_QA\ExamPreparation1\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

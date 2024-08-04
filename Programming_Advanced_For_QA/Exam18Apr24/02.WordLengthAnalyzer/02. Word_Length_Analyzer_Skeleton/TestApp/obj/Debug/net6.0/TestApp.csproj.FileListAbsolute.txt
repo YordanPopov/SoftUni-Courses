@@ -1,0 +1,11 @@
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\Yordan\Desktop\02.WordLengthAnalyzer\02. Word_Length_Analyzer_Skeleton\TestApp\obj\Debug\net6.0\ref\TestApp.dll

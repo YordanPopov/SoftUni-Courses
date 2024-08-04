@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUniRepo\\QA Programming Adv 2024\\Exams\\Retake_April_2024\\02. Word_Length_Analyzer\\02. Word_Length_Analyzer_Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{394AA390-B53E-44C8-8C69-19BCA946ED9F}|TestApp.Tests\\TestApp.Tests.csproj|d:\\softunirepo\\qa programming adv 2024\\exams\\retake_april_2024\\02. word_length_analyzer\\02. word_length_analyzer_skeleton\\testapp.tests\\wordlengthanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AA390-B53E-44C8-8C69-19BCA946ED9F}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\wordlengthanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4308D736-2CEE-4A1B-BA3E-D26FD8D1FDE8}|TestApp\\TestApp.csproj|d:\\softunirepo\\qa programming adv 2024\\exams\\retake_april_2024\\02. word_length_analyzer\\02. word_length_analyzer_skeleton\\testapp\\wordlengthanalyzer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4308D736-2CEE-4A1B-BA3E-D26FD8D1FDE8}|TestApp\\TestApp.csproj|solutionrelative:testapp\\wordlengthanalyzer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordLengthAnalyzerTests.cs",
+              "DocumentMoniker": "D:\\SoftUniRepo\\QA Programming Adv 2024\\Exams\\Retake_April_2024\\02. Word_Length_Analyzer\\02. Word_Length_Analyzer_Skeleton\\TestApp.Tests\\WordLengthAnalyzerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\WordLengthAnalyzerTests.cs",
+              "ToolTip": "D:\\SoftUniRepo\\QA Programming Adv 2024\\Exams\\Retake_April_2024\\02. Word_Length_Analyzer\\02. Word_Length_Analyzer_Skeleton\\TestApp.Tests\\WordLengthAnalyzerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\WordLengthAnalyzerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:39:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordLengthAnalyzer .cs",
+              "DocumentMoniker": "D:\\SoftUniRepo\\QA Programming Adv 2024\\Exams\\Retake_April_2024\\02. Word_Length_Analyzer\\02. Word_Length_Analyzer_Skeleton\\TestApp\\WordLengthAnalyzer .cs",
+              "RelativeDocumentMoniker": "TestApp\\WordLengthAnalyzer .cs",
+              "ToolTip": "D:\\SoftUniRepo\\QA Programming Adv 2024\\Exams\\Retake_April_2024\\02. Word_Length_Analyzer\\02. Word_Length_Analyzer_Skeleton\\TestApp\\WordLengthAnalyzer .cs",
+              "RelativeToolTip": "TestApp\\WordLengthAnalyzer .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:39:15.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\three\\Desktop\\Prgm_Adv\\Retake\\01.Divisibility_Transformator_\u0420\u0435\u0441\u0443\u0440\u0441\u0438\\StringProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BBFEC7-D519-48B7-B117-60ABDF1DEB67}|TestApp\\TestApp.csproj|c:\\users\\three\\desktop\\prgm_adv\\retake\\01.divisibility_transformator_\u0440\u0435\u0441\u0443\u0440\u0441\u0438\\stringproblems\\testapp\\divisibilitytransformator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BBFEC7-D519-48B7-B117-60ABDF1DEB67}|TestApp\\TestApp.csproj|solutionrelative:testapp\\divisibilitytransformator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A94C4-D5D8-493F-B55A-61427517AFB1}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\three\\desktop\\prgm_adv\\retake\\01.divisibility_transformator_\u0440\u0435\u0441\u0443\u0440\u0441\u0438\\stringproblems\\testapp.tests\\divisibilitytransformatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A94C4-D5D8-493F-B55A-61427517AFB1}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\divisibilitytransformatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivisibilityTransformatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\Prgm_Adv\\Retake\\01.Divisibility_Transformator_\u0420\u0435\u0441\u0443\u0440\u0441\u0438\\StringProblems\\TestApp.Tests\\DivisibilityTransformatorTest.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\DivisibilityTransformatorTest.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\Prgm_Adv\\Retake\\01.Divisibility_Transformator_\u0420\u0435\u0441\u0443\u0440\u0441\u0438\\StringProblems\\TestApp.Tests\\DivisibilityTransformatorTest.cs",
+              "RelativeToolTip": "TestApp.Tests\\DivisibilityTransformatorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:15:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivisibilityTransformator.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\Prgm_Adv\\Retake\\01.Divisibility_Transformator_\u0420\u0435\u0441\u0443\u0440\u0441\u0438\\StringProblems\\TestApp\\DivisibilityTransformator.cs",
+              "RelativeDocumentMoniker": "TestApp\\DivisibilityTransformator.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\Prgm_Adv\\Retake\\01.Divisibility_Transformator_\u0420\u0435\u0441\u0443\u0440\u0441\u0438\\StringProblems\\TestApp\\DivisibilityTransformator.cs",
+              "RelativeToolTip": "TestApp\\DivisibilityTransformator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:53:57.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

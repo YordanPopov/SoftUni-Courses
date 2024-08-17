@@ -37,5 +37,5 @@ function cookNumber(number, op1, op2, op3, op4, op5) {
 
 
 
-//cookNumber('32', 'chop', 'chop', 'chop', 'chop', 'chop');
+cookNumber('32', 'chop', 'chop', 'chop', 'chop', 'chop');
 cookNumber('9', 'dice', 'spice', 'chop', 'bake', 'fillet');

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\three\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\DictionaryProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C957E36-3DA7-4510-BF59-46EB03EB9464}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\three\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\dictionaryproblems\\testapp.tests\\yellingcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C957E36-3DA7-4510-BF59-46EB03EB9464}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\yellingcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B763570-1DCA-4B52-A255-21B517F7C818}|TestApp\\TestApp.csproj|c:\\users\\three\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\dictionaryproblems\\testapp\\yellingchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B763570-1DCA-4B52-A255-21B517F7C818}|TestApp\\TestApp.csproj|solutionrelative:testapp\\yellingchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YellingCheckerTests.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\DictionaryProblems\\TestApp.Tests\\YellingCheckerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\YellingCheckerTests.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\DictionaryProblems\\TestApp.Tests\\YellingCheckerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\YellingCheckerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:48:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YellingChecker.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\DictionaryProblems\\TestApp\\YellingChecker.cs",
+              "RelativeDocumentMoniker": "TestApp\\YellingChecker.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\DictionaryProblems\\TestApp\\YellingChecker.cs",
+              "RelativeToolTip": "TestApp\\YellingChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:48:45.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

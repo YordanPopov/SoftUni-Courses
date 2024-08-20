@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\three\\Desktop\\Prgm Adv for QA\\StringProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEBD7AC-F9A2-49CA-BDE3-BD67AA7CC15F}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\three\\desktop\\prgm adv for qa\\stringproblems\\testapp.tests\\lettercountcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEBD7AC-F9A2-49CA-BDE3-BD67AA7CC15F}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\lettercountcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F8ED5-8A98-4259-B3D4-5C4D6E111BEF}|TestApp\\TestApp.csproj|c:\\users\\three\\desktop\\prgm adv for qa\\stringproblems\\testapp\\lettercountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F8ED5-8A98-4259-B3D4-5C4D6E111BEF}|TestApp\\TestApp.csproj|solutionrelative:testapp\\lettercountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LetterCountCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\Prgm Adv for QA\\StringProblems\\TestApp.Tests\\LetterCountCalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\LetterCountCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\Prgm Adv for QA\\StringProblems\\TestApp.Tests\\LetterCountCalculatorTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\LetterCountCalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:07:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LetterCountCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\Prgm Adv for QA\\StringProblems\\TestApp\\LetterCountCalculator.cs",
+              "RelativeDocumentMoniker": "TestApp\\LetterCountCalculator.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\Prgm Adv for QA\\StringProblems\\TestApp\\LetterCountCalculator.cs",
+              "RelativeToolTip": "TestApp\\LetterCountCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:00:24.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

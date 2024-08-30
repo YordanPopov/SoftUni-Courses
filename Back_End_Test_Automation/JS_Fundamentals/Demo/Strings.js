@@ -56,9 +56,6 @@ console.log(replacedText);
  console.log(text3.endsWith('Banana'));
  
  
- 
- 
- 
 
  
 

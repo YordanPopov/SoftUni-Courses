@@ -1,0 +1,43 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Apple</name>
+        <price>1.50</price>
+        <description>Fresh green apples</description>
+        <keyWords>
+            <keyword>Juicy</keyword>
+            <keyword>Green</keyword>
+            <keyword>Crunchy</keyword>
+        </keyWords>
+    </product>
+    <product>
+        <name>Banana</name>
+        <price>0.30</price>
+        <description>Ripe yellow bananas</description>
+        <keyWords>
+            <keyword>Sweet</keyword>
+            <keyword>Yellow</keyword>
+            <keyword>Soft</keyword>
+        </keyWords>
+    </product>
+    <product>
+        <name>Orange Juice</name>
+        <price>3.00</price>
+        <description>Freshly squeezed orange juice</description>
+        <keyWords>
+            <keyword>Citrus</keyword>
+            <keyword>Vitamin C</keyword>
+            <keyword>Fresh</keyword>
+        </keyWords>
+    </product>
+    <product>
+        <name>Chocolate Cake</name>
+        <price>5.00</price>
+        <description>Rich and moist chocolate cake</description>
+        <keyWords>
+            <keyword>Chocolatey</keyword>
+            <keyword>Rich</keyword>
+            <keyword>Creamy</keyword>
+        </keyWords>
+    </product>
+</products>

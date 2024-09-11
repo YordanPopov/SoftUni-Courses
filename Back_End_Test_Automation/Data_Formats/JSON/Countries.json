@@ -10,7 +10,6 @@
             "Romansh"
         ]
     },
-
     {
         "country": "Canada",
         "capital": "Ottawa",
@@ -20,7 +19,6 @@
             "French"
         ]
     },
-
     {
         "country": "Belgium",
         "capital": "Brussels",
@@ -31,7 +29,6 @@
             "German"
         ]
     },
-
     {
         "country": "South Africa",
         "capital": "Pretoria",
@@ -43,7 +40,6 @@
             "Others"
         ]
     },
-
     {
         "country": "India",
         "capital": "New Delhi",

@@ -6,7 +6,7 @@
 function solve(count, arr) {
     let newArr = arr.slice(0, count);
 
-    console.log(newArr.reverse());
+    console.log(newArr.reverse().join(" "));
 }
 
 solve(3, [10, 20, 30, 40, 50]);

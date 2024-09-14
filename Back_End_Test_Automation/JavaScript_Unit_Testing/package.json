@@ -1,0 +1,24 @@
+{
+  "name": "javascript_unit_testing",
+  "version": "1.0.0",
+  "description": "javascript_unit_testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YordanPopov/SoftUni-Courses.git"
+  },
+  "author": "YordanPopov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YordanPopov/SoftUni-Courses/issues"
+  },
+  "homepage": "https://github.com/YordanPopov/SoftUni-Courses#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

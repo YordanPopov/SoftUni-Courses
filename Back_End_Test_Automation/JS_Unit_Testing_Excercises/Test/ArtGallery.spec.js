@@ -2,7 +2,7 @@ import { describe, it } from 'mocha'
 import { artGallery } from '../ArtGallery.js'
 import { expect } from 'chai';
 
-describe.only('Test ArtGallery app', () => {
+describe('Test ArtGallery app', () => {
     describe('Test addArtWork', () => {
         it('Should return valid message, if valid input is given', () => {
             const title = 'TestTitle';

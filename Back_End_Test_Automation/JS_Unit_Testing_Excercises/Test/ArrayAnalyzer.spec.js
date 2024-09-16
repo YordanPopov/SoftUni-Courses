@@ -3,7 +3,7 @@ import { analyzeArray } from '../ArrayAnalyzer.js';
 import { expect } from 'chai';
 
 
-describe.only('Test analyzeArray', () => {
+describe('Test analyzeArray', () => {
     it('Should return object with specific properties', () => {
         const inputArray = [1, 20, 300, 40, 5];
 

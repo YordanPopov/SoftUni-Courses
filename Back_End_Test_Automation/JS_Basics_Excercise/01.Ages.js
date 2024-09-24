@@ -1,20 +1,22 @@
 function printTypeOfPerson(age) {
-    if (age >= 0 && age <= 2) {
+
+    age = parseInt(age);
+    if (age >= parseInt('0') && age <= parseInt('2')) {
         console.log('baby');
-    }else if (age > 2 && age <= 13) {
+    }else if (age > parseInt('2') && age <= parseInt('13')) {
         console.log('child');
-    }else if (age > 13 && age <= 19) {
+    }else if (age > parseInt('13') && age <= parseInt('19')) {
         console.log('teenager');
-    }else if (age > 19 && age <= 65) {
+    }else if (age > parseInt('19') && age <= parseInt('65')) {
         console.log('adult');
-    }else if (age > 65) {
+    }else if (age > parseInt('65')) {
         console.log('elder');
     }else {
         console.log('out of bounds');
     }
 }
 
-printTypeOfPerson(20);
-printTypeOfPerson(1);
-printTypeOfPerson(100);
-printTypeOfPerson(-1);
+printTypeOfPerson('20');
+printTypeOfPerson('1');
+printTypeOfPerson('100');
+printTypeOfPerson(-'1');

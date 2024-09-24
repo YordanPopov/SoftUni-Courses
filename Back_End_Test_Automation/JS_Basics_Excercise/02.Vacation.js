@@ -1,7 +1,11 @@
-function printVacationPrice(group, groupType, weekDay) {
+function printVacationPrice(arr) {
     let price;
     let totalPrice;
 
+    let group = arr[0];
+    let groupType = arr[1];
+    let weekDay = arr[arr.length - 1];
+    
     if (groupType === 'Students') {
         price = (weekDay === 'Friday') ? 8.45 : 
                 (weekDay === 'Saturday') ? 9.80 :
@@ -16,20 +20,20 @@ function printVacationPrice(group, groupType, weekDay) {
                 (weekDay === 'Sunday') ? 22.50 : 0;
     }
 
-    totalPrice = price * group;
+    totalPrice = price * parseInt(group);
 
-    if (groupType === 'Students' && group >= 30) {
-        totalPrice *= 0.85;
-    }else if (groupType === 'Regular' && (group >= 10 && group <= 20)) {
-        totalPrice *= 0.95;
-    }else if (groupType === 'Business' && group >= 100) {
-        totalPrice = price * (group - 10);
+    if (groupType === 'Students' && parseInt(group) >= parseInt('30')) { 
+        totalPrice *= parseFloat('0.85');
+    }else if (groupType === 'Regular' && (parseInt(group) >= parseInt('10') && parseInt(group) <= parseInt('20'))) { 
+        totalPrice *= parseFloat('0.95');
+    }else if (groupType === 'Business' && parseInt(group) >= parseInt('100')) {  
+        totalPrice = price * (parseInt(group) - parseInt('10'));
     }
 
     console.log(`Total price: ${totalPrice.toFixed(2)}`);
 }
 
-printVacationPrice(30, 'Students', 'Sunday');
-printVacationPrice(40, 'Regular', 'Saturday');
+printVacationPrice(['30', 'Students', 'Sunday']);
+printVacationPrice(['40', 'Regular', 'Saturday']);
 
 

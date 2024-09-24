@@ -7,5 +7,5 @@ function printNeededMoney(arr) {
   console.log(`I need $${neededMoney.toFixed(2)} to buy ${kg.toFixed(2)} kilograms ${fruit}.`);
 }
 
-printNeededMoney('orange', 2500, 1.80);
-printNeededMoney('apple', 1563, 2.35);
+printNeededMoney(['orange', 2500, 1.80]);
+printNeededMoney(['apple', 1563, 2.35]);

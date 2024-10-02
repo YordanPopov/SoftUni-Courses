@@ -1,6 +1,8 @@
-function roadRadar(speed, area) {
+function roadRadar(arr) {
     let speedLimit;
     let status;
+    let speed = parseInt(arr[0]);
+    let area = arr[1];
    
     function printOutput(speed, speedLimit) {
         let status = '';

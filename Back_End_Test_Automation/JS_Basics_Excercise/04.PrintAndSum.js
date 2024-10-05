@@ -1,19 +1,17 @@
-function PrintNumbersAndSum(arr) {
-    let result = '';
+function printAndSum(inputArr) {
+    let startIndex = parseInt(inputArr[0]);
+    let endIndex = parseInt(inputArr[1]);
     let sum = 0;
+    let output = '';
 
-    let num1 = parseInt(arr[0]);
-    let num2 = parseInt(arr[1]);
-    
-    for (let i = num1; i <= num2; i++) {
-        result += i + ' ';
-        sum += i;
+    for (let index = startIndex; index <= endIndex; index++) {
+        output += `${index} `;
+        sum += index;
     }
 
-    console.log(result.trimEnd());
-    console.log(`Sum: ${sum}`)
+    console.log(`${output.trimEnd()}\nSum: ${sum}`);
 }
 
-PrintNumbersAndSum(['5', '10']);
-PrintNumbersAndSum(['0', '26']);
-PrintNumbersAndSum(['50', '60']);
+printAndSum(['5', '10']);
+printAndSum(['0', '26']);
+printAndSum(['50', '60']);

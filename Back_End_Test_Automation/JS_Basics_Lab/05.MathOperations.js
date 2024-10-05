@@ -1,28 +1,20 @@
-function calculator(num1, num2, operator) {
+function printResult(num1, num2, op) {
     let result = 0;
 
-    switch (operator) {
-        case '+':
-            result = num1 + num2;
-            break;
-        case '-':
-            result = num1 - num2;
-            break;
-        case '*':
-            result = num1 * num2;
-            break;
-        case '/':
-            result = num1 / num2;
-            break;
-        case '%':
-            result = num1 % num2;
-            break;
-        case '**':
-            result = num1 ** num2;
+    switch (op) {
+        case '+': result = num1 + num2; break;
+        case '-': result = num1 - num2; break;
+        case '*': result = num1 * num2; break;
+        case '/': result = num1 / num2; break;
+        case '%': result = num1 % num2; break;
+        case '**': result = num1 ** num2; break;
+        default:
+            console.log('Invalid operator!');
             break;
     }
+
     console.log(result);
 }
 
-calculator(5, 6, '+');
-calculator(3, 5.5, '*');
+printResult(5, 6, '+');
+printResult(3, 5.5, '*');

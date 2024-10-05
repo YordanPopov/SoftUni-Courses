@@ -1,13 +1,24 @@
-function printSumOfDigits(number) {
+// function printSumOfDigits(number) {
+//     let sum = 0;
+
+//     while (number > 0) {
+//         let digit = number % 10;
+//         sum += digit;
+//         number = Math.floor(number / 10);
+//     }
+
+//     console.log(sum);
+// }
+
+function printSumOfDigits(input){
+    let numberToText = input.toString();
     let sum = 0;
 
-    while (number > 0) {
-        let digit = number % 10;
-        sum += digit;
-        number = Math.floor(number / 10);
+    for (const digit of numberToText) {
+        sum += parseInt(digit);
     }
 
-    console.log(sum);
+    console.log(sum); 
 }
 
 printSumOfDigits(245678);

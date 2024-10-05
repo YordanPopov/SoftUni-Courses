@@ -1,9 +1,8 @@
-function printMultiplicationTable(number) {
-    
-    for (let i = 1; i <= 10; i++) {
-        let product = number * i;
-        
-        console.log(`${number} X ${i} = ${product}`);
+function printMultiplicationTable(input) {
+    let number = parseInt(input);
+
+    for (let times = 1; times <= 10; times++){
+        console.log(`${number} X ${times} = ${number * times}`);
     }
 }
 

@@ -1,10 +1,11 @@
-function printNeededMoney(arr) {
-    let fruit = arr[0];
-    let grams = arr[1];
-    let priceKg = arr[2];
-  let kg = grams / 1000.0;
-  let neededMoney = priceKg * kg;
-  console.log(`I need $${neededMoney.toFixed(2)} to buy ${kg.toFixed(2)} kilograms ${fruit}.`);
+function printNeededMoney(inputArr) {
+  let fruit = inputArr[0];
+  let weight = inputArr[1] / 1000;
+  let pricePerKg = inputArr[2];
+
+  let output = `I need $${(weight * pricePerKg).toFixed(2)} to buy ${weight.toFixed(2)} kilograms ${fruit}.`;
+
+  console.log(output);
 }
 
 printNeededMoney(['orange', 2500, 1.80]);

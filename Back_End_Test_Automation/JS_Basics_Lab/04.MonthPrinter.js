@@ -1,48 +1,26 @@
-function printMonthName(month) {
+function printMonth(month) {
+    let output = '';
+
     switch (month) {
-        case 1:
-            console.log('January');
-            break;
-        case 2:
-            console.log('February');
-            break;
-        case 3:
-            console.log('March');
-            break;
-        case 4:
-            console.log('April');
-            break;
-        case 5:
-            console.log('May');
-            break;
-        case 6:
-            console.log('June');
-            break;
-        case 7:
-            console.log('July');
-            break;
-        case 8:
-            console.log('August');
-            break;
-        case 9:
-            console.log('September');
-            break;
-        case 10:
-            console.log('October');
-            break;
-        case 11:
-            console.log('November');
-            break;
-        case 12:
-            console.log('December');
-            break;                
-        default:
-            console.log('Error!');
-            break;
+        case 1: output = 'January'; break;
+        case 2: output = 'February'; break; 
+        case 3: output = 'March'; break;
+        case 4: output = 'April'; break;
+        case 5: output = 'May'; break;
+        case 6: output = 'June'; break;
+        case 7: output = 'July'; break;
+        case 8: output = 'August'; break;
+        case 9: output = 'September'; break;
+        case 10: output = 'October'; break;
+        case 11: output = 'November'; break;
+        case 12: output = 'December'; break;
+        default: output = 'Error!';           
     }
+    
+    console.log(output);
 }
 
-printMonthName(2);
-printMonthName(13);
+printMonth(2);
+printMonth(13);
 
 

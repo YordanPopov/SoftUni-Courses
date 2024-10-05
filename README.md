@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I’m currently working on KAI Group<br>🌱 I’m currently learning QA Automation
 
 

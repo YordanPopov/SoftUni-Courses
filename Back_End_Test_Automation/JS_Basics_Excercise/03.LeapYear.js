@@ -1,11 +1,12 @@
-function leapYear(year) {
-    if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0) {
-        console.log('yes');
-    } else {
-        console.log('no');
-    }
+function isLeapYear(input) {
+    let year = parseInt(input);
+    let isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0;
+
+    let output = (isLeap) ? 'yes' : 'no';
+
+    console.log(output);  
 }
 
-leapYear(1984);
-leapYear(2003);
-leapYear(4);
+isLeapYear(1984);
+isLeapYear(2003);
+isLeapYear(4);

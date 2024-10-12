@@ -15,7 +15,7 @@
         "habitat": "Ocean",
         "lifespan": 45,
         "habits": {
-            "diet": ["Krill", "Fish ", "Plankton"],
+            "diet": ["Krill", "Fish", "Plankton"],
             "migration": "Ocean crossing"
         }
     },

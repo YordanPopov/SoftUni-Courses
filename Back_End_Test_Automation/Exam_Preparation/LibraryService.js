@@ -1,4 +1,4 @@
-const libraryService = {
+export const libraryService = {
     libraries: [
         { id: "1", name: "Central Library", location: "Downtown" },
         { id: "2", name: "Community Library", location: "Suburbs" },

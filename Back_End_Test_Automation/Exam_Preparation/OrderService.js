@@ -1,4 +1,4 @@
-const orderService = {
+export const orderService = {
     orders: [
         { id: "1", product: "Laptop", amount: 1200 },
         { id: "2", product: "Phone", amount: 800 },

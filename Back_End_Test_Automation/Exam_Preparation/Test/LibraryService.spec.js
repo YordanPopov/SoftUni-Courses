@@ -2,7 +2,7 @@ import { it } from "mocha";
 import { libraryService } from "../LibraryService.js";
 import { expect } from "chai";
 
-describe.only("libraryService Tests", () => {
+describe("libraryService Tests", () => {
     let libraries = [];
     let invalidLibrary = { id: "0", name: "Test" },
         updatedLibrary = { id: "5", name: "Test", location: "Test" };

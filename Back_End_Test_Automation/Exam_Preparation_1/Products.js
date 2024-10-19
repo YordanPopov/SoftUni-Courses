@@ -18,41 +18,37 @@ function solve(products) {
     function getProductById(id) {
         const productIndex = products.findIndex(product => product.id === id);
 
-        if (productIndex !== -1) {
-            for (const product of products) {
-                if (Object.values(product).includes(id)) {
-                    return product;
-                }
-            }
-        } else {
+        if (productIndex === -1) {
             return `Product with ID ${id} not found`;
+        }
+
+        for (const product of products) {
+            if (Object.values(product).includes(id)) {
+                return product;
+            }
         }
     }
 
     function removeProductById(id) {
         const productIndex = products.findIndex(product => product.id === id);
 
-        if (productIndex !== -1) {
-            products.splice(productIndex, 1);
-        } else {
+        if (productIndex === -1) {
             return `Product with ID ${id} not found`;
         }
-
+        products.splice(productIndex, 1);
         return products;
     }
 
     function updateProductPrice(id, newPrice) {
         const productIndex = products.findIndex(product => product.id === id);
 
-        if (productIndex !== -1) {
-            for (const product of products) {
-
-                if (Object.values(product).includes(id)) {
-                    product.price = newPrice;
-                }
-            }
-        } else {
+        if (productIndex === -1) {
             return `Product with ID ${id} not found`;
+        }
+        for (const product of products) {
+            if (Object.values(product).includes(id)) {
+                product.price = newPrice;
+            }
         }
 
         return products;
@@ -61,15 +57,14 @@ function solve(products) {
     function updateProductStock(id, newStock) {
         const productIndex = products.findIndex(product => product.id === id);
 
-        if (productIndex !== -1) {
-            for (const product of products) {
-
-                if (Object.values(product).includes(id)) {
-                    product.stock = newStock;
-                }
-            }
-        } else {
+        if (productIndex === -1) {
             return `Product with ID ${id} not found`;
+        }
+        
+        for (const product of products) {
+            if (Object.values(product).includes(id)) {
+                product.stock = newStock;
+            }
         }
 
         return products;

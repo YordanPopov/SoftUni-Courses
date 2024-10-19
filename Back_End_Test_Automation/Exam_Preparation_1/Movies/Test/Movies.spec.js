@@ -3,6 +3,11 @@ import { movieService } from "../Movies.js";
 import { expect } from "chai";
 
 describe("movieService Tests", function () {
+    let movies = [];
+
+    beforeEach(() => {
+        movies = movieService.getMovies().data;
+    });
 
     describe("getMovies()", function () {
         it('Should return all movies with status 200', () => {
@@ -41,7 +46,6 @@ describe("movieService Tests", function () {
             expect(result.message).to.equal('Movie added successfully.');
 
             // 3. Verify that the newly added movie is present in the movie list.
-            const movies = movieService.getMovies().data;
             expect(movies).to.deep.include(newMovie);
         });
 
@@ -101,7 +105,6 @@ describe("movieService Tests", function () {
             expect(result.message).to.equal('Movie deleted successfully.');
 
             // 4. Ensure that the movie is no longer in the list..
-            const movies = movieService.getMovies().data;
             expect(movies).to.not.deep.include(newMovie);
         });
 
@@ -139,8 +142,6 @@ describe("movieService Tests", function () {
             expect(result.message).to.equal('Movie updated successfully.');
 
             // 4. Ensure that the updated movie is present in the movie list.
-            const movies = movieService.getMovies().data;
-
             expect(movies).to.deep.include(updatedMovie);
         });
 

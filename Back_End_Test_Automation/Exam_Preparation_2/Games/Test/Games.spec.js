@@ -3,6 +3,24 @@ import { gameService } from "../Games.js";
 import { expect } from "chai";
 
 describe("gameService Tests", function () {
+    let games = [];
+    const updatedGame = {
+        id: "888",
+        title: "God of War Updated",
+        genre: "Action-adventure",
+        year: 2018,
+        developer: "Santa Monica Studio",
+        description: "An action-adventure game set in Norse mythology."
+    };
+
+    const invalidGame = {
+        id: '998',
+        name: 'Invalid Game'
+    };
+
+    beforeEach(() => {
+        games = gameService.getGames().data;
+    });
 
     describe("getGames()", function () {
         it('Should return a successful response with a list of games', () => {
@@ -38,18 +56,10 @@ describe("gameService Tests", function () {
             expect(response.message).to.equal('Game added successfully.');
 
             // 3. Check that the newly added game appears in the game list.
-            const games = gameService.getGames().data;
-
             expect(games).to.deep.include(newGame);
         });
 
         it('Should return an error for invalid game data', () => {
-            // 1. Create an invalid game object (missing required fields).
-            const invalidGame = {
-                id: '998',
-                name: 'Invalid Game'
-            }
-
             const response = gameService.addGame(invalidGame);
 
             // 2. Check that the response status is 400 and the error message is "Invalid Game Data!".
@@ -78,7 +88,6 @@ describe("gameService Tests", function () {
             expect(response.message).to.equal('Game deleted successfully.');
 
             // 3. Ensure the game is successfully removed from the list.
-            const games = gameService.getGames().data;
             expect(games).to.not.deep.include(deletedGame);
         });
 
@@ -95,16 +104,6 @@ describe("gameService Tests", function () {
 
     describe("updateGame()", function () {
         it('Should update an existing game with new data', () => {
-            // 1. Create updated game data and update an existing game by its ID.
-            const updatedGame = {
-                id: "888",
-                title: "God of War Updated",
-                genre: "Action-adventure",
-                year: 2018,
-                developer: "Santa Monica Studio",
-                description: "An action-adventure game set in Norse mythology."
-            };
-
             const response = gameService.updateGame('2', updatedGame);
 
             // 2. Verify the response status is 200 and the success message is correct.
@@ -112,22 +111,11 @@ describe("gameService Tests", function () {
             expect(response.message).to.equal('Game updated successfully.');
 
             // 3. Ensure the updated game is reflected in the game list.
-            const games = gameService.getGames().data;
             expect(games).to.deep.include(updatedGame);
         });
 
         it('Should return an error if the game to update is not found', () => {
-            // 1. Attempt to update a game that doesn't exist.
-            const updateNonExistingGame = {
-                id: "2",
-                title: "God of War Updated",
-                genre: "Action-adventure",
-                year: 2018,
-                developer: "Santa Monica Studio",
-                description: "An action-adventure game set in Norse mythology."
-            };
-
-            const response = gameService.updateGame('444', updateNonExistingGame);
+            const response = gameService.updateGame('444', updatedGame);
 
             // 2. Check that the response status is 404 and the error message is "Game Not Found!".
             expect(response.status).to.equal(404);
@@ -135,18 +123,11 @@ describe("gameService Tests", function () {
         });
 
         it('Should return an error if the new game data is invalid', () => {
-            // 1. Provide incomplete or invalid data for an existing game.
-            const invalidGame = {
-                id: '2',
-                name: 'Invalid Game'
-            };
-
             const response = gameService.updateGame('1', invalidGame);
 
             // 2. Check that the response status is 400 and the error message is "Invalid Game Data!".
             expect(response.status).to.equal(400);
             expect(response.error).to.equal('Invalid Game Data!');
         });
-
     });
 });

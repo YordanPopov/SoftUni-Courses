@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\bin\Debug\net6.0\02.TempCategorization.exe
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\bin\Debug\net6.0\02.TempCategorization.deps.json
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\bin\Debug\net6.0\02.TempCategorization.runtimeconfig.json
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\bin\Debug\net6.0\02.TempCategorization.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\bin\Debug\net6.0\02.TempCategorization.pdb
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\refint\02.TempCategorization.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.pdb
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\02.TempCategorization.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\02.TempCategorization\obj\Debug\net6.0\ref\02.TempCategorization.dll

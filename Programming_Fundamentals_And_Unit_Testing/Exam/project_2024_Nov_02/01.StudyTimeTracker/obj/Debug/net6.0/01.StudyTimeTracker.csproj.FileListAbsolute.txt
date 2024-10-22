@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\bin\Debug\net6.0\01.StudyTimeTracker.exe
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\bin\Debug\net6.0\01.StudyTimeTracker.deps.json
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\bin\Debug\net6.0\01.StudyTimeTracker.runtimeconfig.json
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\bin\Debug\net6.0\01.StudyTimeTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\bin\Debug\net6.0\01.StudyTimeTracker.pdb
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\refint\01.StudyTimeTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.pdb
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\01.StudyTimeTracker.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\project_2024_Nov_02\01.StudyTimeTracker\obj\Debug\net6.0\ref\01.StudyTimeTracker.dll

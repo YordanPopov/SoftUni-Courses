@@ -15,3 +15,4 @@ D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\Serializi
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\SerializingWithJsonNet\obj\Debug\net6.0\SerializingDeserializngWithJsonNet.pdb
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\SerializingWithJsonNet\obj\Debug\net6.0\SerializingDeserializngWithJsonNet.genruntimeconfig.cache
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\SerializingWithJsonNet\obj\Debug\net6.0\ref\SerializingDeserializngWithJsonNet.dll
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\SerializingWithJsonNet\bin\Debug\net6.0\RestSharp.dll

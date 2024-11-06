@@ -17,3 +17,4 @@ D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\Deseriali
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\DeserializingWithSytemTextJson\obj\Debug\net6.0\DeserializingWithSytemTextJson.pdb
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\DeserializingWithSytemTextJson\obj\Debug\net6.0\DeserializingWithSytemTextJson.genruntimeconfig.cache
 D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\DeserializingWithSytemTextJson\obj\Debug\net6.0\ref\DeserializingWithSytemTextJson.dll
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\DeserializingWithSytemTextJson\bin\Debug\net6.0\RestSharp.dll

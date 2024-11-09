@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpServices", "RestSharpServices\RestSharpServices.csproj", "{7E339087-FBE6-4167-8E16-CDF347F7D2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZippopotamApiTest", "ZippopotamApiTest\ZippopotamApiTest.csproj", "{DEA7720E-C7D4-483D-927C-CA3D38C12811}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E339087-FBE6-4167-8E16-CDF347F7D2A6} = {7E339087-FBE6-4167-8E16-CDF347F7D2A6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E339087-FBE6-4167-8E16-CDF347F7D2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E339087-FBE6-4167-8E16-CDF347F7D2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E339087-FBE6-4167-8E16-CDF347F7D2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E339087-FBE6-4167-8E16-CDF347F7D2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA7720E-C7D4-483D-927C-CA3D38C12811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7720E-C7D4-483D-927C-CA3D38C12811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7720E-C7D4-483D-927C-CA3D38C12811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7720E-C7D4-483D-927C-CA3D38C12811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A548C8-C5E3-4D0E-BFCB-24E2A5E7639D}
+	EndGlobalSection
+EndGlobal

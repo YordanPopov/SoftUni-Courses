@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvqbAM7CR4vnb+guQv3upmHJYeu74w3Zt1rHUZIaUPJUqlRB9057qEaML7JWMVfg/Qv55O9jBIpI2/TmFFnLzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yordan\\Desktop\\TrelloAPITesting\\RestSharpServices\\RestSharpServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
+    "C:\\Users\\Yordan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

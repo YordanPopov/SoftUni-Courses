@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpServices", "RestSharpServices\RestSharpServices.csproj", "{0DA529B6-09ED-45CD-91FB-C76B2DB6F230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloApiTests", "TrelloApiTests\TrelloApiTests.csproj", "{5C8E9CA4-99C5-457C-AB85-A512828A2141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA529B6-09ED-45CD-91FB-C76B2DB6F230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA529B6-09ED-45CD-91FB-C76B2DB6F230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA529B6-09ED-45CD-91FB-C76B2DB6F230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA529B6-09ED-45CD-91FB-C76B2DB6F230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8E9CA4-99C5-457C-AB85-A512828A2141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8E9CA4-99C5-457C-AB85-A512828A2141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8E9CA4-99C5-457C-AB85-A512828A2141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8E9CA4-99C5-457C-AB85-A512828A2141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB495751-C9EA-4626-96C3-54876634D243}
+	EndGlobalSection
+EndGlobal

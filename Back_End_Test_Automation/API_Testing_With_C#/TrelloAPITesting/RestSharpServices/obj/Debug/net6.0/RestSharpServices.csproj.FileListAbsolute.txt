@@ -1,0 +1,12 @@
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\bin\Debug\net6.0\RestSharpServices.deps.json
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\bin\Debug\net6.0\RestSharpServices.dll
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\bin\Debug\net6.0\RestSharpServices.pdb
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.AssemblyReference.cache
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.dll
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\refint\RestSharpServices.dll
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\RestSharpServices.pdb
+C:\Users\Yordan\Desktop\TrelloAPITesting\RestSharpServices\obj\Debug\net6.0\ref\RestSharpServices.dll

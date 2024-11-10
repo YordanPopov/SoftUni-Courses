@@ -21,7 +21,7 @@ namespace TestGitHubApi
         [SetUp]
         public void Setup()
         {            
-            this.client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "YordanPopov", "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");
+            this.client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "username", "token");
         }
 
 

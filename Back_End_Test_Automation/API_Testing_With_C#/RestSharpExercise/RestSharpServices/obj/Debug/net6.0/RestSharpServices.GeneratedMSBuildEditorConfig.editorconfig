@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RestSharpServices
-build_property.ProjectDir = D:\SoftUni\Back-End-Test-Automation\02.Exercise-API-Testing-with-CSharp\RestSharpExercise\RestSharpServices\
+build_property.ProjectDir = D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\API_Testing_With_C#\RestSharpExercise\RestSharpServices\

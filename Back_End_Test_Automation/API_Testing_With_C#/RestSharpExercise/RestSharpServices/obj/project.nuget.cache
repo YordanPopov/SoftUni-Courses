@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uWBSkXCS28pfEubwXMpBF8XWjeP5YjDjhEEgEI+uf7N4RzHu8+uyyqIHcYoamvkln+axBFSNx2n0g78hZSP0BA==",
+  "dgSpecHash": "Xh/wdGku08ql0xxix3vYFgC7jMPnhqn1Z38Ljf5FeIPktomCjLrEIRQUYjZPjVAmI5upH0Ag05M4HYOND8U0hg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
     "C:\\Users\\Yordan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

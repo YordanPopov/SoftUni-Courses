@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+lyWZSVHzRTfNdA9R1JYLuFGC6pObIfs8QHAXLEmVd3m1XjzTE76G08+U8JGDx90jH9z3vExXu1yp26QdMbxg==",
+  "dgSpecHash": "aS1UFeNSOTsgGQoW0sbpkobTK5BOBtTeEqot5aE7sAR03v7ttBbjr9qRchs7c8p+XRQC7ShtfEebWzLZVE/otw==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Yordan\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

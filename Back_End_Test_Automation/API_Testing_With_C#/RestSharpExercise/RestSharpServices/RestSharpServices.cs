@@ -24,7 +24,7 @@ namespace RestSharpServices
             this.client = new RestClient(options);
         }
 
-        public List<Issue>  GetAllIssues(string repo)
+        public List<Issue> GetAllIssues(string repo)
         {
             var request = new RestRequest($"{repo}/issues");
             var response = client.Execute(request, Method.Get);

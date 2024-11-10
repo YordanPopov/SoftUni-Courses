@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj": {}
+    "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj": {
+    "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
         "projectName": "RestSharpServices",
-        "projectPath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
         "packagesPath": "C:\\Users\\Yordan\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj": {
+    "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
         "projectName": "TestGitHubApi",
-        "projectPath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\TestGitHubApi.csproj",
         "packagesPath": "C:\\Users\\Yordan\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\TestGitHubApi\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\TestGitHubApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj": {
-                "projectPath": "D:\\SoftUni\\Back-End-Test-Automation\\02.Exercise-API-Testing-with-CSharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj"
+              "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj": {
+                "projectPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj"
               }
             }
           }

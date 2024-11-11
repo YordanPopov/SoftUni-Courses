@@ -36,9 +36,9 @@ namespace TrelloApiTests
         [Test, Order(1)]
         public void Test_CreateBoard()
         {
-            string boarName = "TestBoard";
+            string boardName = "TestBoard";
 
-            var board = client.CreateBoard(boarName);
+            var board = client.CreateBoard(boardName);
 
             Assert.That(board.Name, Is.Not.Empty, "Board Name should not be empty.");
             Assert.That(board.Id, Is.Not.Empty, "Board ID should not be empty.");
@@ -72,7 +72,7 @@ namespace TrelloApiTests
 
             Assert.That(list.Id, Is.Not.Empty, "List ID should not be empty.");
             Assert.That(list.Name, Is.EqualTo("To Do"), "List name should match the requested name.");
-            Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match last created board ID.");
+            Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match the last created board ID.");
             Assert.That(list.Closed, Is.False, "List closed should be false.");
 
             toDoListId = list.Id;
@@ -84,10 +84,10 @@ namespace TrelloApiTests
             var list = client.CreateUniqueList(lastCreatedBoardId);
 
             Assert.That(list.Id, Is.Not.Empty, "List ID should not be empty.");
-            Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match last created board ID.");
+            Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match the last created board ID.");
             Assert.That(list.Closed, Is.False, "List closed should be false.");
             Assert.That(list.Name, Is.Not.Empty, "List Name should not be empty.");
-            StringAssert.Contains("List-", list.Name, "List name should match random generated name.");
+            StringAssert.Contains("List-", list.Name, "List name should match the random generated name.");
 
             uniqueListId = list.Id;
         }
@@ -104,7 +104,7 @@ namespace TrelloApiTests
                 Assert.Multiple(() =>
                 {
                     Assert.That(list.Id, Is.Not.Empty, "List ID should not be empty.");
-                    Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match last created board ID.");
+                    Assert.That(list.IdBoard, Is.EqualTo(lastCreatedBoardId), "List IDboard should match the last created board ID.");
                     Assert.That(list.Closed, Is.False, "List Closed should be false.");
                 });
             }
@@ -119,7 +119,7 @@ namespace TrelloApiTests
             Assert.That(card.Name, Is.Not.Empty, "Card Name should not be empty.");
             Assert.That(card.Name, Is.EqualTo("Sign-up for Trello"), "Card Name should match the requested card name.");
             Assert.That(card.IdBoard, Is.Not.Empty, "Card IDboard should not be empty.");
-            Assert.That(card.IdBoard, Is.EqualTo(lastCreatedBoardId), "Card IDboard should match last created bord ID.");
+            Assert.That(card.IdBoard, Is.EqualTo(lastCreatedBoardId), "Card IDboard should match the last created bord ID.");
             Assert.That(card.IdList, Is.Not.Empty, "Card IDlist should not be empty.");
             Assert.That(card.IdList, Is.EqualTo(toDoListId), "Card IDlist should match To Do list ID.");
 
@@ -133,7 +133,7 @@ namespace TrelloApiTests
 
             Assert.That(card.Id, Is.Not.Empty, "Card ID should not be empty.");
             Assert.That(card.IdList, Is.EqualTo(uniqueListId), "Card IDlist should match unique list ID.");
-            Assert.That(card.IdBoard, Is.EqualTo(lastCreatedBoardId), "Card IDboard should match last created board ID.");
+            Assert.That(card.IdBoard, Is.EqualTo(lastCreatedBoardId), "Card IDboard should match the last created board ID.");
         }
 
         [Test, Order(8)]

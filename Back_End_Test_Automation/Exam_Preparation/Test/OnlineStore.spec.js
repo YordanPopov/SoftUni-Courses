@@ -2,6 +2,13 @@ import { onlineStore } from "../OnlineStore.js";
 import { expect } from "chai";
 
 describe("OnlineStore Tests", () => {
+    let productList = [
+        {name: "Camera", category: "Photography"},
+        {name: "Laptop", category: "Electronics"},
+        {name: "Smartphone", category: "Electronics"},
+        {name: "PC", category: "Electronics"},
+    ]
+
     describe("isProductAvailable()", () => {
         it("Should return correct message if a product is an available", () => {
             let product = "apples"
@@ -80,6 +87,8 @@ describe("OnlineStore Tests", () => {
             expect(response).to.be.equal(expectedMsg);
         });
 
+        
+
         it("Should throw an error if not a number is given for productPrice parameter", () => {
             expect(() => onlineStore.canAffordProduct(true, 100)).to.throw('Invalid input.');
             expect(() => onlineStore.canAffordProduct('100', 100)).to.throw("Invalid input.");
@@ -96,8 +105,44 @@ describe("OnlineStore Tests", () => {
     });
 
     describe("getRecommendedProducts()", () => {
-        it("Test", () => {
-            expect(true).to.be.true;
+        it("Should return a correct message if one product match specific category", () => {
+            let expectedMsg = "Recommended products in the Photography category: Camera";
+
+            let response = onlineStore.getRecommendedProducts(productList, "Photography");
+
+            expect(response).to.be.equal(expectedMsg);
+        });
+
+        it("Should return a correct message if many products match specific category", () => {
+            let expectedMsg = "Recommended products in the Electronics category: Laptop, Smartphone, PC";
+
+            let response = onlineStore.getRecommendedProducts(productList, "Electronics");
+
+            expect(response).to.be.equal(expectedMsg);
+        });
+
+        it("Should return a correct message if there are no products in the submitted category", () => {
+            let expectedMsg = "Sorry, we currently have no recommended products in the Cars category.";
+
+            let response = onlineStore.getRecommendedProducts(productList, "Cars");
+
+            expect(response).to.be.equal(expectedMsg);
+        });
+
+        it("Should throw an error if not a string for category is given", () => {
+            expect(() => onlineStore.getRecommendedProducts(productList, true)).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(productList, [])).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(productList, {})).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(productList, 1)).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(productList, NaN)).to.throw("Invalid input.");
+        });
+
+        it("Should throw an error if not an array for productList is given", () => {
+            expect(() => onlineStore.getRecommendedProducts({}, 'foo')).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(true, 'foo')).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(1, 'foo')).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts('productList', 'foo')).to.throw("Invalid input.");
+            expect(() => onlineStore.getRecommendedProducts(NaN, 'foo')).to.throw("Invalid input.");
         });
     });
 });

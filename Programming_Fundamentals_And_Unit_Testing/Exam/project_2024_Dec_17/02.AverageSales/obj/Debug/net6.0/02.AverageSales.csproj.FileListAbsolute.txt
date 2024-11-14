@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\bin\Debug\net6.0\02.AverageSales.exe
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\bin\Debug\net6.0\02.AverageSales.deps.json
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\bin\Debug\net6.0\02.AverageSales.runtimeconfig.json
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\bin\Debug\net6.0\02.AverageSales.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\bin\Debug\net6.0\02.AverageSales.pdb
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\refint\02.AverageSales.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.pdb
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\02.AverageSales.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\02.AverageSales\obj\Debug\net6.0\ref\02.AverageSales.dll

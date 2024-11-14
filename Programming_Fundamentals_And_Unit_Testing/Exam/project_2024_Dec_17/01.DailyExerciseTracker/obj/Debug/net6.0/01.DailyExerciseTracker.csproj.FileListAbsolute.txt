@@ -1,0 +1,14 @@
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\bin\Debug\net6.0\01.DailyExerciseTracker.exe
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\bin\Debug\net6.0\01.DailyExerciseTracker.deps.json
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\bin\Debug\net6.0\01.DailyExerciseTracker.runtimeconfig.json
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\bin\Debug\net6.0\01.DailyExerciseTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\bin\Debug\net6.0\01.DailyExerciseTracker.pdb
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\refint\01.DailyExerciseTracker.dll
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.pdb
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\01.DailyExerciseTracker.genruntimeconfig.cache
+C:\Users\Yordan\Desktop\project_2024_Dec_17\01.DailyExerciseTracker\obj\Debug\net6.0\ref\01.DailyExerciseTracker.dll

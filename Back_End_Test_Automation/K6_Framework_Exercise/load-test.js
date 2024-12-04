@@ -2,6 +2,11 @@ import { sleep } from 'k6';
 import  http  from 'k6/http';
 
 export const options = {
+    ext: {
+        loadimpact: {
+            projectID: 3728099
+        }
+    },
     stages: [
         {
             duration: '15s',

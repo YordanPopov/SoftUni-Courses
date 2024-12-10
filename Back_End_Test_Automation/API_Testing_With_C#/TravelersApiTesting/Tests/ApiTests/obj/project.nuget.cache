@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kO8VDqoNv0fb3V1IE+eX2gKyEMg/4f7Cga7GGeFJpDODxW3lFpuekKufG8VoWNqxYcsYO+PqUGzyzPJ4fWCKyQ==",
+  "dgSpecHash": "KsO5pwOtzssTjfb9vSrDvIucE6eX/ochPeFBLD9ItQ0bQMuezlHfS2WqRlpYfCdSLrfMuJIya/MTWyDkSaIF9Q==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Back-End-Test-Automation\\13.Exam-Preparation1\\Skeleton\\ApiTests\\ApiTests.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\TravelersApiTesting\\Tests\\ApiTests\\ApiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Yordan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -61,19 +61,18 @@ namespace ApiTests
         [Test, Order(2)]
         public void Test_GetDestinationByName()
         {
-            var getDestinationByNameRequest = new RestRequest("/destination", Method.Get);
-            getDestinationByNameRequest.AddQueryParameter("name", "New York City");
+            var getAllDestinationsRequest = new RestRequest("/destination", Method.Get);
 
-            var getDestinationByNameResponse = client.Execute(getDestinationByNameRequest);
+            var getAllDestinationsResponse = client.Execute(getAllDestinationsRequest);
 
             Assert.Multiple(() =>
             {
-                Assert.That(getDestinationByNameResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                Assert.That(getAllDestinationsResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
                     "Response status code is not 200 OK!");
-                Assert.That(getDestinationByNameResponse.Content, Is.Not.Empty,
+                Assert.That(getAllDestinationsResponse.Content, Is.Not.Empty,
                     "Response content is empty");
 
-                var destinations = JArray.Parse(getDestinationByNameResponse.Content);
+                var destinations = JArray.Parse(getAllDestinationsResponse.Content);
 
                 var expectedDestination = destinations.FirstOrDefault(d => d["name"].ToString() == "New York City");
                 Assert.That(expectedDestination, Is.Not.Null.Or.Empty,

@@ -1026,11 +1026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Back-End-Test-Automation\\13.Exam-Preparation1\\Skeleton\\ApiTests\\ApiTests.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\TravelersApiTesting\\Tests\\ApiTests\\ApiTests.csproj",
       "projectName": "ApiTests",
-      "projectPath": "D:\\SoftUni\\Back-End-Test-Automation\\13.Exam-Preparation1\\Skeleton\\ApiTests\\ApiTests.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\TravelersApiTesting\\Tests\\ApiTests\\ApiTests.csproj",
       "packagesPath": "C:\\Users\\Yordan\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Back-End-Test-Automation\\13.Exam-Preparation1\\Skeleton\\ApiTests\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\TravelersApiTesting\\Tests\\ApiTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yordan\\AppData\\Roaming\\NuGet\\NuGet.Config",

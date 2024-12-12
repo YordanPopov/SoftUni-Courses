@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using RestSharp;
 using System.Net;
+using System.Text.Json;
 
 namespace ApiTests
 {
@@ -262,6 +263,81 @@ namespace ApiTests
                 "Verifying delete response is not null");
         }
 
+        [Test]
+        public void Test_RecipeLifecycle_RecipeBook()
+        {
+            // Create new category
+            var createCategoryRequest = new RestRequest("/category", Method.Post);
+            createCategoryRequest.AddHeader("Authorization", $"Bearer {token}");
+            createCategoryRequest.AddJsonBody(new
+            {
+                Name = "Gluten-Free"
+            });
+
+            var createCategoryResponse = client.Execute(createCategoryRequest);
+            Assert.That(createCategoryResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                "Creating new category is failed");
+            Assert.That(createCategoryResponse.Content, Is.Not.Null.Or.Empty,
+                "Creating category response is null or empty");
+
+            var createCategoryResponseContent = JObject.Parse(createCategoryResponse.Content);
+            Assert.That(createCategoryResponseContent["_id"]?.ToString(), Is.Not.Null.Or.Empty,
+                "Category ID is null or empty");
+            Assert.That(createCategoryResponseContent["name"]?.ToString(), Is.EqualTo("Gluten-Free"),
+                "Category name does not match the input");
+            Assert.That(createCategoryResponseContent.ContainsKey("createdAt"), Is.True,
+                "Category createdAt property does not exist");
+            Assert.That(createCategoryResponseContent.ContainsKey("updatedAt"), Is.True,
+                "Category updatedAt property does not exist");
+            Assert.That(createCategoryResponseContent["createdAt"]?.ToString(), Is.EqualTo(createCategoryResponseContent["updatedAt"]?.ToString()),
+                "CreateAt and updatedAt are not equal");
+
+            string categoryId = createCategoryResponseContent["_id"]?.ToString();
+
+            // Create new recipe
+            var payload = new
+            {
+                Name = "Spaghetti ala bala",
+                Description = "Spaghetti ala bala description",
+                Ingredients = new[]
+                {
+                    new { name = "Spaghetti", quantity = "200g" }
+                },
+                Instructions = new[]
+                {
+                    new { step = "Cook the according to package instructions." }
+                },
+                CookingTime = 20,
+                Servings = 2,
+                Category = categoryId
+            };
+
+            var createNewRecipeRequest = new RestRequest("/recipe", Method.Post);
+            createNewRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
+            createNewRecipeRequest.AddJsonBody(payload);
+
+            var createNewRecipeResponse = client.Execute(createNewRecipeRequest);
+            Assert.That(createNewRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                "Creating a new recipe is failed");
+            Assert.That(createNewRecipeResponse.Content, Is.Not.Null.Or.Not.Empty,
+                "Creating recipe response is null or empty");
+
+            var createRecipeResponseContent = JObject.Parse(createNewRecipeResponse.Content);
+            Assert.Multiple(() =>
+            {
+                var content = createCategoryResponseContent;
+                Assert.IsNotEmpty(content["name"]?.ToString(),
+                    "Reicpe name is empty");
+                Assert.That(content["name"]?.ToString(), Is.EqualTo(payload.Name),
+                    "Recipe name does not match the input");
+                Assert.IsNotEmpty(content["description"]?.ToString(),
+                    "Recipe description is empty");
+                Assert.That(content["decription"]?.ToString(), Is.EqualTo(payload.Description),
+                    "Recipe description does not match the input");
+                Assert.That(content["ingredients"].Type, Is.EqualTo(JTokenType.Array),
+                    "Recipe ingredients property is not an array");
+            });
+        }
         public void Dispose()
         {
             client?.Dispose();

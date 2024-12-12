@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ptZcXII38OWodtPqKHTVkrcf8R6obLNo8GPflRwQ2kyKswgTbARlIDz2JCX3EmAH/ka1XBt2TkW4wg+MWhScxw==",
+  "dgSpecHash": "X5ACyNc0KE3H2YN50G2hlLHNTCByiMBRkhyrln69/633ZsdJnrYfp4yLbNaN5wOdSiqRzBgA8ZawHQbiGxU6iw==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Back-End-Test-Automation\\14.Exam-Preparation2\\Skeleton\\ApiTests\\ApiTests.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\API_Testing_With_C#\\RecipeBookApiTestting\\Tests\\ApiTests\\ApiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Yordan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

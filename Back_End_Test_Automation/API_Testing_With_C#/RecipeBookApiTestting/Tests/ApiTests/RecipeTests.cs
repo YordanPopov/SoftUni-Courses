@@ -275,33 +275,31 @@ namespace ApiTests
             });
 
             var createCategoryResponse = client.Execute(createCategoryRequest);
-            Assert.That(createCategoryResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
-                "Creating new category is failed");
-            Assert.That(createCategoryResponse.Content, Is.Not.Null.Or.Empty,
-                "Creating category response is null or empty");
-
-            var createCategoryResponseContent = JObject.Parse(createCategoryResponse.Content);
             Assert.Multiple(() =>
             {
-                Assert.That(createCategoryResponseContent["_id"]?.ToString(), Is.Not.Null.Or.Empty,
-                "Category ID is null or empty");
-                Assert.That(createCategoryResponseContent["name"]?.ToString(), Is.EqualTo("Gluten-Free"),
-                    "Category name does not match the input");
-                Assert.That(createCategoryResponseContent.ContainsKey("createdAt"), Is.True,
-                    "Category createdAt property does not exist");
-                Assert.That(createCategoryResponseContent.ContainsKey("updatedAt"), Is.True,
-                    "Category updatedAt property does not exist");
-                Assert.That(createCategoryResponseContent["createdAt"]?.ToString(), Is.EqualTo(createCategoryResponseContent["updatedAt"]?.ToString()),
-                    "CreateAt and updatedAt are not equal");
+                Assert.That(createCategoryResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                    "The category creation response did not return a 200 OK status.");
+                Assert.That(createCategoryResponse.Content, Is.Not.Null.Or.Empty,
+                    "The category creation response content is null or empty.");
+
+                var content = JObject.Parse(createCategoryResponse.Content);
+                Assert.That(content["_id"]?.ToString(), Is.Not.Null.Or.Empty,
+                    "The category creation response does not contain a valid '_id'.");
+                Assert.That(content["name"]?.ToString(), Is.EqualTo("Gluten-Free"),
+                    "he category name in the response does not match the expected value.");
+                Assert.That(content.ContainsKey("createdAt"), Is.True,
+                    "The category creation response does not contain the 'createdAt' field.");
+                Assert.That(content.ContainsKey("updatedAt"), Is.True,
+                    "The category creation response does not contain the 'updatedAt' field.");
+                Assert.That(content["createdAt"]?.ToString(),
+                    Is.EqualTo(content["updatedAt"]?.ToString()),
+                    "'createdAt' and 'updatedAt' timestamps do not match in the category creation response.");
             });
 
-            var categoryId = createCategoryResponseContent["_id"].ToString();
+            var categoryId = JObject.Parse(createCategoryResponse.Content)["_id"]?.ToString();
 
             // Create new recipe
-
-            var createNewRecipeRequest = new RestRequest("/recipe", Method.Post);
-            createNewRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
-            createNewRecipeRequest.AddJsonBody(new
+            var payload = new
             {
                 Title = "Spaghetti ala bala",
                 Description = "Spaghetti ala bala description",
@@ -315,57 +313,138 @@ namespace ApiTests
                 },
                 CookingTime = 20,
                 Servings = 2,
-                category = categoryId
-            });
+                Category = categoryId
+            };
+
+            var createNewRecipeRequest = new RestRequest("/recipe", Method.Post);
+            createNewRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
+            createNewRecipeRequest.AddJsonBody(payload);
 
             var createNewRecipeResponse = client.Execute(createNewRecipeRequest);
-            Assert.That(createNewRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
-                "Creating a new recipe is failed");
-            Assert.That(createNewRecipeResponse.Content, Is.Not.Null.Or.Not.Empty,
-                "Creating recipe response is null or empty");
-
-            var createRecipeResponseContent = JObject.Parse(createNewRecipeResponse.Content);
+          
             Assert.Multiple(() =>
             {
-                var content = createRecipeResponseContent;
+                Assert.That(createNewRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                    "The recipe creation response did not return a 200 OK status.");
+                Assert.That(createNewRecipeResponse.Content, Is.Not.Null.Or.Not.Empty,
+                    "The recipe creation response content is null or empty.");
+
+                var content = JObject.Parse(createNewRecipeResponse.Content);
                 Assert.IsNotEmpty(content["title"]?.ToString(),
-                    "Recipe title is empty");
+                    "The recipe title in the response is empty.");
                 Assert.That(content["title"]?.ToString(), Is.EqualTo("Spaghetti ala bala"),
-                    "Recipe title does not match the input");
+                    "The recipe title in the response does not match the expected value.");
                 Assert.IsNotEmpty(content["description"]?.ToString(),
-                    "Recipe description is empty");
+                    "The recipe description in the response is empty.");
                 Assert.That(content["description"]?.ToString(), Is.EqualTo("Spaghetti ala bala description"),
-                    "Recipe description does not match the input");
+                    "The recipe description in the response does not match the expected value.");
                 Assert.That(content["ingredients"]?.Type, Is.EqualTo(JTokenType.Array),
-                    "Recipe ingredients property is not an array");
+                    "The 'ingredients' field is not an array.");
                 Assert.That(content["ingredients"]?.Count(), Is.GreaterThan(0),
-                    "Ingrediesnts array is empty");
+                    "The 'ingredients' array is empty.");
                 Assert.That(content["ingredients"][0]["name"].ToString(), Is.EqualTo("Spaghetti"),
-                    "Ingredients first element name does not match the expected value");
+                    "The first ingredient name does not match the expected value.");
                 Assert.That(content["ingredients"][0]["quantity"].ToString(), Is.EqualTo("200g"),
-                    "Ingredients first element quantity does not match the expected value");
+                    "The first ingredient quantity does not match the expected value.");
                 Assert.That(content["instructions"].Type, Is.EqualTo(JTokenType.Array),
-                    "Recipe instructions property is not an array");
+                    "The 'instructions' field is not an array.");
                 Assert.That(content["instructions"].Count(), Is.GreaterThan(0),
-                    "Instructions array is empty");
-                Assert.That(content["instructions"][0]["step"].ToString(), Is.EqualTo("Cook the according to package instructions."),
-                    "Instructions first element step does not match the expected value");
+                    "The 'instructions' array is empty.");
+                Assert.That(content["instructions"][0]["step"].ToString(),
+                    Is.EqualTo("Cook the according to package instructions."),
+                    "The first instruction step does not match the expected value.");
                 Assert.That(content["cookingTime"]?.ToString(), Is.Not.Null.Or.Empty,
-                    "cookingTime is null or empty");
+                    "The 'cookingTime' field is null or empty.");
                 Assert.That(content["cookingTime"].Value<int>, Is.EqualTo(20),
-                    "Recipe cookingTime does not match the input");
+                    "The 'cookingTime' value does not match the expected value.");
                 Assert.That(content["servings"]?.ToString(), Is.Not.Null.Or.Empty,
-                    "Recipe servings is null or empty");
+                    "The 'servings' field is null or empty.");
                 Assert.That(content["servings"].Value<int>, Is.EqualTo(2),
-                    "Recipe servings does not match the input");
+                    "The 'servings' value does not match the expected value.");
                 Assert.That(content["category"]["_id"]?.ToString(), Is.Not.Null.Or.Empty,
-                    "Recipe category is null or empty");
+                    "The category '_id' in the recipe response is null or empty.");
                 Assert.That(content["category"]["_id"]?.ToString(), Is.EqualTo(categoryId),
-                    "Recipe category id does not match the expected id");
+                    "The category '_id' in the recipe response does not match the expected value.");
             });
 
-            string recipeId = createRecipeResponseContent["_id"].ToString(); 
+            // Update the recipe
+            var getAllRecipesRequest = new RestRequest("/recipe"); // Method.GET by Default :)
+
+            var getAllRecipeResponse = client.Execute(getAllRecipesRequest);
+            Assert.That(getAllRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                "The request to fetch all recipes did not return a 200 OK status.");
+            Assert.That(getAllRecipeResponse.Content, Is.Not.Null.Or.Empty,
+                "The response content for fetching all recipes is null or empty.");
+
+            var recipes = JArray.Parse(getAllRecipeResponse.Content);
+            Assert.That(recipes.Type, Is.EqualTo(JTokenType.Array),
+                "The 'recipes' response is not an array.");
+            Assert.That(recipes.Count, Is.GreaterThan(0),
+                "The 'recipes' array is empty.");
+
+            var recipeToUpdate = recipes.FirstOrDefault(r => r["title"].ToString() == "Spaghetti ala bala");
+            Assert.That(recipeToUpdate, Is.Not.Null.Or.Empty,
+                "No recipe with the title 'Spaghetti ala bala' was found.");
+
+            string recipeId = recipeToUpdate["_id"].ToString();
+            Assert.That(recipeId, Is.Not.Null.Or.Empty);
+
+            var updateRecipeRequest = new RestRequest("/recipe/{id}", Method.Put);
+            updateRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
+            updateRecipeRequest.AddUrlSegment("id", recipeId);
+            updateRecipeRequest.AddJsonBody(new
+            {
+                Title = "Spaghetti",
+                Description = "Spaghetti"
+            });
+
+            var updateRecipeResponse = client.Execute(updateRecipeRequest);
+
+            Assert.Multiple(() =>
+            {
+                Assert.That(updateRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                    "The recipe update response did not return a 200 OK status.");
+                Assert.That(updateRecipeResponse.Content, Is.Not.Null.Or.Empty,
+                    "The recipe update response content is null or empty.");
+
+                var updatedRecipe = JObject.Parse(updateRecipeResponse.Content);
+                Assert.That(updatedRecipe["title"].ToString(), Is.EqualTo("Spaghetti"),
+                    "The updated recipe title does not match the expected value.");
+                Assert.That(updatedRecipe["description"].ToString(), Is.EqualTo("Spaghetti"),
+                    "The updated recipe description does not match the expected value."); 
+                Assert.That(updatedRecipe["cookingTime"].Value<int>, Is.EqualTo(20),
+                    "The updated recipe cooking time does not match the expected value.");
+            });
+
+            // Delete recipe
+            var deleteRecipeRequest = new RestRequest("/recipe/{id}", Method.Delete);
+            deleteRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
+            deleteRecipeRequest.AddUrlSegment("id", recipeId);
             
+            var deleteRecipeResponse = client.Execute(deleteRecipeRequest);
+
+            Assert.Multiple(() =>
+            {
+                Assert.That(deleteRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                    "The recipe delete response did not return a 200 OK status.");
+                Assert.That(deleteRecipeResponse.Content, Is.Not.Null.Or.Empty,
+                    "The recipe delete response content is null or empty");
+            });
+
+            // Delete category
+            var deleteCategoryRequest = new RestRequest("/category/{id}", Method.Delete);
+            deleteCategoryRequest.AddHeader("Authorization", $"Bearer {token}");
+            deleteCategoryRequest.AddUrlSegment("id", categoryId);
+
+            var deleteCategoryResponse = client.Execute(deleteCategoryRequest);
+
+            Assert.Multiple(() =>
+            {
+                Assert.That(deleteCategoryResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
+                    "The category delete response did not return a 200 OK status.");
+                Assert.That(deleteCategoryResponse.Content, Is.Not.Null.Or.Empty,
+                    "The category delete response content is null or empty");
+            });
         }
         public void Dispose()
         {

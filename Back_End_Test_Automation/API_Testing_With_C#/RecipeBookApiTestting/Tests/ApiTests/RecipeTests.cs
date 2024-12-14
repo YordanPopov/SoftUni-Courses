@@ -25,7 +25,7 @@ namespace ApiTests
         [Test]
         public void Test_GetAllRecipes()
         {
-            var getAllRecipesRequest = new RestRequest("/recipe", Method.Get);
+            var getAllRecipesRequest = new RestRequest("/recipe");
 
             var getAllRecipesResponse = client.Execute(getAllRecipesRequest);
             Assert.That(getAllRecipesResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -59,7 +59,7 @@ namespace ApiTests
         [Test]
         public void Test_GetRecipeByTitle()
         {
-            RestRequest getAllRecipesRequest = new RestRequest("/recipe", Method.Get);
+            RestRequest getAllRecipesRequest = new RestRequest("/recipe");
 
             RestResponse getAllRecipesResponse = client.Execute(getAllRecipesRequest);
             Assert.That(getAllRecipesResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -81,7 +81,7 @@ namespace ApiTests
         [Test]
         public void Test_AddRecipe()
         {
-            var getAllCategoriesRequest = new RestRequest("/category", Method.Get);
+            var getAllCategoriesRequest = new RestRequest("/category");
 
             var getAllCategoriesResponse = client.Execute(getAllCategoriesRequest);
             Assert.That(getAllCategoriesResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -98,29 +98,28 @@ namespace ApiTests
                 "Category ID is null or empty");
 
             // Create a new recipe
-            var ingredients = new []
+            var payload = new
+            {
+                Title = "Test Recipe",
+                Description = "Test Description",
+                Ingredients = new[]
             {
                 new { name = "ingredient1", quantity = 1 },
                 new { name = "ingredient2", quantity = 2 }
-            };
-
-            var instructions = new[]
+            },
+                Instructions = new[]
             {
                 new { step = "Test step1" },
                 new { step = "Test step2" }
+            },
+                CookingTime = 10,
+                Servings = 10,
+                Category = categoryId
             };
 
             var createRecipeRequest = new RestRequest("/recipe", Method.Post);
             createRecipeRequest.AddHeader("Authorization", $"Bearer {token}");
-            createRecipeRequest.AddJsonBody(new {
-                Title = "Test Recipe",
-                Description = "Test Description",
-                Ingredients = ingredients,
-                Instructions = instructions,
-                CookingTime = 10,
-                Servings = 10,
-                Category = categoryId
-            });
+            createRecipeRequest.AddJsonBody(payload);
 
             var createRecipeResponse = client.Execute(createRecipeRequest);
             Assert.That(createRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -133,7 +132,7 @@ namespace ApiTests
                 "Recipe ID is null or empty");
 
             // Retrieve details for recipe
-            var getRecipeByIdRequest = new RestRequest($"/recipe/{recipeId}", Method.Get);
+            var getRecipeByIdRequest = new RestRequest($"/recipe/{recipeId}");
 
             var getRecipeByIdResponse = client.Execute(getRecipeByIdRequest);
             Assert.That(getRecipeByIdResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -141,57 +140,60 @@ namespace ApiTests
             Assert.That(getRecipeByIdResponse.Content, Is.Not.Null.Or.Empty,
                 "Getting recipe by id response content body is null or empty");
 
-            var recipe = JObject.Parse(getRecipeByIdResponse.Content);
-            Assert.That(recipe["title"]?.ToString(), Is.EqualTo("Test Recipe"),
-                "Recipe title does not match the input");
+            Assert.Multiple(() =>
+            {
+                var recipe = JObject.Parse(getRecipeByIdResponse.Content);
+                Assert.That(recipe["title"]?.ToString(), Is.EqualTo(payload.Title),
+                    "Recipe title does not match the input");
 
-            Assert.That(recipe["cookingTime"].Value<int>, Is.EqualTo(10),
-                "Recipe cookingTime does not match the input");
+                Assert.That(recipe["cookingTime"].Value<int>, Is.EqualTo(payload.CookingTime),
+                    "Recipe cookingTime does not match the input");
 
-            Assert.That(recipe["servings"].Value<int>, Is.EqualTo(10),
-                "Recipe servings does not match the input");
+                Assert.That(recipe["servings"].Value<int>, Is.EqualTo(payload.Servings),
+                    "Recipe servings does not match the input");
 
-            Assert.That(recipe["category"]?.ToString(), Is.Not.Empty,
-                "Recipe category is empty");
+                Assert.That(recipe["category"]?.ToString(), Is.Not.Empty,
+                    "Recipe category is empty");
 
-            Assert.That(recipe["category"]["_id"]?.ToString(), Is.EqualTo(categoryId),
-                "Recipe category ID does not match expected ID");
+                Assert.That(recipe["category"]["_id"]?.ToString(), Is.EqualTo(categoryId),
+                    "Recipe category ID does not match expected ID");
 
-            Assert.That(recipe["ingredients"]?.Type, Is.EqualTo(JTokenType.Array),
-                "Recipe ingredients type is not an array");
+                Assert.That(recipe["ingredients"]?.Type, Is.EqualTo(JTokenType.Array),
+                    "Recipe ingredients type is not an array");
 
-            Assert.That(recipe["ingredients"].Count, Is.EqualTo(ingredients.Length),
-                "Recipe ingredients count does not match the input count");
+                Assert.That(recipe["ingredients"].Count, Is.EqualTo(payload.Ingredients.Count()),
+                    "Recipe ingredients count does not match the input count");
 
-            Assert.That(recipe["ingredients"][0]["name"].ToString(), Is.EqualTo("ingredient1"),
-                "Recipe ingredients element does not match the input");
+                Assert.That(recipe["ingredients"][0]["name"].ToString(), Is.EqualTo(payload.Ingredients[0].name),
+                    "Recipe ingredients element does not match the input");
 
-            Assert.That(recipe["ingredients"][1]["name"].ToString(), Is.EqualTo("ingredient2"),
-                "Recipe ingredients element does not match the input");
+                Assert.That(recipe["ingredients"][1]["name"].ToString(), Is.EqualTo(payload.Ingredients[1].name),
+                    "Recipe ingredients element does not match the input");
 
-            Assert.That(recipe["ingredients"][0]["quantity"].Value<int>, Is.EqualTo(1),
-                "Recipe ingredients element does not match the input");
+                Assert.That(recipe["ingredients"][0]["quantity"].Value<int>, Is.EqualTo(payload.Ingredients[0].quantity),
+                    "Recipe ingredients element does not match the input");
 
-            Assert.That(recipe["ingredients"][1]["quantity"].Value<int>, Is.EqualTo(2),
-                "Recipe ingredients element does not match the input");
+                Assert.That(recipe["ingredients"][1]["quantity"].Value<int>, Is.EqualTo(payload.Ingredients[1].quantity),
+                    "Recipe ingredients element does not match the input");
 
-            Assert.That(recipe["instructions"].Type, Is.EqualTo(JTokenType.Array),
-                "Recipe instructions type is not an array");
+                Assert.That(recipe["instructions"].Type, Is.EqualTo(JTokenType.Array),
+                    "Recipe instructions type is not an array");
 
-            Assert.That(recipe["instructions"].Count, Is.EqualTo(instructions.Length),
-                "Recipe instructions count does not match the input count");
+                Assert.That(recipe["instructions"].Count, Is.EqualTo(payload.Instructions.Count()),
+                    "Recipe instructions count does not match the input count");
 
-            Assert.That(recipe["instructions"][0]["step"].ToString(), Is.EqualTo("Test step1"),
-                "Recipe instructions element does not match the input");
+                Assert.That(recipe["instructions"][0]["step"].ToString(), Is.EqualTo(payload.Instructions[0].step),
+                    "Recipe instructions element does not match the input");
 
-            Assert.That(recipe["instructions"][1]["step"].ToString(), Is.EqualTo("Test step2"),
-                "Recipe instructions element does not match the input");
+                Assert.That(recipe["instructions"][1]["step"].ToString(), Is.EqualTo(payload.Instructions[1].step),
+                    "Recipe instructions element does not match the input");
+            });
         }
 
         [Test]
         public void Test_UpdateRecipe()
         {
-            RestRequest getAllRecipesRequest = new RestRequest("/recipe", Method.Get);
+            RestRequest getAllRecipesRequest = new RestRequest("/recipe");
 
             RestResponse getAllRecipesResponse = client.Execute(getAllRecipesRequest);
             Assert.That(getAllRecipesResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -232,7 +234,7 @@ namespace ApiTests
         [Test]
         public void Test_DeleteRecipe()
         {
-            RestRequest getAllRecipesRequest = new RestRequest("/recipe", Method.Get);
+            RestRequest getAllRecipesRequest = new RestRequest("/recipe");
 
             RestResponse getAllRecipesResponse = client.Execute(getAllRecipesRequest);
             Assert.That(getAllRecipesResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
@@ -256,7 +258,7 @@ namespace ApiTests
             Assert.That(deleteRecipeResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK),
                 "Deleting recipe is failed");
 
-            var verifyDeleteRequest = new RestRequest($"/recipe/{recipeId}", Method.Get);
+            var verifyDeleteRequest = new RestRequest($"/recipe/{recipeId}");
 
             var verifyDeleteResponse = client.Execute(verifyDeleteRequest);
             Assert.That(verifyDeleteResponse.Content, Is.Null.Or.EqualTo("null"),

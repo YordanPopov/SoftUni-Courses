@@ -1,0 +1,12 @@
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.deps.json
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.dll
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.pdb
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfo.cs
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.dll
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\refint\ItemManagementLib.dll
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.pdb
+D:\GitHub\SoftUni-Courses\Back_End_Test_Automation\Unit-Testing-With-Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ref\ItemManagementLib.dll

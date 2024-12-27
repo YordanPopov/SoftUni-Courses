@@ -47,20 +47,20 @@ namespace ForumApp.Data.Migrations
                         new
                         {
                             Id = 1,
-                            Content = "First post content",
-                            Title = "First post"
+                            Content = "My first post will be about performing CRUD operations in MVC. It's so much fun.",
+                            Title = "My first post"
                         },
                         new
                         {
                             Id = 2,
-                            Content = "Second post content",
-                            Title = "Second post"
+                            Content = "This is my second post. CRUD operations in MVC are getting more and more interesting.",
+                            Title = "My second post"
                         },
                         new
                         {
                             Id = 3,
-                            Content = "Third post content",
-                            Title = "Third post"
+                            Content = "Hello there! I'm getting better and better with the CRUD operations in MVC. Stay tuned!",
+                            Title = "My third post"
                         });
                 });
 #pragma warning restore 612, 618

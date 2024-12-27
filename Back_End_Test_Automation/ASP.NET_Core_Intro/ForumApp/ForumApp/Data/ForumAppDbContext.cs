@@ -31,22 +31,22 @@ namespace ForumApp.Data
 			FirstPost = new Post()
 			{
 				Id = 1,
-				Title = "First post",
-				Content = "First post content"
+				Title = "My first post",
+				Content = "My first post will be about performing CRUD operations in MVC. It's so much fun."
 			};
 
 			SecondPost = new Post()
 			{
 				Id = 2,
-				Title = "Second post",
-				Content = "Second post content"
+				Title = "My second post",
+				Content = "This is my second post. CRUD operations in MVC are getting more and more interesting."
 			};
 
 			ThirdPost = new Post()
 			{
 				Id = 3,
-				Title = "Third post",
-				Content = "Third post content"
+				Title = "My third post",
+				Content = "Hello there! I'm getting better and better with the CRUD operations in MVC. Stay tuned!"
 			};
 		}
 	}

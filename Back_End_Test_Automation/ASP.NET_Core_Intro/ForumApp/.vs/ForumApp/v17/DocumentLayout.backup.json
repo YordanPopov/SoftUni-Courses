@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\data\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\data\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\models\\post\\postformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +31,16 @@
       "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\data\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\data\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\data\\forumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\data\\forumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|d:\\github\\softuni-courses\\back_end_test_automation\\asp.net_core_intro\\forumapp\\forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{427881A1-122D-422C-B39F-31EAD6CC85F5}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +58,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\All.cshtml",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\All.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T08:40:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostFormModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostFormModel.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
+              "RelativeToolTip": "ForumApp\\Models\\Post\\PostFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:26:41.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostViewModel.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
+              "RelativeToolTip": "ForumApp\\Models\\Post\\PostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:26:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T08:26:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ForumApp\\Controllers\\PostController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:22:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T08:17:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
               "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Add.cshtml",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
               "RelativeToolTip": "ForumApp\\Views\\Post\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T19:11:17.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "DataConstants.cs",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Data\\DataConstants.cs",
               "RelativeDocumentMoniker": "ForumApp\\Data\\DataConstants.cs",
@@ -88,93 +162,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ForumApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ForumApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T16:35:05.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "ForumApp\\Controllers\\PostController.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Controllers\\PostController.cs*",
-              "RelativeToolTip": "ForumApp\\Controllers\\PostController.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswCQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T16:34:54.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ForumApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ForumApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T16:05:00.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostViewModel.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
-              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostViewModel.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
-              "RelativeToolTip": "ForumApp\\Models\\Post\\PostViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T16:03:57.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml",
-              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\All.cshtml",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml",
-              "RelativeToolTip": "ForumApp\\Views\\Post\\All.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T16:03:26.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PostFormModel.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
-              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostFormModel.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
-              "RelativeToolTip": "ForumApp\\Models\\Post\\PostFormModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:04:01.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ForumApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T19:19:58.274Z",
               "EditorCaption": ""
             },
             {
@@ -187,21 +183,7 @@
               "RelativeToolTip": "ForumApp\\Data\\Models\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:59:45.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ForumAppDbContext.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Data\\ForumAppDbContext.cs",
-              "RelativeDocumentMoniker": "ForumApp\\Data\\ForumAppDbContext.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Back_End_Test_Automation\\ASP.NET_Core_Intro\\ForumApp\\ForumApp\\Data\\ForumAppDbContext.cs",
-              "RelativeToolTip": "ForumApp\\Data\\ForumAppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:03:35.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T18:59:45.633Z"
             }
           ]
         },

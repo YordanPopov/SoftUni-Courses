@@ -27,7 +27,7 @@ export const recipeSelection = {
         }
     },
 
-    getRecipeByCategory(recipes, category) {
+    getRecipesByCategory(recipes, category) {
         if (!Array.isArray(recipes) || typeof category !== "string") {
             throw new Error("Invalid input");
 

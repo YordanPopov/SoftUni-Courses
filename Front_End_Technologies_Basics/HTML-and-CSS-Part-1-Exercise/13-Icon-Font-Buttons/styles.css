@@ -1,1 +1,29 @@
-/* TODO: style the html */
+body {
+    font-family: Arial, serif;
+    font-size: 18px;
+    line-height: 3;
+}
+
+a {
+    text-decoration: none;
+    padding: 12.6px 27px;
+    border: 1px solid;
+    border-radius: 5.40px;
+    color: #fff;
+}
+
+i {
+    padding-right: 5.40px;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+background-color: orange;
+}
+
+a:hover{
+    cursor: pointer;
+}

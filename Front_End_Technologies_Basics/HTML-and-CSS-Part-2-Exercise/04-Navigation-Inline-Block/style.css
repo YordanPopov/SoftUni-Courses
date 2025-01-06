@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    margin-top: 50oxpx;
+    margin-top: 50px;
 }
 
 h1 {
@@ -29,6 +29,6 @@ a {
 
 p {
     text-align: justify;
-    width: 95%;
+    margin-bottom: 15px;
 }
 

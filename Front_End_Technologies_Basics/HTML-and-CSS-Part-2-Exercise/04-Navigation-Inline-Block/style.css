@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    margin-top: 50oxpx;
+}
+
+h1 {
+    width: 180px;
+    height: 30px;
+    margin: 0;
+    float: left;
+}
+
+nav {
+    margin-left: 300px;
+}
+nav li  {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    padding: 10px;
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+    width: 95%;
+}
+
+

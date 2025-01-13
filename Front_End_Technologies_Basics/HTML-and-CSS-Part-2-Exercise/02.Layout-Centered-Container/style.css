@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+body {
+    border: 2px solid green;
+    padding: 2em;
+}
+
+.site {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2em;
+    border: 2px solid blue;
+    background-color: white;
+}
+
+.site>header,
+.site>main,
+.site>footer {
+    border: 2px solid black;
+    padding: 2em;
+    text-align: center;
+}
+
+.site>header,
+.site>main {
+    margin-bottom: 2em;
+}

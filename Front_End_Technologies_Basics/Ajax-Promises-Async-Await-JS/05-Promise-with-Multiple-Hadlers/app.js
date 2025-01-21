@@ -7,7 +7,7 @@ function promiseWithMultipleHandlers() {
 
     prom.then((res) => {
         console.log(res + " This is first res...");
-        return prom;
+        return res;
     }).then((res) => {
         console.log(res + " This is second res...");
     });

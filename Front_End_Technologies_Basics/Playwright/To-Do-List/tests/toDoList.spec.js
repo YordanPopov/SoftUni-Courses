@@ -48,7 +48,7 @@ test.describe('test suite', () => {
     });
 });
 
-test.describe.only('Demo tests', () => {
+test.describe('Demo tests', () => {
     test.setTimeout(60_000);
 
     test.beforeEach('', async ({ page }) => {
@@ -77,7 +77,7 @@ test.describe.only('Demo tests', () => {
         expect(activeTask).not.toBeNull();
     })
 
-    test.only('Demo test_2', async ({ page }) => {
+    test('Demo test_2', async ({ page }) => {
         const tasksCount = 5;
 
         for (let index = 0; index < tasksCount; index++) {

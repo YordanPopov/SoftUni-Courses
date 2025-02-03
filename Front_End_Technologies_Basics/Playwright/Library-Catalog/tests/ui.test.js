@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 
 test.describe('NavBar for guest users', () => {
-    test.beforeEach('', async ({ page }) => {
+    test.beforeEach('Open URL', async ({ page }) => {
         await page.goto('http://localhost:3000');
     });
 
@@ -42,32 +42,32 @@ test.describe('NavBar for logged-In users', () => {
         await page.waitForSelector('nav.navbar');
 
         const allBooksLink = await page.$('a[href="/catalog"]');
-
-        expect(await allBooksLink.isVisible()).toBeTruthy();
+        const isVisible = await allBooksLink.isVisible();
+        expect(isVisible).toBeTruthy();
     });
 
     test('Verify that [My Books] link is visible after user login', async ({ page }) => {
         await page.waitForSelector('nav.navbar');
 
         const MyBookLink = await page.$('a[href="/profile"]');
-
-        expect(await MyBookLink.isVisible()).toBeTruthy();
+        const isVisible = await MyBookLink.isVisible();
+        expect(isVisible).toBeTruthy();
     });
 
     test('Verify that [Add Book] link is visible after user login', async ({ page }) => {
         await page.waitForSelector('nav.navbar');
 
         const AddBookLink = await page.$('a[href="/create"]');
-
-        expect(await AddBookLink.isVisible()).toBeTruthy();
+        const isVisible = await AddBookLink.isVisible();
+        expect(isVisible).toBeTruthy();
     });
 
     test('Verify that [Logout] button is visible after user login', async ({ page }) => {
         await page.waitForSelector('nav.navbar');
 
         const logoutBtn = await page.$('#logoutBtn');
-
-        expect(await logoutBtn.isVisible()).toBeTruthy();
+        const isVisible = await logoutBtn.isVisible();
+        expect(isVisible).toBeTruthy();
     });
 
     test('Verify that the email address of user is visible', async ({ page }) => {
@@ -122,7 +122,7 @@ test.describe('Test Login page', () => {
         expect(page.url()).toBe('http://localhost:3000/login');
     });
 
-    test('Submit the form with empty password input field', async ({ page }) => {
+    test.only('Submit the form with empty password input field', async ({ page }) => {
         await page.fill('input[name="email"]', 'peter@abv.bg');
         await page.click('input[type="submit"]');
 
@@ -243,3 +243,4 @@ test.describe('Test Register page', () => {
 
     });
 });
+

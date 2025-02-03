@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const exp = require('constants');
 
 test.describe('NavBar for guest users', () => {
     test.beforeEach('Open URL', async ({ page }) => {
@@ -122,7 +123,7 @@ test.describe('Test Login page', () => {
         expect(page.url()).toBe('http://localhost:3000/login');
     });
 
-    test.only('Submit the form with empty password input field', async ({ page }) => {
+    test('Submit the form with empty password input field', async ({ page }) => {
         await page.fill('input[name="email"]', 'peter@abv.bg');
         await page.click('input[type="submit"]');
 
@@ -244,3 +245,33 @@ test.describe('Test Register page', () => {
     });
 });
 
+test.describe.only('Test [Add Book] page', () => {
+    let rnd = Math.floor(Math.random() * 101);
+
+    test.beforeEach('Open login page', async ({ page }) => {
+        await page.goto('http://localhost:3000/login');
+
+    });
+
+    test('Submit the form with valid data', async ({ page }) => {
+        await page.fill('input[name="email"]', 'peter@abv.bg');
+        await page.fill('input[name="password"]', '123456');
+
+        await Promise.all([
+            page.click('input[type="submit"]'),
+            page.waitForURL('http://localhost:3000/catalog')
+        ]);
+
+        await page.click('a[href="/create"]');
+        await page.waitForSelector('section#create-page');
+
+        await page.fill('input#title', `Some-Title-${rnd}`);
+        await page.fill('textarea#description', `Some-Description-${rnd}`);
+        await page.fill('input#image', 'https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg');
+        await page.selectOption('select#type', 'Other');
+        await page.click('input.button.submit');
+
+        await page.waitForURL('http://localhost:3000/catalog');
+        expect(page.url()).toBe('http://localhost:3000/catalog');
+    });
+});

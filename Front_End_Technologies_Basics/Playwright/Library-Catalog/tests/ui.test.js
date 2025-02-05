@@ -7,6 +7,13 @@ const user = {
     password: "123456"
 };
 
+const book = {
+    title: '',
+    description: '',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg',
+    type: 'Other'
+}
+
 test.describe('NavBar for guest users', () => {
     test.beforeEach('Open URL', async ({ page }) => {
         await page.goto(host);
@@ -266,16 +273,18 @@ test.describe('Test [Add Book] page', () => {
         page.click('input[type="submit"]');
     });
 
-    test.only('Submit the form with valid data', async ({ page }) => {
+    test('Submit the form with valid data', async ({ page }) => {
+        book.title = `Some-Title-${rnd}`;
+        book.description = 'Some-Description-${rnd}';
         await page.waitForURL(host + '/catalog');
 
         await page.click('a[href="/create"]');
         await page.waitForSelector('section#create-page');
 
-        await page.fill('input#title', `Some-Title-${rnd}`);
-        await page.fill('textarea#description', `Some-Description-${rnd}`);
-        await page.fill('input#image', 'https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg');
-        await page.selectOption('select#type', 'Other');
+        await page.fill('input#title', book.title);
+        await page.fill('textarea#description', book.description);
+        await page.fill('input#image', book.img);
+        await page.selectOption('select#type', book.type);
         await page.click('input.button.submit');
 
         await page.waitForURL(host + '/catalog');
@@ -347,5 +356,107 @@ test.describe('Test [Add Book] page', () => {
         await page.waitForURL(host + '/create');
 
         expect(page.url()).toBe(host + '/create');
+    });
+
+    test('Add book with empty fields', async ({ page }) => {
+        await page.click('a[href="/create"]');
+
+        page.on('dialog', async dialog => {
+            expect(dialog.type()).toContain('alert');
+            expect(dialog.message()).toContain('All fields are required!');
+            await dialog.accept();
+        });
+
+        await page.click('input[type="submit"]');
+
+        await page.waitForURL(host + '/create');
+        expect(page.url()).toBe(host + '/create');
+        await expect(page.locator('section#create-page')).toBeVisible();
+    });
+});
+
+test.describe('Test [All books] page', () => {
+    test('Verify that all books are displayed', async ({ page }) => {
+        await page.goto(host);
+        await page.click('a[href="/catalog"]');
+        await page.waitForURL(host + '/catalog');
+
+        const allBooks = await page.locator('.other-books-list li').all();
+        expect(allBooks.length).toBeGreaterThanOrEqual(0);
+    });
+
+    test('Verify that No Books message is displayed', async ({ page }) => {
+        //TO DO
+    });
+});
+
+test.describe('Test [Details] page', () => {
+    test('Verify that logged-in user sees details button and button work correctrly', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.fill('input#email', 'john@abv.bg');
+        await page.fill('input#password', '123456');
+
+        await Promise.all([
+            page.click('input[type="submit"]'),
+            page.waitForURL(host + '/catalog')
+        ]);
+
+        await page.click('a[href="/catalog"]');
+
+        await page.waitForSelector('.otherBooks');
+        await page.click('.otherBooks a.button');
+
+        await page.waitForSelector('.book-information');
+        const detailsPageTitle = await page.textContent('.book-information h3');
+        expect(detailsPageTitle).toContain(book.title);
+    });
+
+    test('Verify that guest user sees detail button and button work correctly', async ({ page }) => {
+        await page.goto(host);
+        await page.click('a[href="/catalog"]');
+
+        await page.waitForSelector('.otherBooks');
+        await page.click('.other-books-list li.otherBooks:first-child a.button');
+
+        await page.waitForSelector('div.book-information');
+        const bookDetails = await page.textContent('.book-information h3');
+        expect(bookDetails).toContain(book.title);
+    });
+
+    test('Verify that guest user sees all book info correctly', async ({ page }) => {
+        await page.goto(host);
+        await page.click('a[href="/catalog"]');
+
+        await page.waitForSelector('.otherBooks');
+        await page.click('.other-books-list li.otherBooks:first-child a.button');
+
+        await page.waitForSelector('div.book-information');
+        const bookTitle = await page.textContent('.book-information h3');
+        const bookType = await page.textContent('.book-information p.type');
+        const bookDescription = await page.textContent('.book-description p');
+
+        expect(bookTitle).toBe(book.title);
+        expect(bookType).toContain(book.type);
+        expect(bookDescription).toBe(book.description);
+    });
+
+    test('Verify that [Edit] and [Delete] buttons are visible for creator', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.fill('input[name="email"]', user.email);
+        await page.fill('input[name="password"]', user.password);
+        await page.click('input[type="submit"]');
+        await page.click('ul li.otherBooks:first-child a.button');
+
+        await expect(page.locator('div.actions >> a.button >> text=Edit')).toBeVisible();
+        await expect(page.locator('div.actions >> a.button >> text=Delete')).toBeVisible();
+    });
+
+    test('Verify that [Edit] and [Delete] buttons are hidden for non-creator', async ({ page }) => {
+        await page.goto(host);
+        await page.locator('a[href="/catalog"]').click();
+        await page.locator('ul li.otherBooks:first-child a.button').click();
+
+        await expect(page.locator('div.actions >> a.button >> text=Edit')).toBeHidden();
+        await expect(page.locator('div.actions >> a.button >> text=Delete')).toBeHidden();
     });
 });

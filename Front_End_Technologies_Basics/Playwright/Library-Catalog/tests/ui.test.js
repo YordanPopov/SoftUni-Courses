@@ -6,7 +6,6 @@ const user = {
     email: "peter@abv.bg",
     password: "123456"
 };
-
 const book = {
     title: '',
     description: '',
@@ -264,8 +263,6 @@ test.describe('Test Register page', () => {
 });
 
 test.describe('Test [Add Book] page', () => {
-    let rnd = Math.floor(Math.random() * 101);
-
     test.beforeEach('Open login page URL and fill user data', async ({ page }) => {
         await page.goto(host + '/login');
         await page.fill('input[name="email"]', user.email);
@@ -274,8 +271,9 @@ test.describe('Test [Add Book] page', () => {
     });
 
     test('Submit the form with valid data', async ({ page }) => {
-        book.title = `Some-Title-${rnd}`;
-        book.description = 'Some-Description-${rnd}';
+        let rnd = Math.floor(Math.random() * 101);
+        book.title = 'Some-Title-' + rnd;
+        book.description = 'Some-Description' + rnd;
         await page.waitForURL(host + '/catalog');
 
         await page.click('a[href="/create"]');
@@ -289,7 +287,7 @@ test.describe('Test [Add Book] page', () => {
 
         await page.waitForURL(host + '/catalog');
         expect(page.url()).toBe(host + '/catalog');
-        await expect(page.locator(`h3 >> text=Some-Title-${rnd}`)).toBeVisible();
+        await expect(page.locator(`h3 >> text=${book.title}`)).toBeVisible();
     });
 
     test('Add book with empty title field', async ({ page }) => {
@@ -298,7 +296,7 @@ test.describe('Test [Add Book] page', () => {
         await page.click('a[href="/create"]');
         await page.waitForSelector('section#create-page');
 
-        await page.fill('textarea#description', `Some-Description-${rnd}`);
+        await page.fill('textarea#description', book.description);
         await page.fill('input#image', 'https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg');
         await page.selectOption('select#type', 'Other');
 
@@ -320,7 +318,7 @@ test.describe('Test [Add Book] page', () => {
         await page.click('a[href="/create"]');
         await page.waitForSelector('section#create-page');
 
-        await page.fill('input[name="title"]', `Some-Title-${rnd}`);
+        await page.fill('input[name="title"]', book.title);
         await page.fill('input#image', 'https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg');
         await page.selectOption('select#type', 'Other');
 
@@ -342,8 +340,8 @@ test.describe('Test [Add Book] page', () => {
         await page.click('a[href="/create"]');
         await page.waitForSelector('section#create-page');
 
-        await page.fill('input[name="title"]', `Some-Title-${rnd}`);
-        await page.fill('textarea#description', `Some-Description-${rnd}`);
+        await page.fill('input[name="title"]', book.title);
+        await page.fill('textarea#description', book.description);
         await page.selectOption('select#type', 'Other');
 
         page.on('dialog', async dialog => {
@@ -420,7 +418,7 @@ test.describe('Test [Details] page', () => {
 
         await page.waitForSelector('div.book-information');
         const bookDetails = await page.textContent('.book-information h3');
-        expect(bookDetails).toContain(book.title);
+        expect(bookDetails).toBe(book.title);
     });
 
     test('Verify that guest user sees all book info correctly', async ({ page }) => {
@@ -459,4 +457,96 @@ test.describe('Test [Details] page', () => {
         await expect(page.locator('div.actions >> a.button >> text=Edit')).toBeHidden();
         await expect(page.locator('div.actions >> a.button >> text=Delete')).toBeHidden();
     });
+
+    test('Verify that [Like] button is not visible for creator', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.fill('input[name="email"]', user.email);
+        await page.fill('input[name="password"]', user.password);
+        await page.click('input[type="submit"]');
+
+        await page.waitForSelector('.otherBooks');
+        await page.click('li.otherBooks >> a.button >> text=Details');
+
+        await expect(page.locator('div.actions >> a.button >> text=Like')).toBeHidden();
+    });
+
+    test('Verify that [Like] button is visible for non-creator', async ({ page }) => {
+        await page.goto(host);
+        await page.click('a[href="/login"]');
+        await page.fill('input[name="email"]', 'john@abv.bg');
+        await page.fill('input[name="password"]', '123456');
+        await page.click('input[type="submit"]');
+        await page.waitForSelector('.otherBooks');
+        await page.click('.otherBooks >> a.button >> text=Details');
+        await expect(page.locator('div.actions >> a.button >> text=Like')).toBeVisible();
+    });
+
+    test('Verify that non-creator can like book', async ({ page }) => {
+        await page.goto(host);
+        await page.click('a[href="/login"]');
+        await page.fill('input[name="email"]', 'john@abv.bg');
+        await page.fill('input[name="password"]', '123456');
+        await page.click('input[type="submit"]');
+        await page.waitForSelector('.otherBooks');
+        await page.click('.otherBooks >> a.button >> text=Details');
+        await page.click('div.actions >> a.button >> text=Like');
+        await page.waitForSelector('div.likes');
+        const likes = await page.textContent('span#total-likes');
+        //expect(likes).toBe('Likes: 1');
+        const totalLikes = likes.match(/\d+/g).map(Number);
+        expect(totalLikes[0]).toBeGreaterThan(0);
+    });
+
+    test('Verify that creator can edit book', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.click('a[href="/login"]');
+        await page.fill('input[name="email"]', user.email);
+        await page.fill('input[name="password"]', user.password);
+        await page.click('input[type="submit"]');
+        await page.waitForSelector('.otherBooks');
+        await page.click('.otherBooks >> a.button >> text=Details');
+        await page.click('div.actions >> a.button >> text=Edit');
+        await page.waitForSelector('section#edit-page');
+        await page.fill('input[name="title"]', 'Edited Title');
+        await page.click('input[type="submit"]');
+        await page.waitForSelector('div.book-information');
+        const editedTitle = await page.textContent('div.book-information h3');
+        expect(editedTitle).toContain('Edited Title');
+    });
+
+    test('Verify that creator can delete book', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.click('a[href="/login"]');
+        await page.fill('input[name="email"]', user.email);
+        await page.fill('input[name="password"]', user.password);
+        await page.click('input[type="submit"]');
+        await page.waitForSelector('.otherBooks');
+        await page.click('.otherBooks >> a.button >> text=Details');
+
+        page.on('dialog', async dialog => {
+            expect(dialog.type()).toContain('confirm');
+            expect(dialog.message()).toContain('Are you sure?');
+            await dialog.accept();
+        });
+        await page.click('div.actions >> a.button >> text=Delete');
+        await page.waitForURL(host + '/catalog');
+        expect(page.url()).toBe(host + '/catalog');
+        const defaultBooks = await page.locator('li.otherBooks').all();
+        expect(defaultBooks.length).toBe(3);
+    });
+});
+
+test.describe('Test [Logout] button', () => {
+    test('Verify that the [Logout] button redirects correctly', async ({ page }) => {
+        await page.goto(host + '/login');
+        await page.fill('input[name="email"]', user.email);
+        await page.fill('input[name="password"]', user.password);
+        await page.click('input[type="submit"]');
+
+        await page.waitForSelector('section.navbar-dashboard');
+        await page.click('div#user >> a.button >> text=Logout');
+
+        await page.waitForURL(host + '/');
+        expect(page.url()).toBe(host + '/');
+    })
 });

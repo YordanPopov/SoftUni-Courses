@@ -284,6 +284,22 @@ test.describe('e2e tests', () => {
             await page.waitForURL(host + '/');
             await expect(page.locator('div#home-page')).not.toContainText('Edited Title');
         });
+
+        test('Non-creator can leave a comment', async ({ page }) => {
+            await page.goto(host + '/login');
+            await page.fill('#email', user.email);
+            await page.fill('#login-password', user.pass);
+            await page.click('input.btn.submit');
+
+            await page.click('a >> text=All games');
+            const detailsBtn = page.locator('.allGames-info', { hasText: 'Zombie Lang' })
+                .locator('a.details-button');
+            await detailsBtn.click();
+            await page.waitForSelector('article.create-comment');
+            await page.fill('textarea[name="comment"]', 'This is a test!!!');
+            await page.click('input[value="Add Comment"]');
+            await expect(page.locator('li.comment >> p', { hasText: 'This is a test!!!' })).toBeVisible();
+        });
     });
 
     test.describe('Home Page', async () => {
@@ -296,6 +312,21 @@ test.describe('e2e tests', () => {
 
             const games = await page.locator('div.game').all();
             expect(games.length).toBeGreaterThanOrEqual(3);
+        });
+
+        test('Show home page for logged in user', async ({ page }) => {
+            await page.goto(host);
+            await page.click('a >> text=Login');
+            await page.fill('#email', user.email);
+            await page.fill('#login-password', user.pass);
+            await page.click('.btn.submit');
+
+            await expect(page.locator('.welcome-message >> h2')).toHaveText('ALL new games are');
+            await expect(page.locator('.welcome-message >> h3')).toHaveText('Only in GamesPlay');
+            await expect(page.locator('#home-page >> h1')).toHaveText('Latest Games');
+
+            const gameDivs = await page.locator('.game').all();
+            expect(gameDivs.length).toBeGreaterThanOrEqual(3);
         });
     });
 });

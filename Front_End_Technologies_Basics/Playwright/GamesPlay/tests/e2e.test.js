@@ -207,7 +207,7 @@ test.describe('e2e tests', () => {
         });
 
         test('Create game with empty fields', async ({ page }) => {
-            await page.locator('a >> text=Create Game').click();
+            await page.click('a >> text=Create Game');
             await page.waitForSelector('form#create');
 
             page.on('dialog', async dialog => {
@@ -221,7 +221,7 @@ test.describe('e2e tests', () => {
         });
 
         test('Create game with valid values', async ({ page }) => {
-            await page.locator('a >> text=Create Game').click();
+            await page.click('a >> text=Create Game');
             await page.waitForSelector('form#create');
 
             let rnd = Math.floor(Math.random() * 101);
@@ -260,7 +260,7 @@ test.describe('e2e tests', () => {
             await expect(page.locator('div.buttons >> a >> text=Delete')).toBeHidden();
         });
 
-        test.skip('Creator can edit the game', async ({ page }) => {
+        test('Creator can edit the game', async ({ page }) => {
             await page.waitForSelector('div.game');
             await page.click('div.game >> div.data-buttons >> a >> text=Details');
             await page.waitForSelector('div.info-section');
@@ -275,7 +275,7 @@ test.describe('e2e tests', () => {
             expect(editedTitle).toBe('Edited Title');
         });
 
-        test.skip('Creator can delete the game', async ({ page }) => {
+        test('Creator can delete the game', async ({ page }) => {
             await page.waitForSelector('div.game');
             await page.click('div.game >> div.data-buttons >> a >> text=Details');
             await page.waitForSelector('div.info-section');

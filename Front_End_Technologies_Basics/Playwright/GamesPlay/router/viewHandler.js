@@ -8,7 +8,6 @@ let mainElement = document.querySelector('#box #main-content');
 let headerElement = document.querySelector('#box header');
 
 function navView(ctx, next) {
-    debugger;
     render(templates.getNavTemplate(), headerElement);
     next();
 }
@@ -45,7 +44,6 @@ async function editView(ctx){
 }
 
 async function detailsView(ctx) {
-    debugger;
     let game = await requests.games.getById(ctx.params.id);
     let comments = await requests.comments.getAll(ctx.params.id);
     render(templates.getDetailsView(game, comments), mainElement);
@@ -61,7 +59,6 @@ function deleteView(ctx){
 }
 
 function logoutView(ctx){
-    debugger;
     requests.user.logout()
     .then(res => {
         if(res.status == 204){

@@ -3,7 +3,6 @@ import { requests } from '../api/requests.js'
 import { userInfo } from '../util/userInfo.js'
 
 async function onCreateSubmit(evt) {
-
     evt.preventDefault();
 
     let formData = new FormData(evt.currentTarget);
@@ -20,16 +19,16 @@ async function onCreateSubmit(evt) {
         };
 
         requests.games.create(item)
-        .then(res => {
-            if(!res.ok){
-                throw new Error('Unable to create a game!')
-            }
-            return res.json();
-        })
-        .then(game => {
-            page.redirect('/');
-        })
-        .catch(err => alert(err.message));
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error('Unable to create a game!')
+                }
+                return res.json();
+            })
+            .then(game => {
+                page.redirect('/');
+            })
+            .catch(err => alert(err.message));
 
     } else {
         alert("All fields are required!")
@@ -37,7 +36,6 @@ async function onCreateSubmit(evt) {
 }
 
 async function onLoginSubmit(evt) {
-    debugger;
     evt.preventDefault();
 
     let formData = new FormData(evt.currentTarget);
@@ -64,7 +62,6 @@ async function onLoginSubmit(evt) {
 }
 
 async function onRegisterSubmit(evt) {
-    debugger;
     evt.preventDefault();
     let formData = new FormData(evt.currentTarget);
 
@@ -112,7 +109,7 @@ function onEditSubmit(evt) {
             maxLevel,
             imageUrl,
             summary
-          
+
         }
 
         requests.games.edit(item, id)
@@ -133,7 +130,7 @@ function onEditSubmit(evt) {
     }
 }
 
-function onCommentSubmit(evt){
+function onCommentSubmit(evt) {
     evt.preventDefault();
 
     let formData = new FormData(evt.currentTarget);
@@ -141,18 +138,18 @@ function onCommentSubmit(evt){
     let gameId = evt.currentTarget.getAttribute('gameid');
 
     let form = evt.currentTarget;
-    requests.comments.postNew({gameId, comment})
-    .then(res => {
-        if(!res.ok){
-            throw new Error('Unable to send comment');
-        }
-        return res.json();
-    })
-    .then(com => {
-        form.reset();
-        page.redirect(`/details/${gameId}`);
-    })
-    .catch(err => alert(err.message))
+    requests.comments.postNew({ gameId, comment })
+        .then(res => {
+            if (!res.ok) {
+                throw new Error('Unable to send comment');
+            }
+            return res.json();
+        })
+        .then(com => {
+            form.reset();
+            page.redirect(`/details/${gameId}`);
+        })
+        .catch(err => alert(err.message))
 }
 
 export const event = {
@@ -172,7 +169,7 @@ function isValidRegister(email, password, repass) {
 }
 
 function isValidCreatingOrEditing(title, category, maxLevel, imageUrl, summary) {
-    if(title == '' || category == '' || maxLevel == '' || imageUrl == '' || summary == ''){
+    if (title == '' || category == '' || maxLevel == '' || imageUrl == '' || summary == '') {
         return false
     }
     return true;

@@ -265,40 +265,47 @@ test.describe('e2e tests', () => {
             await page.click('div.game >> div.data-buttons >> a >> text=Details');
             await page.waitForSelector('div.info-section');
 
+            game.title = `${game.title}_edit`
             await page.click('div.buttons >> a >> text=Edit');
             await page.waitForSelector('form#edit');
-            await page.locator('input#title').fill('Edited Title');
+            await page.fill('input#title', game.title);
             await page.click('input.btn.submit');
 
             await page.waitForSelector('div.info-section');
             const editedTitle = await page.textContent('div.game-header h1');
-            expect(editedTitle).toBe('Edited Title');
+            expect(editedTitle).toBe(game.title);
+        });
+
+        test('Creator cannot leave a comment', async ({ page }) => {
+            await page.click('a >> text=All games');
+            const detailsBtn = page.locator('.allGames-info', { hasText: game.title })
+                .locator('a.details-button');
+            await detailsBtn.click();
+            await expect(page.locator('textarea[name="comment"]')).toBeHidden();
+            await expect(page.locator('input.btn.submit')).toBeHidden();
         });
 
         test('Creator can delete the game', async ({ page }) => {
             await page.waitForSelector('div.game');
-            await page.click('div.game >> div.data-buttons >> a >> text=Details');
+            await page.click(`div.game:has-text("${game.title}") >> div.data-buttons >> a >> text=Details`);
             await page.waitForSelector('div.info-section');
 
             await page.click('div.buttons >> a >> text=Delete');
             await page.waitForURL(host + '/');
-            await expect(page.locator('div#home-page')).not.toContainText('Edited Title');
+            await expect(page.locator('div#home-page')).not.toContainText(game.title);
         });
 
         test('Non-creator can leave a comment', async ({ page }) => {
-            await page.goto(host + '/login');
-            await page.fill('#email', user.email);
-            await page.fill('#login-password', user.pass);
-            await page.click('input.btn.submit');
-
+            let rnd = Math.floor(Math.random() * 1001);
+            let comment = `This is a test comment ${rnd}`;
             await page.click('a >> text=All games');
             const detailsBtn = page.locator('.allGames-info', { hasText: 'Zombie Lang' })
                 .locator('a.details-button');
             await detailsBtn.click();
             await page.waitForSelector('article.create-comment');
-            await page.fill('textarea[name="comment"]', 'This is a test!!!');
+            await page.fill('textarea[name="comment"]', comment);
             await page.click('input[value="Add Comment"]');
-            await expect(page.locator('li.comment >> p', { hasText: 'This is a test!!!' })).toBeVisible();
+            await expect(page.locator('li.comment >> p', { hasText: comment })).toBeVisible();
         });
     });
 
@@ -321,7 +328,7 @@ test.describe('e2e tests', () => {
             await page.fill('#login-password', user.pass);
             await page.click('.btn.submit');
 
-            await expect(page.locator('.welcome-message >> h2')).toHaveText('ALL new games are');
+            await expect.soft(page.locator('.welcome-message >> h2')).toHaveText('ALL new games are');
             await expect(page.locator('.welcome-message >> h3')).toHaveText('Only in GamesPlay');
             await expect(page.locator('#home-page >> h1')).toHaveText('Latest Games');
 

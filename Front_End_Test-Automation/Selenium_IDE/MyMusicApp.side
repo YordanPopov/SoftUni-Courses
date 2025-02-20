@@ -379,6 +379,150 @@
       "targets": [],
       "value": ""
     }]
+  }, {
+    "id": "7afb1484-6922-41f9-85dc-a71f698582cf",
+    "name": "Create an album with valid data",
+    "commands": [{
+      "id": "04e4eaf3-e1fd-4e2e-82fb-22ba5c63449d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3e9bb4c8-e66f-4dc2-b244-4b3d60c0add5",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/login\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7e3740ee-83f2-450d-9109-7637d409baf6",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userEmail');",
+      "targets": [],
+      "value": "userEmail"
+    }, {
+      "id": "b249e3ec-1ad3-4c8a-89f9-a34acad8191a",
+      "comment": "",
+      "command": "type",
+      "target": "css=#email",
+      "targets": [],
+      "value": "${userEmail}"
+    }, {
+      "id": "3bffeca7-c0af-4101-8668-a140d9187499",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userPass');",
+      "targets": [],
+      "value": "userPass"
+    }, {
+      "id": "315b3e55-8109-45f1-aaa0-8575556bed0b",
+      "comment": "",
+      "command": "type",
+      "target": "css=#password",
+      "targets": [],
+      "value": "${userPass}"
+    }, {
+      "id": "01728691-aadd-49e0-8eb5-9fa85b9c7608",
+      "comment": "",
+      "command": "click",
+      "target": "css=[type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c0fd9f35-e90c-4ecd-913a-3f88e2ef282e",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/create\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1686841d-1d9e-4658-a401-5d8b818f215f",
+      "comment": "",
+      "command": "executeScript",
+      "target": "var name = 'AlbumName' + Math.floor(Math.random() * 1000); window.localStorage.setItem('albumName', name); return name",
+      "targets": [],
+      "value": "albumName"
+    }, {
+      "id": "44aca8cb-a8a0-4c9b-99ef-6daecd060dc1",
+      "comment": "",
+      "command": "waitForElementVisible",
+      "target": "css=form",
+      "targets": [],
+      "value": "3000"
+    }, {
+      "id": "47ab28dc-a8c9-40ca-9132-352b12d3ccfd",
+      "comment": "",
+      "command": "type",
+      "target": "css=#name",
+      "targets": [],
+      "value": "${albumName}"
+    }, {
+      "id": "1e2f5f8c-cb97-49f7-ab96-b80c089620ba",
+      "comment": "",
+      "command": "type",
+      "target": "css=#imgUrl",
+      "targets": [],
+      "value": "https://dcblog.b-cdn.net/wp-content/uploads/2021/02/Full-form-of-URL-1.jpg"
+    }, {
+      "id": "174cf08f-9910-479d-8538-adc444b12a35",
+      "comment": "",
+      "command": "type",
+      "target": "css=#price",
+      "targets": [],
+      "value": "10.99"
+    }, {
+      "id": "04155625-af25-4659-abc3-00fa00e58cdf",
+      "comment": "",
+      "command": "type",
+      "target": "css=#releaseDate",
+      "targets": [],
+      "value": "14.12.2025"
+    }, {
+      "id": "a668b8f1-2057-4156-a581-50d00e091b47",
+      "comment": "",
+      "command": "type",
+      "target": "css=#artist",
+      "targets": [],
+      "value": "John Doe"
+    }, {
+      "id": "563b1ac3-9427-41c7-96ab-8c8f19179c10",
+      "comment": "",
+      "command": "type",
+      "target": "css=#genre",
+      "targets": [],
+      "value": "someGenre"
+    }, {
+      "id": "aa909c9f-24b7-4b05-b331-96b9ae956f5e",
+      "comment": "",
+      "command": "type",
+      "target": "css=textarea[name=\"description\"]",
+      "targets": [],
+      "value": "someDescription"
+    }, {
+      "id": "e7c9c127-4dd6-45d8-9de3-11dea15fdee1",
+      "comment": "",
+      "command": "click",
+      "target": "css=[type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "21ac2b42-bd0a-468f-895a-f990182ab894",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=div.text-center p.name",
+      "targets": [],
+      "value": "Name: ${albumName}"
+    }, {
+      "id": "0cbdb459-d5c5-4a70-a84a-317a4f2eacb2",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
   }],
   "suites": [{
     "id": "d3f2d2ef-60c5-414d-a005-c3817af87709",
@@ -400,7 +544,7 @@
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": []
+    "tests": ["7afb1484-6922-41f9-85dc-a71f698582cf"]
   }],
   "urls": ["http://localhost:3000/"],
   "plugins": []

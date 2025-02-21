@@ -14,13 +14,6 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "960acc02-b34d-43ae-93ce-bdc65087af7d",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "1552x840",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "c117f358-38d5-4d1c-a9a3-e088d40d6b18",
       "comment": "",
       "command": "click",
@@ -144,13 +137,6 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "d08c4a81-3c7b-4b5d-ab1b-5f19940d300c",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "1552x840",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "c688b7f6-0c54-4c5f-b3e7-34d3e06b9a11",
       "comment": "",
       "command": "click",
@@ -262,13 +248,6 @@
       "comment": "",
       "command": "open",
       "target": "/",
-      "targets": [],
-      "value": ""
-    }, {
-      "id": "875edeba-a6fc-4a1f-99be-244b7bc2acb2",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "1051x806",
       "targets": [],
       "value": ""
     }, {
@@ -523,6 +502,210 @@
       "targets": [],
       "value": ""
     }]
+  }, {
+    "id": "50525521-c1a3-455e-8a73-f6cdca1d1d6c",
+    "name": "Edit an album with valid data",
+    "commands": [{
+      "id": "9798bbd7-1f6a-448d-9a71-993f42f6dde4",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "47343c87-78ea-4a23-8124-110233dca9f5",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/login\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "968f5db7-e5fd-418c-970b-6bad08cf2876",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userEmail');",
+      "targets": [],
+      "value": "userEmail"
+    }, {
+      "id": "7e90569b-4d83-424e-a23c-9ba72ddb0a65",
+      "comment": "",
+      "command": "type",
+      "target": "css=#email",
+      "targets": [],
+      "value": "${userEmail}"
+    }, {
+      "id": "59bbb5c5-e2f9-4317-98ea-1f6770d5f874",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userPass');",
+      "targets": [],
+      "value": "userPass"
+    }, {
+      "id": "1fcfdc32-c3e8-4b50-b388-8daed309144a",
+      "comment": "",
+      "command": "type",
+      "target": "css=#password",
+      "targets": [],
+      "value": "${userPass}"
+    }, {
+      "id": "6c19ce49-2614-48e0-bdd8-4e2edc079312",
+      "comment": "",
+      "command": "click",
+      "target": "css=button[type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "022afd23-f2e9-421e-a7ee-b880be2dfb89",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/catalog\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3b8528f5-281d-4638-b629-dae27873242d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card-box .btn-group #details:first-child",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3c1a1898-2a04-4a03-bac2-7ee976b42c15",
+      "comment": "",
+      "command": "click",
+      "target": "css=div.actionBtn > a.edit",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f91d7888-a55a-4fd2-8024-02793fde3230",
+      "comment": "",
+      "command": "executeScript",
+      "target": "var name = window.localStorage.getItem('albumName'); return name + '_edited'",
+      "targets": [],
+      "value": "albumName"
+    }, {
+      "id": "e8e36fbf-d57e-4efe-96f5-cf9fb0cf0640",
+      "comment": "",
+      "command": "type",
+      "target": "css=#name",
+      "targets": [],
+      "value": "${albumName}"
+    }, {
+      "id": "b02ed55c-0805-426b-87b3-f2eeb4573bee",
+      "comment": "",
+      "command": "click",
+      "target": "css=button.edit-album",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3df3ce8b-fa4c-4ce7-ae91-9403d65636a5",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=div.albumText h1",
+      "targets": [],
+      "value": "Name: ${albumName}"
+    }, {
+      "id": "b8502a53-2887-416f-8359-a09e02c3f36b",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "351426f4-e430-4578-b712-17def2db4380",
+    "name": "Delete an album",
+    "commands": [{
+      "id": "d698cb6d-cb90-4cb1-9940-c9d2d6a7e360",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92f74e37-ffbc-46c6-93ce-b7f666346494",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/login\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5400e9ff-67f9-4633-a355-cc5283257c01",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userEmail');",
+      "targets": [],
+      "value": "userEmail"
+    }, {
+      "id": "7d965dc2-9aad-4de8-a792-0c17029772db",
+      "comment": "",
+      "command": "type",
+      "target": "css=#email",
+      "targets": [],
+      "value": "${userEmail}"
+    }, {
+      "id": "71f4c42c-c885-4510-8324-2638c259ec00",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userPass');",
+      "targets": [],
+      "value": "userPass"
+    }, {
+      "id": "b24ee8d2-a107-4d49-a822-544e87f85e9d",
+      "comment": "",
+      "command": "type",
+      "target": "css=#password",
+      "targets": [],
+      "value": "${userPass}"
+    }, {
+      "id": "cd1bab72-2426-46e4-aff2-7a0bed69f7af",
+      "comment": "",
+      "command": "click",
+      "target": "css=button[type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5dc6488b-33e7-4e6c-aaae-a0f3f582cdc3",
+      "comment": "",
+      "command": "click",
+      "target": "css=a[href=\"/catalog\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2c61449b-deab-4e5a-8b72-2908d55341d4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card-box .btn-group #details:first-child",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f162806f-819b-404a-8281-8505e40682a4",
+      "comment": "",
+      "command": "click",
+      "target": "css=div.actionBtn > a.remove",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d46e71f0-598c-4857-b351-61500a945d04",
+      "comment": "",
+      "command": "executeScript",
+      "target": "var name = window.localStorage.getItem('albumName'); return name + '_edited'",
+      "targets": [],
+      "value": "albumName"
+    }, {
+      "id": "78e3bdca-9628-44f2-8609-10bc7bb89648",
+      "comment": "",
+      "command": "assertElementNotPresent",
+      "target": "xpath=//div[@class='card-box']/div/div/p[text()='${albumName}']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3c856e17-18fa-449b-923c-d546d24a0ee9",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
   }],
   "suites": [{
     "id": "d3f2d2ef-60c5-414d-a005-c3817af87709",
@@ -544,7 +727,7 @@
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": ["7afb1484-6922-41f9-85dc-a71f698582cf"]
+    "tests": ["7afb1484-6922-41f9-85dc-a71f698582cf", "50525521-c1a3-455e-8a73-f6cdca1d1d6c", "351426f4-e430-4578-b712-17def2db4380"]
   }],
   "urls": ["http://localhost:3000/"],
   "plugins": []

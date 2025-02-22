@@ -706,6 +706,221 @@
       "targets": [],
       "value": ""
     }]
+  }, {
+    "id": "c7ba3b82-1d02-43a1-8479-565a48151577",
+    "name": "Navigation bar for logged-in user",
+    "commands": [{
+      "id": "5e772a85-7ff3-41c0-b7ce-70568b4d7901",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab905cb8-030d-4790-a87c-39ae6d58b9c3",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Login",
+      "targets": [
+        ["linkText=Login", "linkText"],
+        ["css=li:nth-child(3) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//div[@id='box']/header/nav/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/login')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6dea5be3-54b1-42b9-8cb0-a4e1bb19620d",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=form",
+      "targets": [
+        ["css=form", "css:finder"],
+        ["xpath=//section[@id='loginPage']/form", "xpath:idRelative"],
+        ["xpath=//form", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f69bd5e4-b467-43cd-91e3-1c33594bbf14",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userEmail');",
+      "targets": [],
+      "value": "userEmail"
+    }, {
+      "id": "32ef3b13-3e76-4520-8dc3-eaa197e41aff",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.localStorage.getItem('userPass');",
+      "targets": [],
+      "value": "userPass"
+    }, {
+      "id": "179416e2-499c-48f8-aac1-f7c995c03b05",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//section[@id='loginPage']/form/fieldset/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${userEmail}"
+    }, {
+      "id": "31e08aef-3f0e-4159-ac8a-baef584b4a6d",
+      "comment": "",
+      "command": "type",
+      "target": "id=password",
+      "targets": [
+        ["id=password", "id"],
+        ["name=password", "name"],
+        ["css=#password", "css:finder"],
+        ["xpath=//input[@id='password']", "xpath:attributes"],
+        ["xpath=//section[@id='loginPage']/form/fieldset/input[2]", "xpath:idRelative"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "${userPass}"
+    }, {
+      "id": "53de2247-cdcc-4045-8dff-4cd89d14afe7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.login",
+      "targets": [
+        ["css=.login", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//section[@id='loginPage']/form/fieldset/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "69b95b4c-2fb5-4904-a85f-56475824b22a",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa52b3e3-672e-4528-a4cb-a8e5eb4b4268",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/catalog']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4556164f-bc04-4bcd-a46b-4eb8c0034df6",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/search']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ec1c814b-bd55-4a61-b3fb-102107b83555",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/create']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "67740189-ae28-49f1-b0cb-bdd01a7be3b4",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "07d93532-9c6b-42cf-bf48-39fa6441af54",
+      "comment": "",
+      "command": "assertElementNotPresent",
+      "target": "xpath=//a[@href='/login']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "036a56ed-f44e-4240-adab-b5353ee7edaa",
+      "comment": "",
+      "command": "assertElementNotPresent",
+      "target": "xpath=//a[@href='/register']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2e506c8f-fff4-4a7e-ac1b-e93934eddb3d",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "cbab2d05-6e5a-4ddd-9a28-9d3a020f5ab8",
+    "name": "Navigation bar for guest user",
+    "commands": [{
+      "id": "5d44f96b-c7f8-412a-a953-732ccb1f9e69",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9ebd34e4-01ae-4a9d-91c3-8b5104d5e8b6",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5372b72b-1965-456c-b80c-a827091afdb3",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/catalog']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6e82ff4d-a93f-46d4-b9c7-e8ab5ea6aacc",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/search']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "97c0a398-1bd5-462c-bde8-a1e3a7f07c72",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/login']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "76ce52f0-e8cb-44e3-a2d5-377c5f06f3ab",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "xpath=//a[@href='/register']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f0b727fb-0a43-44ed-903c-729c9276ff39",
+      "comment": "",
+      "command": "assertElementNotPresent",
+      "target": "xpath=//a[@href='/create']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "96e4b857-4a1b-4d87-b882-5223338f219f",
+      "comment": "",
+      "command": "assertElementNotPresent",
+      "target": "xpath=//a[@href='/logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2179d5d4-78fa-459b-a970-5b83404b11e6",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
   }],
   "suites": [{
     "id": "d3f2d2ef-60c5-414d-a005-c3817af87709",
@@ -720,7 +935,7 @@
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": []
+    "tests": ["c7ba3b82-1d02-43a1-8479-565a48151577", "cbab2d05-6e5a-4ddd-9a28-9d3a020f5ab8"]
   }, {
     "id": "fbfb48b4-32b3-4cbf-aefd-2e3437660470",
     "name": "CRUD",

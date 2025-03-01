@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikipediaSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3993fbcafcfef199b03545f8b43742ca16c57de0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b620d1d4ff0f62f4044cc1d8c7f0947b8222d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikipediaSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikipediaSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

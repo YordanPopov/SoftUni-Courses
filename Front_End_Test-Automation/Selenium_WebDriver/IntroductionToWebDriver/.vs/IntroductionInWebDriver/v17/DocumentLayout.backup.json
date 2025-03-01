@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\",
+  "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\introductioninwebdriver\\wikipediasite\\nakovsitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\introductiontowebdriver\\wikipediasite\\practicelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|solutionrelative:wikipediasite\\practicelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\introductiontowebdriver\\wikipediasite\\nakovsitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|solutionrelative:wikipediasite\\nakovsitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\introductioninwebdriver\\wikipediasite\\openwikipediasite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\introductiontowebdriver\\wikipediasite\\openwikipediasite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B459AFD0-C617-4A61-9493-8046769A83EA}|WikipediaSite\\WikipediaSite.csproj|solutionrelative:wikipediasite\\openwikipediasite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,25 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "practiceLocators.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\practiceLocators.cs",
+              "RelativeDocumentMoniker": "WikipediaSite\\practiceLocators.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\practiceLocators.cs",
+              "RelativeToolTip": "WikipediaSite\\practiceLocators.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:45:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NakovSiteTest.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\NakovSiteTest.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\NakovSiteTest.cs",
               "RelativeDocumentMoniker": "WikipediaSite\\NakovSiteTest.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\NakovSiteTest.cs*",
-              "RelativeToolTip": "WikipediaSite\\NakovSiteTest.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAAA9AAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\NakovSiteTest.cs",
+              "RelativeToolTip": "WikipediaSite\\NakovSiteTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T16:58:57.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OpenWikipediaSite.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\OpenWikipediaSite.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\OpenWikipediaSite.cs",
               "RelativeDocumentMoniker": "WikipediaSite\\OpenWikipediaSite.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\OpenWikipediaSite.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\OpenWikipediaSite.cs",
               "RelativeToolTip": "WikipediaSite\\OpenWikipediaSite.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T16:41:25.573Z",
               "EditorCaption": ""

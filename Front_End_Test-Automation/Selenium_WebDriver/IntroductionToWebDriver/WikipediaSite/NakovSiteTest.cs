@@ -28,7 +28,7 @@ public class NakovSiteTest
 
         var message = _driver.FindElement(By.Id("s"));
         var placeHolder = message.GetAttribute("placeholder");
-        Assert.That(placeHolder, Is.EqualTo("Search this site "));
+        Assert.That(placeHolder, Is.EqualTo("Search this site"));
     }
 
     [TearDown]

@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\WikipediaSite.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\WikipediaSite.csproj",
       "projectName": "WikipediaSite",
-      "projectPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\WikipediaSite.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\WikipediaSite.csproj",
       "packagesPath": "C:\\Users\\Yordan\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

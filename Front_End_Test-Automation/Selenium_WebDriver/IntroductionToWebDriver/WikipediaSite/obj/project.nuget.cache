@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmcucDrTHWg=",
+  "dgSpecHash": "AFDiK1WHxjg=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionInWebDriver\\WikipediaSite\\WikipediaSite.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\IntroductionToWebDriver\\WikipediaSite\\WikipediaSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Yordan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

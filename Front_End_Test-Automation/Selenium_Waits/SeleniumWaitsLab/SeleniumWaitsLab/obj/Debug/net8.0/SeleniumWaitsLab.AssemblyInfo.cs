@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumWaitsLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c8b157f30107106ec8954eeb15d378a3ec07fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096bbee6b73f0eaa46742555abe5d821b0104b58")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumWaitsLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumWaitsLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

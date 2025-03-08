@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProductWithImplicitWait", "SearchProductWithImplicitWait\SearchProductWithImplicitWait.csproj", "{1AB53EC7-64EE-48BF-8F31-E89391E90815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProductWithExplicitWait", "SearchProductWithExplicitWait\SearchProductWithExplicitWait.csproj", "{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AB53EC7-64EE-48BF-8F31-E89391E90815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB53EC7-64EE-48BF-8F31-E89391E90815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB53EC7-64EE-48BF-8F31-E89391E90815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -49,7 +49,7 @@ namespace SearchProductWithImplicitWait
 			}
             catch (NoSuchElementException ex)
             {
-                Assert.Pass("Expected exception is thrown!");
+                Assert.Pass("Expected NoSuchElementException was thrown!");
 				Console.WriteLine("Exception: " + ex.Message);
             }
             catch (Exception ex)

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProductWithImplicitWa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProductWithExplicitWait", "SearchProductWithExplicitWait\SearchProductWithExplicitWait.csproj", "{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWindow", "WorkingWithWindow\WorkingWithWindow.csproj", "{87122B22-5F9E-422C-8A33-068C706A4C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC2EF45C-4FAE-42FB-8C6B-B6DE2CC70DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87122B22-5F9E-422C-8A33-068C706A4C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87122B22-5F9E-422C-8A33-068C706A4C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87122B22-5F9E-422C-8A33-068C706A4C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87122B22-5F9E-422C-8A33-068C706A4C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

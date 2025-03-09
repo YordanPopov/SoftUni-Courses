@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProductWithExplicitWa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWindow", "WorkingWithWindow\WorkingWithWindow.csproj", "{87122B22-5F9E-422C-8A33-068C706A4C11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithAlerts", "WorkingWithAlerts\WorkingWithAlerts.csproj", "{8A343371-E5BA-442F-882F-6879F654FE0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{87122B22-5F9E-422C-8A33-068C706A4C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87122B22-5F9E-422C-8A33-068C706A4C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87122B22-5F9E-422C-8A33-068C706A4C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A343371-E5BA-442F-882F-6879F654FE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A343371-E5BA-442F-882F-6879F654FE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A343371-E5BA-442F-882F-6879F654FE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A343371-E5BA-442F-882F-6879F654FE0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

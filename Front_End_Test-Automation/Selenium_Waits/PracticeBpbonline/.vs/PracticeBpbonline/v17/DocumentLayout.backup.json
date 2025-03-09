@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_Waits\\PracticeBpbonline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87122B22-5F9E-422C-8A33-068C706A4C11}|WorkingWithWindow\\WorkingWithWindow.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_waits\\practicebpbonline\\workingwithwindow\\windowhandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87122B22-5F9E-422C-8A33-068C706A4C11}|WorkingWithWindow\\WorkingWithWindow.csproj|solutionrelative:workingwithwindow\\windowhandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A343371-E5BA-442F-882F-6879F654FE0B}|WorkingWithAlerts\\WorkingWithAlerts.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_waits\\practicebpbonline\\workingwithalerts\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A343371-E5BA-442F-882F-6879F654FE0B}|WorkingWithAlerts\\WorkingWithAlerts.csproj|solutionrelative:workingwithalerts\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WindowHandles.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_Waits\\PracticeBpbonline\\WorkingWithWindow\\WindowHandles.cs",
-              "RelativeDocumentMoniker": "WorkingWithWindow\\WindowHandles.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_Waits\\PracticeBpbonline\\WorkingWithWindow\\WindowHandles.cs",
-              "RelativeToolTip": "WorkingWithWindow\\WindowHandles.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwEIAAAAwAAAAAAAAAA==",
+              "Title": "Alerts.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_Waits\\PracticeBpbonline\\WorkingWithAlerts\\Alerts.cs",
+              "RelativeDocumentMoniker": "WorkingWithAlerts\\Alerts.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_Waits\\PracticeBpbonline\\WorkingWithAlerts\\Alerts.cs*",
+              "RelativeToolTip": "WorkingWithAlerts\\Alerts.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwFEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:57:29.856Z",
+              "WhenOpened": "2025-03-09T11:00:07.086Z",
               "EditorCaption": ""
             }
           ]

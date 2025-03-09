@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWindow", "Workin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithAlerts", "WorkingWithAlerts\WorkingWithAlerts.csproj", "{8A343371-E5BA-442F-882F-6879F654FE0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithIFrames", "WorkingWithIFrames\WorkingWithIFrames.csproj", "{B1D5653C-7431-4701-B073-1385FB5B987E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A343371-E5BA-442F-882F-6879F654FE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A343371-E5BA-442F-882F-6879F654FE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A343371-E5BA-442F-882F-6879F654FE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D5653C-7431-4701-B073-1385FB5B987E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D5653C-7431-4701-B073-1385FB5B987E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D5653C-7431-4701-B073-1385FB5B987E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D5653C-7431-4701-B073-1385FB5B987E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchProductWithExplicitWait")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d97bd7213cd48f8857729a504bc6d3a68b1280")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3116e07e622b9a02d4c94c3bfcf05ffc7f8772c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchProductWithExplicitWait")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchProductWithExplicitWait")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

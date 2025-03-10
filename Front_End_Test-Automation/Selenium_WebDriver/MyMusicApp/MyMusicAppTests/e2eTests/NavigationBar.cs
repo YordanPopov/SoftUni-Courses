@@ -5,6 +5,7 @@ using SeleniumExtras.WaitHelpers;
 
 namespace e2eTests;
 
+[TestFixture]
 public class NavigationBar
 {
 	IWebDriver driver;

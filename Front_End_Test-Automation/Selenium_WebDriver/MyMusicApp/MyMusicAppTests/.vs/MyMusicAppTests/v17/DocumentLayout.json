@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\authenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\navigationbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\data\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\data\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_webdriver\\mymusicapp\\mymusicapptests\\e2etests\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0ACF08-ABF4-477F-B51B-D7B473E83309}|e2eTests\\e2eTests.csproj|solutionrelative:e2etests\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\CRUD.cs",
+              "RelativeDocumentMoniker": "e2eTests\\CRUD.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\CRUD.cs",
+              "RelativeToolTip": "e2eTests\\CRUD.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:36:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\Data\\Album.cs",
+              "RelativeDocumentMoniker": "e2eTests\\Data\\Album.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\Data\\Album.cs",
+              "RelativeToolTip": "e2eTests\\Data\\Album.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:31:08.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,32 +74,32 @@
               "RelativeDocumentMoniker": "e2eTests\\TestContext.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\TestContext.cs",
               "RelativeToolTip": "e2eTests\\TestContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T15:12:07.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NavigationBar.cs",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\NavigationBar.cs",
               "RelativeDocumentMoniker": "e2eTests\\NavigationBar.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\NavigationBar.cs",
               "RelativeToolTip": "e2eTests\\NavigationBar.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T14:53:18.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\User.cs",
-              "RelativeDocumentMoniker": "e2eTests\\User.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\User.cs",
-              "RelativeToolTip": "e2eTests\\User.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\Data\\User.cs",
+              "RelativeDocumentMoniker": "e2eTests\\Data\\User.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\Data\\User.cs",
+              "RelativeToolTip": "e2eTests\\Data\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T12:59:22.092Z",
@@ -79,7 +113,7 @@
               "RelativeDocumentMoniker": "e2eTests\\AuthenticationTests.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_WebDriver\\MyMusicApp\\MyMusicAppTests\\e2eTests\\AuthenticationTests.cs",
               "RelativeToolTip": "e2eTests\\AuthenticationTests.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T12:44:39.855Z",
               "EditorCaption": ""

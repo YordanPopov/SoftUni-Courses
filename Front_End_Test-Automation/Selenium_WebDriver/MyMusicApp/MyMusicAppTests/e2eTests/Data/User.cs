@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace e2eTests
+namespace e2eTests.Data
 {
 	public class User
 	{

@@ -35,5 +35,16 @@ namespace SumTwoNumbers
 		{
 			Assert.That(sumPage.AddNumbers("InvalidInput1", "InvalidInput2"), Is.EqualTo("Sum: invalid input"));
 		}
+
+		[Test]
+		public void Test_FormReset()
+		{
+			sumPage.firstNumField.SendKeys("1");
+			sumPage.secondNumField.SendKeys("2");
+			sumPage.ResetForm();
+
+			Assert.That(sumPage.firstNumField.Text, Is.EqualTo(""));
+			Assert.That(sumPage.secondNumField.Text, Is.EqualTo(""));
+		}
 	}
 }

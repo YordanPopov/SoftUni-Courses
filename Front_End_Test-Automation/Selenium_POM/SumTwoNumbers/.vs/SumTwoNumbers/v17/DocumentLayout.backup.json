@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SumTwoNumbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\sumtwonumbers\\sumtwonumbers\\sumnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|solutionrelative:sumtwonumbers\\sumnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\sumtwonumbers\\sumtwonumbers\\sumnumberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|solutionrelative:sumtwonumbers\\sumnumberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\sumtwonumbers\\sumtwonumbers\\sumnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F5C120-64A0-4128-BE7C-95F35F948C8D}|SumTwoNumbers\\SumTwoNumbers.csproj|solutionrelative:sumtwonumbers\\sumnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SumNumberPage.cs",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SumTwoNumbers\\SumTwoNumbers\\SumNumberPage.cs",
               "RelativeDocumentMoniker": "SumTwoNumbers\\SumNumberPage.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SumTwoNumbers\\SumTwoNumbers\\SumNumberPage.cs",
               "RelativeToolTip": "SumTwoNumbers\\SumNumberPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:46:21.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SumNumberTests.cs",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SumTwoNumbers\\SumTwoNumbers\\SumNumberTests.cs",
               "RelativeDocumentMoniker": "SumTwoNumbers\\SumNumberTests.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SumTwoNumbers\\SumTwoNumbers\\SumNumberTests.cs",
               "RelativeToolTip": "SumTwoNumbers\\SumNumberTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:44:29.256Z",
               "EditorCaption": ""

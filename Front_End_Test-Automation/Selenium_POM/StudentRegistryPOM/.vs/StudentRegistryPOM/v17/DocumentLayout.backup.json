@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "StudentRegistryPOM\\UnitTest1.cs",
-              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\UnitTest1.cs",
-              "RelativeToolTip": "StudentRegistryPOM\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\BasePage.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:59:31.132Z",
+              "WhenOpened": "2025-03-16T19:05:59.601Z",
               "EditorCaption": ""
             }
           ]

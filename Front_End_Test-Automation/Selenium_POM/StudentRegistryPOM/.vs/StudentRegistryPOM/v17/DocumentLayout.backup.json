@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pagestests\\viewstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pagestests\\viewstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pagestests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pagestests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pagestests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pagestests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pagestests\\addstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pagestests\\addstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pages\\addstudentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pages\\addstudentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pages\\viewstudentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pages\\viewstudentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\studentregistrypom\\studentregistrypom\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F01C308-5729-4B32-8976-8D27B6F6F205}|StudentRegistryPOM\\StudentRegistryPOM.csproj|solutionrelative:studentregistrypom\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +50,106 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentsPageTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:08:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ViewStudentsPageTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:37:22.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePageTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:18:18.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\PagesTests\\BaseTest.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\PagesTests\\BaseTest.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\PagesTests\\BaseTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:16:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewStudentsPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\ViewStudentsPage.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\Pages\\ViewStudentsPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\ViewStudentsPage.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\Pages\\ViewStudentsPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:15:34.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\HomePage.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:14:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BasePage.cs",
               "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\BasePage.cs",
               "RelativeDocumentMoniker": "StudentRegistryPOM\\Pages\\BasePage.cs",
               "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\BasePage.cs",
               "RelativeToolTip": "StudentRegistryPOM\\Pages\\BasePage.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:05:59.601Z",
+              "WhenOpened": "2025-03-21T18:14:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\AddStudentPage.cs",
+              "RelativeDocumentMoniker": "StudentRegistryPOM\\Pages\\AddStudentPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\StudentRegistryPOM\\StudentRegistryPOM\\Pages\\AddStudentPage.cs",
+              "RelativeToolTip": "StudentRegistryPOM\\Pages\\AddStudentPage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:14:44.851Z",
               "EditorCaption": ""
             }
           ]

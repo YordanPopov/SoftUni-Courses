@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentRegistryPOM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6104b5ab1b145ea15535b6ee13715f745ab027")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47685cb1be57df6a6c2064507cc2a44469a110ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentRegistryPOM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentRegistryPOM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

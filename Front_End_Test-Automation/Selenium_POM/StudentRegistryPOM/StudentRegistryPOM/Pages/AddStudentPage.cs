@@ -14,14 +14,16 @@ namespace StudentRegistryPOM.Pages
 		public override string PageUrl => "http://localhost:8080/add-student";
 
 		public IWebElement ElementErrorMsg => _driver.FindElement(By.XPath("//body/div"));
-
 		public IWebElement FieldStudentName => _driver.FindElement(By.Id("name"));
 		public IWebElement FieldStudentEmail => _driver.FindElement(By.Id("email"));
 		public IWebElement AddButton => _driver.FindElement(By.TagName("button"));
 
 		public void AddStudent(string name, string email)
 		{
+			FieldStudentName.Clear();
 			FieldStudentName.SendKeys(name);
+
+			FieldStudentEmail.Clear();
 			FieldStudentEmail.SendKeys(email);
 			AddButton.Click();
 		}

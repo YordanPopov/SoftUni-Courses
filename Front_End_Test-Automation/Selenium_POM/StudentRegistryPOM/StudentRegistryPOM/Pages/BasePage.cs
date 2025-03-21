@@ -25,7 +25,7 @@ namespace StudentRegistryPOM.Pages
 		public IWebElement LinkViewStudentsPage =>
 			_driver.FindElement(By.LinkText("View Students"));
 
-		public IWebElement LinkAddStudentsPage =>
+		public IWebElement LinkAddStudentPage =>
 			_driver.FindElement(By.LinkText("Add Student"));
 
 		public IWebElement PageHeading =>

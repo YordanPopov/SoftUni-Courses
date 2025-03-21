@@ -17,8 +17,7 @@ namespace StudentRegistryPOM.Pages
 
 		public int GetStudentCount()
 		{
-			string studentsCount = ElementStudentsCount.Text;
-			return int.Parse(studentsCount);
+			return int.Parse(ElementStudentsCount.Text);
 		}
 	}
 }

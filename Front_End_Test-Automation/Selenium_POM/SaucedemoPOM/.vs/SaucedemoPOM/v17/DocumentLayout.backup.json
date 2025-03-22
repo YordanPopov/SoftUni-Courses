@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|d:\\github\\softuni-courses\\front_end_test-automation\\selenium_pom\\saucedemopom\\saucedemopom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A280366-810C-4A2F-B084-84B60823F284}|SaucedemoPOM\\SaucedemoPOM.csproj|solutionrelative:saucedemopom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Tests\\CheckoutTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Tests\\CheckoutTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:09:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Tests\\CartTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\CartTests.cs*",
+              "RelativeToolTip": "SaucedemoPOM\\Tests\\CartTests.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:03:47.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HiddenMenuPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\HiddenMenuPage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\HiddenMenuPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\HiddenMenuPage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\HiddenMenuPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:59:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\CheckoutPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\CheckoutPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:59:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\CartPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\CartPage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:56:50.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Tests\\InventoryTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\InventoryTests.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Tests\\InventoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:34:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Tests\\LoginTests.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Tests\\LoginTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:16:49.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:54:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\InventoryPage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\InventoryPage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:53:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:37:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SaucedemoPOM\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\GitHub\\SoftUni-Courses\\Front_End_Test-Automation\\Selenium_POM\\SaucedemoPOM\\SaucedemoPOM\\Pages\\BasePage.cs",
+              "RelativeToolTip": "SaucedemoPOM\\Pages\\BasePage.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:27:05.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 978,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

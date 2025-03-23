@@ -5,14 +5,10 @@ namespace SaucedemoPOM.Tests
 	[TestFixture]
 	public class InventoryTests : BaseTest
 	{
-		private InventoryPage inventoryPage;
-
 		[SetUp]
 		public void InventorySetUp()
 		{
 			Login("standard_user", "secret_sauce");
-
-			inventoryPage = new InventoryPage(_driver);
 		}
 		[Test]
 		public void Test_InventoryDisplay()
@@ -26,7 +22,6 @@ namespace SaucedemoPOM.Tests
 			inventoryPage.AddToCartByIndex(0);
 			inventoryPage.ClickCartLink();
 
-			var cartPage = new CartPage(_driver);
 			Assert.That(cartPage.isCartItemDisplayed(), Is.True);
 		}
 
@@ -36,7 +31,6 @@ namespace SaucedemoPOM.Tests
 			inventoryPage.AddToCartByName("Sauce Labs Bike Light");
 			inventoryPage.ClickCartLink();
 
-			var cartPage = new CartPage(_driver);
 			Assert.That(cartPage.isCartItemDisplayed(), Is.True);
 		}
 

@@ -30,7 +30,7 @@ namespace SaucedemoPOM.Pages
 			Type(postalCodeField, postalCode);
 		}
 
-		public void ClickContiunue()
+		public void ClickContinue()
 		{
 			Click(continueButton);
 		}
@@ -42,7 +42,7 @@ namespace SaucedemoPOM.Pages
 
 		public bool IsPageLoaded()
 		{
-			return _driver.Url.Contains("/chechout-step-one") || _driver.Url.Contains("/checkout-step-two");
+			return _driver.Url.Contains("/checkout-step-one") || _driver.Url.Contains("/checkout-step-two");
 		}
 
 		public bool IsCheckoutComplete()

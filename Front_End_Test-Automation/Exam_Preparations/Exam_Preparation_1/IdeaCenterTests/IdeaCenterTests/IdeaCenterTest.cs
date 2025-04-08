@@ -1,6 +1,7 @@
 using NUnit.Framework.Internal;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System.Collections.ObjectModel;
@@ -15,7 +16,7 @@ namespace IdeaCenterNoPOM
 		private string pageUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:83";
 		private string lastCreatedIdeaTitle;
 		private string lastCreatedIdeaDescription;
-		IJavaScriptExecutor js;
+		Actions actions;
 
 		[OneTimeSetUp]
 		public void OneTimeSetup()
@@ -29,7 +30,7 @@ namespace IdeaCenterNoPOM
 			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 			driver.Navigate().GoToUrl(pageUrl);
 
-			js = (IJavaScriptExecutor)driver;
+			actions = new Actions(driver);
 			wait = new WebDriverWait(driver, TimeSpan.FromSeconds(3));
 
 			LoginUser("testUser_123@email.com", "test1234");
@@ -55,7 +56,6 @@ namespace IdeaCenterNoPOM
 				.Click();
 
 			Assert.That(wait.Until(ExpectedConditions.UrlContains("/Ideas/Creat")), Is.True);
-			//Assert.That(driver.Url, Does.Contain("/Ideas/Create"));
 
 			string mainErrMsg = driver.FindElement(By.XPath("//div[@class='text-danger validation-summary-errors']/ul/li")).Text;
 			string titleErrMsg = driver.FindElement(By.XPath("//span[@data-valmsg-for='Title']")).Text;
@@ -81,7 +81,6 @@ namespace IdeaCenterNoPOM
 			driver.FindElement(By.XPath("//button[@class='btn btn-primary btn-lg']"))
 				.Click();
 
-			//Assert.That(driver.Url, Does.Contain("/Ideas/MyIdeas"));
 			Assert.That(wait.Until(ExpectedConditions.UrlContains("/Ideas/MyIdeas")), Is.True);
 
 			ReadOnlyCollection<IWebElement> ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
@@ -99,7 +98,7 @@ namespace IdeaCenterNoPOM
 
 			ReadOnlyCollection<IWebElement> ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement viewBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Read')]"));
-			js.ExecuteScript("arguments[0].click();", viewBtn);
+			actions.MoveToElement(viewBtn).Click().Perform();
 
 			Assert.That(driver.FindElement(By.XPath("//div[@id='intro']/h1")).Text, Is.EqualTo(lastCreatedIdeaTitle));
 		}
@@ -110,10 +109,9 @@ namespace IdeaCenterNoPOM
 			driver.Navigate().GoToUrl(pageUrl + "/Ideas/MyIdeas");
 			ReadOnlyCollection<IWebElement> ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement editBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Edit')]"));
-			js.ExecuteScript("arguments[0].click();", editBtn);
+			actions.MoveToElement(editBtn).Click().Perform();
 
 			IWebElement titleField = driver.FindElement(By.XPath("//input[@name='Title']"));
-			//IWebElement descField = driver.FindElement(By.XPath("//textarea[@name='Description']"));
 
 			lastCreatedIdeaTitle = "Changed Title: " + lastCreatedIdeaTitle;
 			titleField.Clear();
@@ -124,7 +122,7 @@ namespace IdeaCenterNoPOM
 
 			ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement viewBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Read')]"));
-			js.ExecuteScript("arguments[0].click();", viewBtn);
+			actions.MoveToElement(viewBtn).Click().Perform();
 
 			Assert.That(driver.FindElement(By.XPath("//div[@id='intro']/h1")).Text, Is.EqualTo(lastCreatedIdeaTitle));
 
@@ -136,7 +134,7 @@ namespace IdeaCenterNoPOM
 			driver.Navigate().GoToUrl(pageUrl + "/Ideas/MyIdeas");
 			ReadOnlyCollection<IWebElement> ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement editBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Edit')]"));
-			js.ExecuteScript("arguments[0].click();", editBtn);
+			actions.MoveToElement(editBtn).Click().Perform();
 
 			IWebElement descField = driver.FindElement(By.XPath("//textarea[@name='Description']"));
 
@@ -149,7 +147,7 @@ namespace IdeaCenterNoPOM
 
 			ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement viewBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Read')]"));
-			js.ExecuteScript("arguments[0].click();", viewBtn);
+			actions.MoveToElement(viewBtn).Click().Perform();
 
 			Assert.That(driver.FindElement(By.XPath("//p[@class='offset-lg-3 col-lg-6']")).Text, Is.EqualTo(lastCreatedIdeaDescription));
 		}
@@ -161,7 +159,7 @@ namespace IdeaCenterNoPOM
 
 			ReadOnlyCollection<IWebElement> ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 			IWebElement deleteBtn = ideas.Last().FindElement(By.XPath(".//a[contains(@href, '/Ideas/Delete')]"));
-			js.ExecuteScript("arguments[0].click();", deleteBtn);
+			actions.MoveToElement(deleteBtn).Click().Perform();
 
 			ideas = driver.FindElements(By.XPath("//div[@class='card-body']"));
 

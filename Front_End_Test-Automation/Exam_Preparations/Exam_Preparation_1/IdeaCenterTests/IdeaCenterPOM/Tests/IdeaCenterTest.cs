@@ -18,10 +18,7 @@ namespace IdeaCenterPOM.Tests
 		[Test, Order(1)]
 		public void Test_CreateIdeaWithInvalidData()
 		{
-			createIdeaPage.OpenPage();
-			createIdeaPage.TitleField.SendKeys("");
-			createIdeaPage.DescriptionField.SendKeys("");
-			createIdeaPage.CreateButton.Click();
+			createIdeaPage.CreateIdea("", "");
 
 			Assert.That(wait.Until(ExpectedConditions.UrlContains("/Ideas/Create")), Is.True);
 			Assert.That(createIdeaPage.MainErrMsg, Is.EqualTo("Unable to create new Idea!"));
@@ -33,10 +30,7 @@ namespace IdeaCenterPOM.Tests
 			lastCreatedIdeaTitle = "testTitle_" + GenerateRandomString(4);
 			lastCreatedIdeaDesc = "testDescription_" + GenerateRandomString(4);
 
-			createIdeaPage.OpenPage();
-			createIdeaPage.TitleField.SendKeys(lastCreatedIdeaTitle);
-			createIdeaPage.DescriptionField.SendKeys(lastCreatedIdeaDesc);
-			createIdeaPage.CreateButton.Click();
+			createIdeaPage.CreateIdea(lastCreatedIdeaTitle, lastCreatedIdeaDesc);
 
 			Assert.That(wait.Until(ExpectedConditions.UrlContains("/Ideas/MyIdeas")));
 			Assert.That(myIdeasPage.IdeasDescription, Is.EqualTo(lastCreatedIdeaDesc));
@@ -52,6 +46,73 @@ namespace IdeaCenterPOM.Tests
 
 			string expectedTitle = driver.FindElement(By.XPath("//div[@id='intro']/h1")).Text;
 			Assert.That(expectedTitle, Is.EqualTo(lastCreatedIdeaTitle));
+		}
+
+		[Test, Order(4)]
+		public void Test_EditLastCreatedIdeaTitle()
+		{
+			myIdeasPage.OpenPage();
+			actions.MoveToElement(myIdeasPage.EditButton)
+				.Click()
+				.Perform();
+
+			lastCreatedIdeaTitle = "Changed Title: " + lastCreatedIdeaTitle;
+
+			editIdeaPage.TitleField.Clear();
+			editIdeaPage.TitleField.SendKeys(lastCreatedIdeaTitle);
+			actions.MoveToElement(editIdeaPage.EditButton)
+				.Click()
+				.Perform();
+
+			actions.MoveToElement(myIdeasPage.ViewButton)
+				.Click()
+				.Perform();
+
+			Assert.That(viewIdeaPage.IdeaTitle, Is.EqualTo(lastCreatedIdeaTitle));
+		}
+
+		[Test, Order(5)]
+		public void Test_EditIdeaDescription()
+		{
+			myIdeasPage.OpenPage();
+			actions.MoveToElement(myIdeasPage.EditButton)
+				.Click()
+				.Perform();
+
+			lastCreatedIdeaDesc = "Changed Description: " + lastCreatedIdeaDesc;
+			editIdeaPage.DescriptionField.Clear();
+			editIdeaPage.DescriptionField.SendKeys(lastCreatedIdeaDesc);
+			actions.MoveToElement(editIdeaPage.EditButton)
+				.Click()
+				.Perform();
+
+			actions.MoveToElement(myIdeasPage.ViewButton)
+				.Click()
+				.Perform();
+
+			Assert.That(viewIdeaPage.IdeaDescription, Is.EqualTo(lastCreatedIdeaDesc));
+		}
+
+		[Test, Order(6)]
+		public void Test_DeleteLastCreatedIdea()
+		{
+			myIdeasPage.OpenPage();
+			actions.MoveToElement(myIdeasPage.DeleteButton)
+				.Click()
+				.Perform();
+
+			if (myIdeasPage.Ideas.Count > 0)
+			{
+				bool isIdeaDeleted = myIdeasPage.Ideas.All(idea => !idea.Text.Contains(lastCreatedIdeaDesc));
+				Assert.That(isIdeaDeleted, Is.True);
+			}
+			else
+			{
+				string noIdeasMsg = driver.FindElement(By.XPath("//div[@class='row text-center']/span"))
+					.Text
+					.Trim();
+				Assert.That(noIdeasMsg, Is.EqualTo("No Ideas yet!"));
+			}
 		}
 	}
 }

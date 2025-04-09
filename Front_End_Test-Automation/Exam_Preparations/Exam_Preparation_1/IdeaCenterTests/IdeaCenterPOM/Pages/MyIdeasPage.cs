@@ -19,7 +19,7 @@ namespace IdeaCenterPOM.Pages
 
 		public string IdeasDescription => Ideas
 			.Last()
-			.FindElement(By.XPath(".//p[@class='card-text']")).Text;
+			.FindElement(By.XPath(".//p[@class='card-text']")).Text.Trim();
 
 		public IWebElement ViewButton => Ideas
 			.Last()

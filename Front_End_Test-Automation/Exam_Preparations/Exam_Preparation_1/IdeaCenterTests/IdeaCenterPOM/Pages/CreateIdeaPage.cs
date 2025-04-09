@@ -20,5 +20,18 @@ namespace IdeaCenterPOM.Pages
 		public IWebElement CreateButton => driver.FindElement(By.XPath("//button[@class='btn btn-primary btn-lg']"));
 
 		public string MainErrMsg => driver.FindElement(By.XPath("//div[@class='text-danger validation-summary-errors']//li")).Text;
+
+		public void CreateIdea(string title, string desc)
+		{
+			this.OpenPage();
+
+			TitleField.Clear();
+			TitleField.SendKeys(title);
+
+			DescriptionField.Clear();
+			DescriptionField.SendKeys(desc);
+
+			CreateButton.Click();
+		}
 	}
 }

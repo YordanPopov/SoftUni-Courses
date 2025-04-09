@@ -20,6 +20,8 @@ namespace IdeaCenterPOM.Tests
 		protected LoginPage loginPage;
 		protected CreateIdeaPage createIdeaPage;
 		protected MyIdeasPage myIdeasPage;
+		protected EditIdeaPage editIdeaPage;
+		protected ViewIdeaPage viewIdeaPage;
 
 		[OneTimeSetUp]
 		public void OneTimeSetUp()
@@ -29,7 +31,7 @@ namespace IdeaCenterPOM.Tests
 			options.AddArgument("--disable-search-engine-choice-screen");
 
 			driver = new ChromeDriver(options);
-			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
 			driver.Manage().Window.Maximize();
 			wait = new WebDriverWait(driver, TimeSpan.FromSeconds(3));
 			actions = new Actions(driver);
@@ -37,6 +39,8 @@ namespace IdeaCenterPOM.Tests
 			loginPage = new LoginPage(driver);
 			createIdeaPage = new CreateIdeaPage(driver);
 			myIdeasPage = new MyIdeasPage(driver);
+			editIdeaPage = new EditIdeaPage(driver);
+			viewIdeaPage = new ViewIdeaPage(driver);
 
 			LoginUser("testUser_123@email.com", "test1234");
 		}

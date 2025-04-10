@@ -10,12 +10,12 @@ namespace FoodyTestsNoPOM
     [TestFixture]
     public class Tests
     {
-		private IWebDriver driver;
-		private WebDriverWait wait;
-		private Actions actions;
-		private string pageUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85";
-		private static string foodName;
-		private static string foodDescription;
+		IWebDriver driver;
+		WebDriverWait wait;
+		Actions actions;
+		string pageUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85";
+		static string foodName;
+		static string foodDescription;
 
 		[OneTimeSetUp]
         public void OneTimeSetUp()
@@ -30,7 +30,6 @@ namespace FoodyTestsNoPOM
 
 			wait = new WebDriverWait(driver, TimeSpan.FromSeconds(3));
 
-			driver.Navigate().GoToUrl(pageUrl + "/User/Login");
 			LoginUser("testUser_123", "test1234");
 		}
 
@@ -46,9 +45,9 @@ namespace FoodyTestsNoPOM
 		{ 			
             driver.Navigate().GoToUrl(pageUrl + "/Food/Add");
 
-			driver.FindElement(By.XPath("//input[@name='Name']"))
+			driver.FindElement(By.Name("Name"))
 				.SendKeys("");
-			driver.FindElement(By.XPath("//input[@name='Description']"))
+			driver.FindElement(By.Name("Description"))
 				.SendKeys("");
 			driver.FindElement(By.XPath("//button[@type='submit']"))
 				.Click();
@@ -57,26 +56,26 @@ namespace FoodyTestsNoPOM
 				.Text
 				.Trim();
 
-			Assert.That(wait.Until(ExpectedConditions.UrlContains($"{pageUrl}/Food/Add")), Is.True);
+			Assert.That(wait.Until(ExpectedConditions.UrlToBe($"{pageUrl}/Food/Add")), Is.True);
 			Assert.That(mainErroMsg, Is.EqualTo("Unable to add this food revue!"));
 		}
 
         [Test, Order(2)]
         public void Test_AddFoodWithRandomData()
         {
-			foodName = "Name-" + GenerateRandomString(4);
-			foodDescription = "Description-" + GenerateRandomString(4);
+			foodName = $"Name-{GenerateRandomString(4)}";
+			foodDescription = $"Description-{GenerateRandomString(4)}";
 
 			driver.Navigate().GoToUrl(pageUrl + "/Food/Add");
 
-			driver.FindElement(By.XPath("//input[@name='Name']"))
+			driver.FindElement(By.Name("Name"))
 				.SendKeys(foodName);
-			driver.FindElement(By.XPath("//input[@name='Description']"))
+			driver.FindElement(By.Name("Description"))
 				.SendKeys(foodDescription);
 			driver.FindElement(By.XPath("//button[@type='submit']"))
 				.Click();
 
-			Assert.That(wait.Until(ExpectedConditions.UrlContains($"{pageUrl}/")), Is.True);
+			Assert.That(wait.Until(ExpectedConditions.UrlToBe($"{pageUrl}/")), Is.True);
 
 			string lastCreatedFoodName = driver
 				.FindElement(By.XPath("(//section[@id='scroll']//h2[@class='display-4'])[last()]"))
@@ -96,13 +95,13 @@ namespace FoodyTestsNoPOM
 				.Click()
 				.Perform();
 
-			string updatedName = "Updated-" + foodName;
+			string updatedName = $"Updated-{foodName}";
 
-			IWebElement nameField = driver.FindElement(By.XPath("//input[@name='Name']"));
+			IWebElement nameField = driver.FindElement(By.Name("Name"));
 			nameField.Clear();
 			nameField.SendKeys(updatedName);
-
-			driver.FindElement(By.XPath("//button[@type='submit']")).Click();
+			driver.FindElement(By.XPath("//button[@type='submit']"))
+				.Click();
 
 			string lastFoodName = driver
 				.FindElement(By.XPath("(//section[@id='scroll']//h2[@class='display-4'])[last()]"))
@@ -125,11 +124,11 @@ namespace FoodyTestsNoPOM
 
 			Assert.That(foods.Count, Is.EqualTo(1));
 
-			string findedFoodname = foods.First().FindElement(By.XPath(".//div[@class='p-5']/h2"))
+			string findedFoodName = foods.First().FindElement(By.XPath(".//div[@class='p-5']/h2"))
 				.Text
 				.Trim();
 
-			Assert.That(findedFoodname, Is.EqualTo(foodName));
+			Assert.That(findedFoodName, Is.EqualTo(foodName));
 		}
 
 		[Test, Order(5)]
@@ -158,7 +157,7 @@ namespace FoodyTestsNoPOM
 		}
 
 		[Test, Order(6)]
-		public void Test_SearcForDeletedFood()
+		public void Test_SearchForDeletedFood()
 		{
 			driver.Navigate().GoToUrl(pageUrl + "/");
 			driver.FindElement(By.XPath("//input[@type='search']"))
@@ -166,9 +165,7 @@ namespace FoodyTestsNoPOM
 			driver.FindElement(By.XPath("//button[@class='btn btn-primary rounded-pill mt-5 col-2']"))
 				.Click();
 
-			//IWebElement noFoodMsg = driver.FindElement(By.XPath("//h2[@class='display-4']"));
 			IWebElement noFoodMsg = wait.Until(drv => drv.FindElement(By.XPath("//h2[@class='display-4']")));
-			//IWebElement addFoodBtn = driver.FindElement(By.XPath("//a[@class='btn btn-primary btn-xl rounded-pill mt-5']"));
 			IWebElement addFoodBtn = wait.Until(drv => drv.FindElement(By.XPath("//a[@class='btn btn-primary btn-xl rounded-pill mt-5']")));
 
 			Assert.That(noFoodMsg.Displayed, Is.True);
@@ -178,6 +175,8 @@ namespace FoodyTestsNoPOM
 
 		public void LoginUser(string uName, string pass)
 		{
+			driver.Navigate().GoToUrl(pageUrl + "/User/Login");
+
 			driver.FindElement(By.XPath("//input[@name='Username']"))
 				.SendKeys(uName);
 			driver.FindElement(By.XPath("//input[@name='Password']"))

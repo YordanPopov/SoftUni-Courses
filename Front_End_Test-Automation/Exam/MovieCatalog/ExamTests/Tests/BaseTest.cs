@@ -51,7 +51,7 @@ namespace ExamTests.Tests
 			_deleteMoviePage = new DeleteMoviePage(_driver);
 
 			_loginPage.OpenPage();
-			_loginPage.LoginUser("testUser_123@email.com", "test1234");
+			_loginPage.LoginUser("", "");
 		}
 
 		[OneTimeTearDown]

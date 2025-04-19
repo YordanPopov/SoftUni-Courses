@@ -8,10 +8,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SumatorTests.Tests
+namespace SummatorTests.Tests
 {
 	[TestFixture]
-	public class SumatorTest
+	public class SummatorTest
 	{
 		private AndroidDriver driver;
 

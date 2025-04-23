@@ -19,6 +19,8 @@ namespace ColorNoteTests.Pages
 
 		public AppiumElement DoneBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/back_btn"));
 
+		public AppiumElement BackBtn => (AppiumElement)_wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/back_btn")));
+
 		public AppiumElement TitleField => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/edit_title"));
 
 		public AppiumElement ColorBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/color_btn"));

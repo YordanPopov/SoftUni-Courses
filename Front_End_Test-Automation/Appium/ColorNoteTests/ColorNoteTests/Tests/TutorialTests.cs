@@ -14,6 +14,7 @@ namespace ColorNoteTests.Tests
 
 			_tutorialPage = new TutorialPage(_driver);
 			_textNotePage = new TextNotePage(_driver);
+			_homePage = new HomePage(_driver);
 		}
 
 		[Test]
@@ -37,7 +38,8 @@ namespace ColorNoteTests.Tests
 		[Test]
 		public void VerifySkipTutorialSteps()
 		{
-			//To-Do
+			_tutorialPage.SkipButton.Click();
+			Assert.That(_homePage.CreateNoteBtn.Displayed, Is.True);
 		}
 
 		[TearDown]

@@ -17,6 +17,8 @@ namespace ColorNoteTests.Tests
 
 		public TextNotePage _textNotePage;
 
+		public HomePage _homePage;
+
 		[OneTimeSetUp]
 		public void OneTimeSetUp()
 		{
@@ -41,6 +43,12 @@ namespace ColorNoteTests.Tests
 		public void OneTimeTearDown()
 		{ 
 			_service.Dispose();
+		}
+
+		public string GenerateRandomTitle()
+		{
+			var rnd = new Random();
+			return "TITLE-" + rnd.Next(1000, 9999).ToString();
 		}
 	}
 }

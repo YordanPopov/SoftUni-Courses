@@ -19,20 +19,14 @@ namespace ColorNoteTests.Tests
 			_tutorialPage = new TutorialPage(_driver);
 			_homePage = new HomePage(_driver);
 			_textNotePage = new TextNotePage(_driver);
-		}
 
-		[TearDown]
-		public void TearDown()
-		{
-			_driver.Quit();
-			_driver.Dispose();
+			_tutorialPage.SkipButton.Click();
 		}
 
 		[Test]
 		public void CreateNoteWithValidData()
 		{
 			string title = GenerateRandomTitle();
-			_tutorialPage.SkipButton.Click();
 
 			_homePage.CreateNoteBtn.Click();
 			_homePage.TextNoteOption.Click();
@@ -42,8 +36,81 @@ namespace ColorNoteTests.Tests
 			_textNotePage.DoneBtn.Click();
 			_textNotePage.BackBtn.Click();
 
-			var lastCreatedNoteTitle = _homePage.TextNotes.First().Text;
-			Assert.That(lastCreatedNoteTitle, Is.EqualTo(title));
+			Assert.That(_homePage.TextNotes.First().Text, Is.EqualTo(title));
+		}
+
+		[Test]
+		public void CreateNoteWithoutContent()
+		{
+			string title = GenerateRandomTitle();
+
+			_homePage.CreateNoteBtn.Click();
+			_homePage.TextNoteOption.Click();
+
+			_textNotePage.TitleField.SendKeys(title);
+			_textNotePage.DoneBtn.Click();
+			_textNotePage.BackBtn.Click();
+
+			Assert.That(_homePage.TextNotes.First().Text, Is.EqualTo(title));
+		}
+
+		[Test]
+		public void CreateNoteWithoutTitle()
+		{
+			string content = "This is some content for testing...";
+
+			_homePage.CreateNoteBtn.Click();
+			_homePage.TextNoteOption.Click();
+
+			_textNotePage.NoteField.SendKeys(content);
+			_textNotePage.DoneBtn.Click();
+			_textNotePage.BackBtn.Click();
+
+			Assert.That(_homePage.TextNotes.First().Text, Does.Contain(content));
+		}
+
+		[Test]
+		public void CreateNoteWithEmptySpaces()
+		{
+			_homePage.CreateNoteBtn.Click();
+			_homePage.TextNoteOption.Click();
+
+			_textNotePage.TitleField.SendKeys(" ");
+			_textNotePage.NoteField.SendKeys(" ");
+			_textNotePage.DoneBtn.Click();
+			_textNotePage.BackBtn.Click();
+
+			var today = DateTime.Now.ToString("M/d/yy");
+			Assert.That(_homePage.TextNotes.First().Text, Is.EqualTo($"({today})"));
+		}
+
+		[Test]
+		public void CreateValidNoteUsingAddNoteButton()
+		{
+			string title = GenerateRandomTitle();
+
+			_homePage.AddNoteBtn.Click();
+			_homePage.TextNoteOption.Click();
+
+			_textNotePage.TitleField.SendKeys(title);
+			_textNotePage.NoteField.SendKeys("Some content...");
+			_textNotePage.DoneBtn.Click();
+			_textNotePage.BackBtn.Click();
+
+			Assert.That(_homePage.TextNotes.First().Text, Is.EqualTo(title));
+		}
+
+		[Test]
+		public void CreateNotesWithVariousColors()
+		{
+			//To-Do
+		}
+
+		[TearDown]
+		public void TearDown()
+		{
+			_driver.Quit();
+			_driver.Dispose();
 		}
 	}
 }

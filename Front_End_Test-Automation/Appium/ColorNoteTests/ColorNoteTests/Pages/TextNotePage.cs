@@ -23,6 +23,8 @@ namespace ColorNoteTests.Pages
 
 		public AppiumElement TitleField => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/edit_title"));
 
+		public AppiumElement EditBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/edit_btn"));
+
 		public AppiumElement ColorBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/color_btn"));
 
 		public IReadOnlyCollection<AppiumElement> Colors => (IReadOnlyCollection<AppiumElement>)_wait.Until(ExpectedConditions.VisibilityOfAllElementsLocatedBy(MobileBy.ClassName("android.widget.FrameLayout")));
@@ -34,5 +36,13 @@ namespace ColorNoteTests.Pages
 		public AppiumElement UndoBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/btn_undo"));
 
 		public AppiumElement RedoBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/btn_redo"));
+
+		public void CreateNote(string title, string content)
+		{
+			TitleField.SendKeys(title);
+			NoteField.SendKeys(content);
+			DoneBtn.Click();
+			BackBtn.Click();
+		}
 	}
 }

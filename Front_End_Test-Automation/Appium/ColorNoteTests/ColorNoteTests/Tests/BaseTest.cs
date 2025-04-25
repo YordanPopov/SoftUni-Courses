@@ -46,9 +46,15 @@ namespace ColorNoteTests.Tests
 		}
 
 		public string GenerateRandomTitle()
+		{		
+			return "TITLE-" + new Random().Next(1000, 9999).ToString();
+		}
+
+		public string GenerateRandomContent(int length)
 		{
-			var rnd = new Random();
-			return "TITLE-" + rnd.Next(1000, 9999).ToString();
+			const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+			return new string(Enumerable.Repeat(chars, length)
+				.Select(s => s[new Random().Next(s.Length)]).ToArray());
 		}
 	}
 }

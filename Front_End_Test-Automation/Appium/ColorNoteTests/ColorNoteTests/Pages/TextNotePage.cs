@@ -31,7 +31,19 @@ namespace ColorNoteTests.Pages
 
 		public AppiumElement MenuBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/menu_btn"));
 
+		public AppiumElement DeleteBtn => (AppiumElement)_wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.AndroidUIAutomator("new UiSelector().text(\"Delete\")")));
+
+		public string AlertText => _wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/alertTitle"))).Text;
+
+		public string ConfirmationMessage => _wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("android:id/message"))).Text;
+
+		public AppiumElement OkayBtn => (AppiumElement)_wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("android:id/button1")));
+
+		public AppiumElement CancelBtn => (AppiumElement)_wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("android:id/button2")));
+
 		public AppiumElement NoteField => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/edit_note"));
+
+		public AppiumElement ViewNoteContent => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/view_note"));
 
 		public AppiumElement UndoBtn => _driver.FindElement(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/btn_undo"));
 

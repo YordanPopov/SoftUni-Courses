@@ -19,6 +19,8 @@ namespace ColorNoteTests.Tests
 
 		public HomePage _homePage;
 
+		public ChecklistPage _checklistPage;
+
 		[OneTimeSetUp]
 		public void OneTimeSetUp()
 		{
@@ -55,6 +57,11 @@ namespace ColorNoteTests.Tests
 			const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 			return new string(Enumerable.Repeat(chars, length)
 				.Select(s => s[new Random().Next(s.Length)]).ToArray());
+		}
+
+		public string GenerateRandomItem()
+		{
+			return "ITEM-" + new Random().Next(1000, 9999).ToString();
 		}
 	}
 }

@@ -25,5 +25,7 @@ namespace ColorNoteTests.Pages
 		public string Title => _wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/textTitle"))).Text;
 
 		public string Subtitle => _wait.Until(ExpectedConditions.ElementIsVisible(MobileBy.Id("com.socialnmobile.dictapps.notepad.color.note:id/textSubtitle"))).Text;
+
+		public void SkipTutorial() => SkipButton.Click();
 	}
 }

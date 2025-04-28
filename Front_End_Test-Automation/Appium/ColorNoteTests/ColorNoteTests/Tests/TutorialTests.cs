@@ -38,7 +38,7 @@ namespace ColorNoteTests.Tests
 		[Test]
 		public void VerifySkipTutorialSteps()
 		{
-			_tutorialPage.SkipButton.Click();
+			_tutorialPage.SkipTutorial();
 			Assert.That(_homePage.CreateNoteBtn.Displayed, Is.True);
 		}
 

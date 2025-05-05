@@ -22,10 +22,5 @@ namespace ApiDemos.Tests
 			var listElements = _driver.FindElements(MobileBy.AndroidUIAutomator("new UiSelector()"));
 			Assert.That(listElements, Is.Not.Null); 
 		}
-
-		private IWebElement ScrollToElement(string selector)
-		{
-			return _driver.FindElement(MobileBy.AndroidUIAutomator($"new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView({selector})"));
-		}
 	}
 }

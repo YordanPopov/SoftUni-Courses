@@ -26,10 +26,21 @@ test('Dropdowns', async ({ page }) => {
         let value = await option.textContent();
 
         if (value.includes('France')) {
-            await page.selectOption('#country', value);
+            await page.selectOption('#country', 'France');
             break;
         }
     }
 
     //await page.waitForTimeout(3000);
+});
+
+test('Multi select dropdown', async ({ page }) => {
+    await page.goto('https://testautomationpractice.blogspot.com');
+
+    const optionsToSelect = ['White', 'Green', 'Red'];
+    await page.selectOption('#colors', optionsToSelect);
+
+    const options = page.locator('#colors option');
+
+    await expect(options).toHaveCount(7);
 });

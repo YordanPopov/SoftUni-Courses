@@ -44,3 +44,44 @@ test('Multi select dropdown', async ({ page }) => {
 
     await expect(options).toHaveCount(7);
 });
+
+test('Hidden options dropdown', async ({ page }) => {
+    await page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
+
+    await page.getByPlaceholder('Username').fill('Admin');
+    await page.getByPlaceholder('Password').fill('admin123');
+    await page.getByRole('button', { type: 'submit' }).click();
+
+    await page.locator('//div[@class="oxd-sidepanel-body"]//ul/li/a/span[text()="PIM"]').click();
+
+    await page.locator('//div[@class="oxd-select-wrapper"]//div[@class="oxd-select-text--after"]/i').nth(2).click();
+
+    await page.waitForTimeout(3000);
+    const options = await page.$$('//div[@role="listbox"]//span');
+
+    for (const option of options) {
+        const jobTitle = await option.textContent();
+
+        if (jobTitle.includes('QA Engineer')) {
+            await option.click();
+        }
+    }
+
+    //await page.waitForTimeout(3000);
+});
+
+test.only('Auto suggest dropdown', async ({ page }) => {
+    await page.goto('https://www.redbus.in');
+
+    await page.click('//i[@class="icon___ceddca icon icon-boarding_point"]');
+    await page.click(`//div[contains(text(),'Mumbai')]`);
+
+    await page.click(`//div[contains(text(),'Aurangabad (Maharashtra)')]`)
+
+    await page.click(`//button[normalize-space()='Search buses']`);
+
+    await page.waitForTimeout(3000);
+
+    const pageUrl = await page.url();
+    expect(pageUrl).toContain('/bus-tickets/');
+});

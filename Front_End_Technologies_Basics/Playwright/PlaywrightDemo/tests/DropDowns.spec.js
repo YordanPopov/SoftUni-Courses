@@ -81,7 +81,7 @@ test.only('Auto suggest dropdown', async ({ page }) => {
     await page.click(`//button[normalize-space()='Search buses']`);
 
     await page.waitForTimeout(3000);
-
+    
     const pageUrl = await page.url();
     expect(pageUrl).toContain('/bus-tickets/');
 });
